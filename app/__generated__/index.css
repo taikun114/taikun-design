@@ -1,0 +1,1783 @@
+@layer presets {
+  :root {
+    display: grid;
+    min-height: 100%;
+    font-family: Arial, Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    white-space: pre-wrap;
+    white-space-collapse: preserve
+  }
+  a.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  body.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0
+  }
+  div.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  h1.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  h2.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  h3.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  h4.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  h5.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  header.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  main.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  p.w-element {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  div.w-html-embed {
+    display: contents;
+    white-space: normal;
+    white-space-collapse: collapse
+  }
+  div.w-navigation-menu {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  div.w-menu-list {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  div.w-menu-item {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  a.w-link {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    display: inline-block
+  }
+  button.w-button {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    text-transform: none;
+    margin: 0
+  }
+  div.w-text {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    min-height: 1em
+  }
+  div.w-box {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  div.w-menu-content {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  div.w-menu-viewport {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  p.w-paragraph {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  img.w-image {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    max-width: 100%;
+    display: block;
+    height: auto
+  }
+  div.w-markdown-embed {
+    display: contents;
+    white-space: normal;
+    white-space-collapse: collapse
+  }
+}
+@media all {
+  .ct4g75r {
+    display: flex
+  }
+  .c1y1b6pq {
+    justify-content: center
+  }
+  .cocsuzz {
+    align-items: center
+  }
+  .c1tjbx48 {
+    flex-direction: column
+  }
+  :root {
+    color-scheme: light dark;
+    color: light-dark(#000,#ddd);
+    font-family: "Golos Text", Murecho, sans-serif;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    background-color: light-dark(#d9eafe, #22354e)
+  }
+  .c11jmddu {
+    width: 100%
+  }
+  .c7a8s9g {
+    height: 5rem
+  }
+  .c1f2dxbp {
+    background-color: light-dark(#ffffffb3, #0f0f0fb3)
+  }
+  .choxsbt {
+    position: fixed
+  }
+  .cxmjziy {
+    top: 0px
+  }
+  .c1f1jont {
+    -webkit-backdrop-filter: blur(64px) saturate(250%);
+    backdrop-filter: blur(64px) saturate(250%)
+  }
+  .cjxy5gi {
+    box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.2)
+  }
+  .cj6mhg5 {
+    padding-left: max(1.5rem,env(safe-area-inset-left))
+  }
+  .cn7ss8j {
+    padding-right: max(1.5rem,env(safe-area-inset-left))
+  }
+  .cihy26h {
+    z-index: 5
+  }
+  .c1uhg4lu {
+    width: 100lvw
+  }
+  .c1r6gls1 {
+    height: 100lvh
+  }
+  .cwuyehs {
+    bottom: 0px
+  }
+  .c1jbuqru {
+    left: 0px
+  }
+  .c1xa9i4n {
+    right: 0px
+  }
+  .c1db2mhz {
+    background-color: light-dark(#fff4,#0004)
+  }
+  .c1hqo6wn {
+    -webkit-backdrop-filter: blur(8px) saturate(120%);
+    backdrop-filter: blur(8px) saturate(120%)
+  }
+  .c58tzbx {
+    z-index: -1
+  }
+  .c19si1a0 {
+    height: 100%
+  }
+  .c1aner8p {
+    max-width: 1200px
+  }
+  .c19ld4t3 {
+    justify-content: space-between
+  }
+  .ccf5130 {
+    display: inline-block
+  }
+  .cwxsh0x {
+    height: 55px
+  }
+  .c9v8fxr {
+    padding-bottom: 4px
+  }
+  .c1m016cw {
+    position: relative
+  }
+  .c2ww99b {
+    max-width: max-content
+  }
+  .cda76y0 {
+    flex-grow: 1
+  }
+  .cls9b32 {
+    flex-shrink: 1
+  }
+  .c1wvty80 {
+    flex-basis: 0
+  }
+  .c1rq55y7 {
+    list-style-type: none
+  }
+  .c134oyhg {
+    row-gap: 0.25rem
+  }
+  .cfjvzvs {
+    column-gap: 0.25rem
+  }
+  .cn40kyc {
+    margin: 0
+  }
+  .cam8jm9 {
+    padding: 0
+  }
+  .cj8oioq {
+    display: inline-flex
+  }
+  .cco206n {
+    font-size: 0.875rem
+  }
+  .c1ukjave {
+    line-height: 1.25rem
+  }
+  .c1ry58bl {
+    font-weight: 400
+  }
+  .claofh5 {
+    height: 2.25rem
+  }
+  .cwy62ol {
+    padding-top: 0
+  }
+  .c1m3lanm {
+    padding-right: 0.75rem
+  }
+  .crgs22s {
+    padding-bottom: 0
+  }
+  .c14ow0v7 {
+    padding-left: 0.75rem
+  }
+  .c1ehzuir {
+    text-decoration-line: none
+  }
+  .cwljrli {
+    color: light-dark(#000, #ddd)
+  }
+  .c157istk {
+    background-color: transparent
+  }
+  .c1m3qbs6 {
+    border-top-left-radius: 8px
+  }
+  .caxeu2k {
+    border-top-right-radius: 8px
+  }
+  .c11r3mbb {
+    border-bottom-left-radius: 8px
+  }
+  .ctkw6e7 {
+    border-bottom-right-radius: 8px
+  }
+  .czl1oq1 {
+    transition-property: background-color
+  }
+  .cjguz9e {
+    transition-duration: 200ms
+  }
+  .c150yh7g {
+    transition-timing-function: ease
+  }
+  .c10b6v8 {
+    transition-delay: 0ms
+  }
+  .c1v1vg3v {
+    transition-behavior: normal
+  }
+  .c18vmskg:focus-visible {
+    outline-width: 2px
+  }
+  .c1rk13jm:focus-visible {
+    outline-color: transparent
+  }
+  .c1xsk8d6:focus-visible {
+    outline-offset: 2px
+  }
+  .cg0iyc2:focus-visible {
+    background-color: light-dark(#00000012, #ffffff12)
+  }
+  .chn33ep:disabled {
+    pointer-events: none
+  }
+  .cfdop85:disabled {
+    opacity: 0.5
+  }
+  .cdhdmik:hover {
+    background-color: light-dark(#00000012, #ffffff12)
+  }
+  .c1iuves6 {
+    --navigation-menu-trigger-icon-transform: 0deg
+  }
+  .c1vatvfb {
+    border-top-style: none
+  }
+  .c1ti8bjw {
+    border-right-style: none
+  }
+  .cfjls63 {
+    border-left-style: none
+  }
+  .ce2zwk0 {
+    border-bottom-style: none
+  }
+  .c1uxvgeo:focus-visible {
+    border-top-style: none
+  }
+  .c17bypyq:focus-visible {
+    border-right-style: none
+  }
+  .c1mca3li:focus-visible {
+    border-left-style: none
+  }
+  .c1e4c1v5:focus-visible {
+    border-bottom-style: none
+  }
+  .c167vyz5:focus-visible {
+    background-color: light-dark(#00000012,#ffffff12)
+  }
+  .c1lflt38[data-state="open"] {
+    --navigation-menu-trigger-icon-transform: 180deg
+  }
+  .c1ibudx9:hover {
+    border-top-style: none
+  }
+  .c1jd08ry:hover {
+    border-right-style: none
+  }
+  .c1wcs2ef:hover {
+    border-left-style: none
+  }
+  .cg3axee:hover {
+    border-bottom-style: none
+  }
+  .c1b0zwzq:hover {
+    background-color: light-dark(#00000012,#ffffff12)
+  }
+  .c10sqp4 {
+    margin-left: 0.25rem
+  }
+  .ckib5o5 {
+    rotate: var(--navigation-menu-trigger-icon-transform)
+  }
+  .c1rqhae7 {
+    height: 1rem
+  }
+  .cind1dh {
+    width: 1rem
+  }
+  .c1h9nl72 {
+    flex-shrink: 0
+  }
+  .c1kojgtj {
+    transition-property: all
+  }
+  .c1nh4pz {
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1)
+  }
+  .cdmoyki {
+    transition-delay: 0s
+  }
+  .c1whxnw8 {
+    left: 0
+  }
+  .c158z65t {
+    top: 0
+  }
+  .c1uz88ym {
+    positon: absolute
+  }
+  .cwg8145 {
+    width: max-content
+  }
+  .c1eyvve6 {
+    max-height: 80dvh
+  }
+  .ct4gadu {
+    overflow-x: auto
+  }
+  .c198cupr {
+    overflow-y: auto
+  }
+  .c1hp69fk {
+    padding: 1rem
+  }
+  .c9nulm2 {
+    row-gap: 1rem
+  }
+  .crt9jac {
+    column-gap: 1rem
+  }
+  .c582q8m {
+    width: 16rem
+  }
+  .cv8t2l7 {
+    position: absolute
+  }
+  .c1secrwn {
+    top: 100%
+  }
+  .cidpb5r {
+    margin-top: 0.375rem
+  }
+  .cfhla1d {
+    overflow-x: hidden
+  }
+  .c9t2x99 {
+    overflow-y: hidden
+  }
+  .cs7860o {
+    border-top-left-radius: 24px
+  }
+  .c1uyh9k6 {
+    border-top-right-radius: 24px
+  }
+  .c1cjsarj {
+    border-bottom-right-radius: 24px
+  }
+  .chgvdfb {
+    border-bottom-left-radius: 24px
+  }
+  .cdyorid {
+    color: rgba(2, 8, 23, 1)
+  }
+  .c1mbw45i {
+    height: var(--radix-navigation-menu-viewport-height)
+  }
+  .c1rpzhwl {
+    width: var(--radix-navigation-menu-viewport-width)
+  }
+  .c16gohy0 {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 16px 0px
+  }
+  .cv37mi0 {
+    background-color: light-dark(#fff, #000)
+  }
+  .c1mz09bo {
+    z-index: 10
+  }
+  .c1yl218 {
+    transition-property: height
+  }
+  .cawwx57 {
+    color: inherit
+  }
+  .c16pbu2i {
+    -webkit-user-select: none;
+    user-select: none
+  }
+  .cugs37s {
+    line-height: 1
+  }
+  .cx8kb7m {
+    outline: medium none currentcolor
+  }
+  .c1dtvkfo {
+    padding: 0.75rem
+  }
+  .c822nso:hover {
+    color: rgba(15, 23, 42, 1)
+  }
+  .c12sln3g:focus {
+    background-color: light-dark(#00000012,#ffffff12)
+  }
+  .c1djmiof:focus {
+    color: rgba(15, 23, 42, 1)
+  }
+  .c1gy61b2 {
+    font-weight: 700
+  }
+  .c1okfwr3 {
+    display: -webkit-box
+  }
+  .c6fmvsk {
+    line-height: 1.375
+  }
+  .cdypgbk {
+    color: rgba(100, 116, 139, 1)
+  }
+  .c1q58oy7 {
+    display: none
+  }
+  .c1tivusm {
+    background-color: rgba(0, 143, 255, 1)
+  }
+  .cubyhfd {
+    padding-bottom: 0.5rem
+  }
+  .cndp0st {
+    padding-top: 0.5rem
+  }
+  .c1ro71nd {
+    padding-right: 0.7rem
+  }
+  .c17tcyw3 {
+    padding-left: 0.7rem
+  }
+  .cmmgvpm:focus-visible {
+    background-color: rgba(0, 120, 216, 1)
+  }
+  .clesgb5:hover {
+    background-color: rgba(0, 120, 216, 1)
+  }
+  .cb0rz9d {
+    min-height: 100vh
+  }
+  .c58ziie {
+    background-color: light-dark(#ffffffb3,#0f0f0fb3)
+  }
+  .c1a34am0 {
+    padding-top: 2rem
+  }
+  .c1dix9sw {
+    padding-right: max(2rem,env(safe-area-inset-left))
+  }
+  .chqy115 {
+    padding-bottom: max(2rem,env(safe-area-inset-bottom))
+  }
+  .c1n88sfr {
+    padding-left: max(2rem,env(safe-area-inset-left))
+  }
+  .c3if8z9 {
+    align-items: start
+  }
+  .cl3dhgm {
+    padding-top: 7rem
+  }
+  .cyeq9zr {
+    padding-bottom: 2rem
+  }
+  .cporl31 {
+    height: 256px
+  }
+  .ckxqmf8 {
+    background-color: light-dark(#6e8895,#192023)
+  }
+  .c1sghiiy {
+    justify-content: start
+  }
+  .c1npwdyc {
+    padding-left: 2rem
+  }
+  .c1wckod3 {
+    padding-right: 2rem
+  }
+  .c1crqcom {
+    min-width: max-content
+  }
+  .c3binlp {
+    flex-direction: row
+  }
+  .cmzzh0c {
+    display: block
+  }
+  .c3ln7z4 {
+    width: 64px
+  }
+  .c1fgf442 {
+    height: 64px
+  }
+  .c1tlrmno {
+    color: light-dark(#ffffff,#eeeeee)
+  }
+  .cc0vgw3 {
+    margin-top: 0
+  }
+  .c1tr50rt {
+    margin-bottom: 0
+  }
+  .cgcclyp {
+    font-size: 28px
+  }
+  .c5eec9w {
+    font-size: 18px
+  }
+  .c1b6k19k {
+    flex-wrap: wrap
+  }
+  .c1p61p2a {
+    row-gap: 0.5rem
+  }
+  .cuo95zk p {
+    margin-top: 0
+  }
+  .c1d46a6v p {
+    margin-bottom: 0
+  }
+  .c1bjy3xp img {
+    margin-top: 0
+  }
+  .c1mqkejs img {
+    margin-bottom: 0
+  }
+  .c1oxqnb img {
+    border-top-left-radius: 8px
+  }
+  .c1t8dldi img {
+    border-top-right-radius: 8px
+  }
+  .celsndy img {
+    border-bottom-left-radius: 8px
+  }
+  .cqz785v img {
+    border-bottom-right-radius: 8px
+  }
+  .c1d0k284 {
+    object-fit: cover
+  }
+  .c1h1vz2r {
+    overflow-x: visible
+  }
+  .c193ymo2 {
+    overflow-y: visible
+  }
+  .caalyvj {
+    width: auto
+  }
+  .cbj4ab8 {
+    object-position: 0% 50%
+  }
+  .ctgvzkp {
+    object-fit: contain
+  }
+  .citdfdm {
+    height: 48px
+  }
+  .c90ihpk {
+    column-gap: 3rem
+  }
+  .c1cxr4jp {
+    row-gap: 2rem
+  }
+  .c4v2d3m {
+    margin: -4px
+  }
+  .c16n9ye3 {
+    flex-grow: 0
+  }
+  .c1wz3v9x {
+    margin-top: -14px
+  }
+  .chj4q0r {
+    margin-top: -8px
+  }
+  .c1ax93o {
+    margin-bottom: -14px
+  }
+  .czvf8rz {
+    column-gap: 0.5rem
+  }
+  .c1c6hbjj {
+    color: light-dark(#000,#ddd)
+  }
+  .cnhgshd {
+    will-change: filter
+  }
+  .ccqamkh:hover {
+    font-weight: 700
+  }
+  .cwzq39h:hover {
+    text-shadow: 0px 0px 16px light-dark(#000,#fff)
+  }
+  .c1cu6z94:hover {
+    filter: brightness(150%)
+  }
+  .ckl24bg {
+    background-color: unset
+  }
+  .c1jwp7ay {
+    --view-timeline-name: --generated-timeline-V3Uk_OA0cG0x2_nXBL0IQ;
+    view-timeline-name: --generated-timeline-V3Uk_OA0cG0x2_nXBL0IQ
+  }
+  .cpgk30y {
+    --view-timeline-name: --generated-timeline-wYWm6Aw6ELzDeBgqVecWN;
+    view-timeline-name: --generated-timeline-wYWm6Aw6ELzDeBgqVecWN
+  }
+  .c126u88p {
+    height: 100vh
+  }
+  .c4hsupa {
+    --view-timeline-name: --generated-timeline-4I4z_xd0au98WmEx-aYGH;
+    view-timeline-name: --generated-timeline-4I4z_xd0au98WmEx-aYGH
+  }
+  .c16qpq94 {
+    background-image: linear-gradient(135deg,#00C5FF 0%,#0036FF 100%)
+  }
+  .c5n0g1o {
+    background-size: auto auto
+  }
+  .c1wbymx1 {
+    background-repeat: repeat
+  }
+  .css4u8g {
+    background-attachment: scroll
+  }
+  .cyr6vdj {
+    background-origin: padding-box
+  }
+  .cg1hler {
+    -webkit-background-clip: border-box;
+    background-clip: border-box
+  }
+  .ckcx4zm {
+    padding-left: 4rem
+  }
+  .c1g5fj4a {
+    padding-right: 4rem
+  }
+  .clap96c {
+    clip-path: polygon(var(--corner-radius) 0%,calc(100% + var(--corner-radius)*-0.9476) calc(var(--corner-radius)*0.0000),calc(100% + var(--corner-radius)*-0.8949) calc(var(--corner-radius)*0.0000),calc(100% + var(--corner-radius)*-0.8416) calc(var(--corner-radius)*0.0002),calc(100% + var(--corner-radius)*-0.7876) calc(var(--corner-radius)*0.0005),calc(100% + var(--corner-radius)*-0.7324) calc(var(--corner-radius)*0.0013),calc(100% + var(--corner-radius)*-0.6760) calc(var(--corner-radius)*0.0028),calc(100% + var(--corner-radius)*-0.6182) calc(var(--corner-radius)*0.0054),calc(100% + var(--corner-radius)*-0.5590) calc(var(--corner-radius)*0.0096),calc(100% + var(--corner-radius)*-0.4987) calc(var(--corner-radius)*0.0162),calc(100% + var(--corner-radius)*-0.4377) calc(var(--corner-radius)*0.0260),calc(100% + var(--corner-radius)*-0.3766) calc(var(--corner-radius)*0.0401),calc(100% + var(--corner-radius)*-0.3168) calc(var(--corner-radius)*0.0596),calc(100% + var(--corner-radius)*-0.2595) calc(var(--corner-radius)*0.0855),calc(100% + var(--corner-radius)*-0.2064) calc(var(--corner-radius)*0.1186),calc(100% + var(--corner-radius)*-0.1591) calc(var(--corner-radius)*0.1591),calc(100% + var(--corner-radius)*-0.1186) calc(var(--corner-radius)*0.2064),calc(100% + var(--corner-radius)*-0.0855) calc(var(--corner-radius)*0.2595),calc(100% + var(--corner-radius)*-0.0596) calc(var(--corner-radius)*0.3168),calc(100% + var(--corner-radius)*-0.0401) calc(var(--corner-radius)*0.3766),calc(100% + var(--corner-radius)*-0.0260) calc(var(--corner-radius)*0.4377),calc(100% + var(--corner-radius)*-0.0162) calc(var(--corner-radius)*0.4987),calc(100% + var(--corner-radius)*-0.0096) calc(var(--corner-radius)*0.5590),calc(100% + var(--corner-radius)*-0.0054) calc(var(--corner-radius)*0.6182),calc(100% + var(--corner-radius)*-0.0028) calc(var(--corner-radius)*0.6760),calc(100% + var(--corner-radius)*-0.0013) calc(var(--corner-radius)*0.7324),calc(100% + var(--corner-radius)*-0.0005) calc(var(--corner-radius)*0.7876),calc(100% + var(--corner-radius)*-0.0002) calc(var(--corner-radius)*0.8416),calc(100% + var(--corner-radius)*-0.0000) calc(var(--corner-radius)*0.8949),calc(100% + var(--corner-radius)*-0.0000) calc(var(--corner-radius)*0.9476),100% var(--corner-radius),calc(100% + var(--corner-radius)*-0.0000) calc(100% + var(--corner-radius)*-0.9476),calc(100% + var(--corner-radius)*-0.0000) calc(100% + var(--corner-radius)*-0.8949),calc(100% + var(--corner-radius)*-0.0002) calc(100% + var(--corner-radius)*-0.8416),calc(100% + var(--corner-radius)*-0.0005) calc(100% + var(--corner-radius)*-0.7876),calc(100% + var(--corner-radius)*-0.0013) calc(100% + var(--corner-radius)*-0.7324),calc(100% + var(--corner-radius)*-0.0028) calc(100% + var(--corner-radius)*-0.6760),calc(100% + var(--corner-radius)*-0.0054) calc(100% + var(--corner-radius)*-0.6182),calc(100% + var(--corner-radius)*-0.0096) calc(100% + var(--corner-radius)*-0.5590),calc(100% + var(--corner-radius)*-0.0162) calc(100% + var(--corner-radius)*-0.4987),calc(100% + var(--corner-radius)*-0.0260) calc(100% + var(--corner-radius)*-0.4377),calc(100% + var(--corner-radius)*-0.0401) calc(100% + var(--corner-radius)*-0.3766),calc(100% + var(--corner-radius)*-0.0596) calc(100% + var(--corner-radius)*-0.3168),calc(100% + var(--corner-radius)*-0.0855) calc(100% + var(--corner-radius)*-0.2595),calc(100% + var(--corner-radius)*-0.1186) calc(100% + var(--corner-radius)*-0.2064),calc(100% + var(--corner-radius)*-0.1591) calc(100% + var(--corner-radius)*-0.1591),calc(100% + var(--corner-radius)*-0.2064) calc(100% + var(--corner-radius)*-0.1186),calc(100% + var(--corner-radius)*-0.2595) calc(100% + var(--corner-radius)*-0.0855),calc(100% + var(--corner-radius)*-0.3168) calc(100% + var(--corner-radius)*-0.0596),calc(100% + var(--corner-radius)*-0.3766) calc(100% + var(--corner-radius)*-0.0401),calc(100% + var(--corner-radius)*-0.4377) calc(100% + var(--corner-radius)*-0.0260),calc(100% + var(--corner-radius)*-0.4987) calc(100% + var(--corner-radius)*-0.0162),calc(100% + var(--corner-radius)*-0.5590) calc(100% + var(--corner-radius)*-0.0096),calc(100% + var(--corner-radius)*-0.6182) calc(100% + var(--corner-radius)*-0.0054),calc(100% + var(--corner-radius)*-0.6760) calc(100% + var(--corner-radius)*-0.0028),calc(100% + var(--corner-radius)*-0.7324) calc(100% + var(--corner-radius)*-0.0013),calc(100% + var(--corner-radius)*-0.7876) calc(100% + var(--corner-radius)*-0.0005),calc(100% + var(--corner-radius)*-0.8416) calc(100% + var(--corner-radius)*-0.0002),calc(100% + var(--corner-radius)*-0.8949) calc(100% + var(--corner-radius)*-0.0000),calc(100% + var(--corner-radius)*-0.9476) calc(100% + var(--corner-radius)*-0.0000),calc(100% - var(--corner-radius)) 100%,calc(var(--corner-radius)*0.9476) calc(100% + var(--corner-radius)*-0.0000),calc(var(--corner-radius)*0.8949) calc(100% + var(--corner-radius)*-0.0000),calc(var(--corner-radius)*0.8416) calc(100% + var(--corner-radius)*-0.0002),calc(var(--corner-radius)*0.7876) calc(100% + var(--corner-radius)*-0.0005),calc(var(--corner-radius)*0.7324) calc(100% + var(--corner-radius)*-0.0013),calc(var(--corner-radius)*0.6760) calc(100% + var(--corner-radius)*-0.0028),calc(var(--corner-radius)*0.6182) calc(100% + var(--corner-radius)*-0.0054),calc(var(--corner-radius)*0.5590) calc(100% + var(--corner-radius)*-0.0096),calc(var(--corner-radius)*0.4987) calc(100% + var(--corner-radius)*-0.0162),calc(var(--corner-radius)*0.4377) calc(100% + var(--corner-radius)*-0.0260),calc(var(--corner-radius)*0.3766) calc(100% + var(--corner-radius)*-0.0401),calc(var(--corner-radius)*0.3168) calc(100% + var(--corner-radius)*-0.0596),calc(var(--corner-radius)*0.2595) calc(100% + var(--corner-radius)*-0.0855),calc(var(--corner-radius)*0.2064) calc(100% + var(--corner-radius)*-0.1186),calc(var(--corner-radius)*0.1591) calc(100% + var(--corner-radius)*-0.1591),calc(var(--corner-radius)*0.1186) calc(100% + var(--corner-radius)*-0.2064),calc(var(--corner-radius)*0.0855) calc(100% + var(--corner-radius)*-0.2595),calc(var(--corner-radius)*0.0596) calc(100% + var(--corner-radius)*-0.3168),calc(var(--corner-radius)*0.0401) calc(100% + var(--corner-radius)*-0.3766),calc(var(--corner-radius)*0.0260) calc(100% + var(--corner-radius)*-0.4377),calc(var(--corner-radius)*0.0162) calc(100% + var(--corner-radius)*-0.4987),calc(var(--corner-radius)*0.0096) calc(100% + var(--corner-radius)*-0.5590),calc(var(--corner-radius)*0.0054) calc(100% + var(--corner-radius)*-0.6182),calc(var(--corner-radius)*0.0028) calc(100% + var(--corner-radius)*-0.6760),calc(var(--corner-radius)*0.0013) calc(100% + var(--corner-radius)*-0.7324),calc(var(--corner-radius)*0.0005) calc(100% + var(--corner-radius)*-0.7876),calc(var(--corner-radius)*0.0002) calc(100% + var(--corner-radius)*-0.8416),calc(var(--corner-radius)*0.0000) calc(100% + var(--corner-radius)*-0.8949),calc(var(--corner-radius)*0.0000) calc(100% + var(--corner-radius)*-0.9476),0% calc(100% - var(--corner-radius)),calc(var(--corner-radius)*0.0000) calc(var(--corner-radius)*0.9476),calc(var(--corner-radius)*0.0000) calc(var(--corner-radius)*0.8949),calc(var(--corner-radius)*0.0002) calc(var(--corner-radius)*0.8416),calc(var(--corner-radius)*0.0005) calc(var(--corner-radius)*0.7876),calc(var(--corner-radius)*0.0013) calc(var(--corner-radius)*0.7324),calc(var(--corner-radius)*0.0028) calc(var(--corner-radius)*0.6760),calc(var(--corner-radius)*0.0054) calc(var(--corner-radius)*0.6182),calc(var(--corner-radius)*0.0096) calc(var(--corner-radius)*0.5590),calc(var(--corner-radius)*0.0162) calc(var(--corner-radius)*0.4987),calc(var(--corner-radius)*0.0260) calc(var(--corner-radius)*0.4377),calc(var(--corner-radius)*0.0401) calc(var(--corner-radius)*0.3766),calc(var(--corner-radius)*0.0596) calc(var(--corner-radius)*0.3168),calc(var(--corner-radius)*0.0855) calc(var(--corner-radius)*0.2595),calc(var(--corner-radius)*0.1186) calc(var(--corner-radius)*0.2064),calc(var(--corner-radius)*0.1591) calc(var(--corner-radius)*0.1591),calc(var(--corner-radius)*0.2064) calc(var(--corner-radius)*0.1186),calc(var(--corner-radius)*0.2595) calc(var(--corner-radius)*0.0855),calc(var(--corner-radius)*0.3168) calc(var(--corner-radius)*0.0596),calc(var(--corner-radius)*0.3766) calc(var(--corner-radius)*0.0401),calc(var(--corner-radius)*0.4377) calc(var(--corner-radius)*0.0260),calc(var(--corner-radius)*0.4987) calc(var(--corner-radius)*0.0162),calc(var(--corner-radius)*0.5590) calc(var(--corner-radius)*0.0096),calc(var(--corner-radius)*0.6182) calc(var(--corner-radius)*0.0054),calc(var(--corner-radius)*0.6760) calc(var(--corner-radius)*0.0028),calc(var(--corner-radius)*0.7324) calc(var(--corner-radius)*0.0013),calc(var(--corner-radius)*0.7876) calc(var(--corner-radius)*0.0005),calc(var(--corner-radius)*0.8416) calc(var(--corner-radius)*0.0002),calc(var(--corner-radius)*0.8949) calc(var(--corner-radius)*0.0000),calc(var(--corner-radius)*0.9476) calc(var(--corner-radius)*0.0000))
+  }
+  .c190be04 {
+    --corner-radius: 64px
+  }
+  .c17k0e6m {
+    box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.5)
+  }
+  .c11h7cy5 {
+    will-change: transform
+  }
+  .cppwozy {
+    background-position: 0% 0%
+  }
+  .cfgut53 {
+    filter: drop-shadow(0px 0px 16px rgba(0, 0, 0, 0.2))
+  }
+  .c18y60fr {
+    max-height: 128px
+  }
+  .c5zod9f {
+    bottom: 24px
+  }
+  .c6owbbv {
+    filter: opacity(0%) blur(0px)
+  }
+  .c1nrkz9b {
+    color: light-dark(#fff,#ddd)
+  }
+  .c1pmxdes {
+    height: 24px
+  }
+  .ch32ctd {
+    width: 24px
+  }
+  .cfnahqf {
+    row-gap: 4rem
+  }
+  .c15vm1iq {
+    column-gap: 4rem
+  }
+  .crzadsa {
+    padding-bottom: 4rem
+  }
+  .cqb0ii {
+    padding-top: 4rem
+  }
+  .c1q6nh43 {
+    color: light-dark(#0008, #ddd8)
+  }
+  .chfz6u3:hover {
+    color: light-dark(#000, #fff)
+  }
+  .ca7vie6:hover {
+    filter: drop-shadow(0px 0px 16px light-dark(#000,#fff))
+  }
+  .clfakye {
+    height: 32px
+  }
+  .c1fhmk8y {
+    width: 32px
+  }
+  .c461zsj:hover {
+    color: light-dark(#f00,#fff0f0)
+  }
+  .ciq9u43:hover {
+    filter: drop-shadow(0px 0px 16px light-dark(#ff0000,#ff6464))
+  }
+  .c1ci3qaf:hover {
+    color: light-dark(#f00, #fff0f0)
+  }
+  .c1tje76w {
+    border-top-left-radius: 32px
+  }
+  .c12kbdwo {
+    border-top-right-radius: 32px
+  }
+  .c1iczteg {
+    border-bottom-left-radius: 32px
+  }
+  .csu86aj {
+    border-bottom-right-radius: 32px
+  }
+  .c1abhfw2 {
+    max-width: 900px
+  }
+  .cbhth2e {
+    padding: 2rem
+  }
+  .c1uf8c0t {
+    width: 128px
+  }
+  .cuyh25w {
+    height: 128px
+  }
+  .co7usez {
+    border-top-left-radius: 64px
+  }
+  .c782zb9 {
+    border-top-right-radius: 64px
+  }
+  .c1q3g2hw {
+    border-bottom-left-radius: 64px
+  }
+  .c1m8fxnl {
+    border-bottom-right-radius: 64px
+  }
+  .cysmikg {
+    filter: blur(16px) brightness(150%) saturate(250%) opacity(50%)
+  }
+  .c1dt2aby {
+    top: -128px
+  }
+  .cqu6eha {
+    margin-bottom: -128px
+  }
+  .cab9hk {
+    font-size: 32px
+  }
+  .c166ei3g {
+    min-width: fit-content
+  }
+  .c1jprj79 {
+    column-gap: 4px
+  }
+  .c9hg2hx {
+    row-gap: 4px
+  }
+  .c1jp96eq {
+    font-size: 14px
+  }
+  .cpqya63 {
+    box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.2)
+  }
+  .cr8uxk4:hover {
+    box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.2)
+  }
+  .crosfk7 {
+    max-width: none
+  }
+  .c1a6qjea:hover {
+    filter: brightness(90%)
+  }
+  .c1ku7qgc {
+    align-items: end
+  }
+  .c1yafmq3 {
+    row-gap: 0.1rem
+  }
+  .cg5mfwo {
+    margin-top: 8px
+  }
+  .ckagbgx {
+    font-size: 16px
+  }
+  .ctv6apc {
+    line-height: 1.5
+  }
+  .c13akerz {
+    align-items: stretch
+  }
+  .c1mvilga {
+    justify-content: end
+  }
+  .c1yle5ob {
+    margin-right: -8px
+  }
+  .c18o0bzn {
+    filter: blur(16px) brightness(250%) saturate(250%) opacity(50%)
+  }
+  .ca1kfbf {
+    top: -64px
+  }
+  .cxel989 {
+    margin-bottom: -64px
+  }
+  .cbepowb {
+    margin-top: 4px
+  }
+  .csgwus8 {
+    height: 28px
+  }
+  .cxubj1j {
+    width: fit-content
+  }
+  .c1o6g7w8 {
+    margin-left: 2px
+  }
+  .ckrh36b {
+    background-image: linear-gradient(180deg,#94AFE8 0%,#204186 100%)
+  }
+  .c9elfib {
+    color: rgba(242, 244, 255, 1)
+  }
+  .c1udsxt8 {
+    filter: blur(16px) brightness(150%) opacity(50%)
+  }
+  .cits6ha {
+    margin-bottom: -4px
+  }
+  .cet7ilb {
+    height: 38px
+  }
+  .c1qfww1d {
+    text-shadow: 0px 0px 16px rgba(0, 0, 0, 0.5)
+  }
+  .c1113fza {
+    text-shadow: 0px 0px 16px rgba(0, 0, 0, 1)
+  }
+  .c16xlwjg {
+    line-height: 1.7
+  }
+  .cxndrrx p {
+    line-height: 1.7
+  }
+  .cf8037g p {
+    margin-top: 0.5rem
+  }
+  .c3iqyu2 p {
+    margin-bottom: 0.5rem
+  }
+  .c1q1lie2 p {
+    font-size: 16px
+  }
+  .c187qctq h1 {
+    font-size: 32px
+  }
+  .cx55plz h1 {
+    margin-top: 1rem
+  }
+  .c6fldc1 h1 {
+    margin-bottom: 1rem
+  }
+  .c1d83wf8 h1 {
+    border-top-style: solid
+  }
+  .c17n9b4v h1 {
+    border-right-style: solid
+  }
+  .c1loydth h1 {
+    border-left-style: solid
+  }
+  .cl63qmw h1 {
+    border-top-width: 0px
+  }
+  .c14xuhs0 h1 {
+    border-right-width: 0px
+  }
+  .czbj7hk h1 {
+    border-left-width: 0px
+  }
+  .cffdsq h1 {
+    padding-bottom: 1rem
+  }
+  .c1i9u06 h1 {
+    margin-left: -2rem
+  }
+  .cx2c1ht h1 {
+    padding-left: 2rem
+  }
+  .c1qh69yu h1 {
+    padding-right: 2rem
+  }
+  .c1wq6ewd h1 {
+    margin-right: -2rem
+  }
+  .cof58ch h1 {
+    border-bottom: 2px solid light-dark(#00000033,#ffffff33)
+  }
+  .c1kfhp41 h2 {
+    margin-top: 2rem
+  }
+  .crgsf3n h2 {
+    margin-bottom: 1rem
+  }
+  .c1q8qrkp h2 {
+    font-size: 28px
+  }
+  .c12zn2df h2 {
+    border-top-style: dashed
+  }
+  .cf2qku7 h2 {
+    border-right-style: dashed
+  }
+  .cjr3ta2 h2 {
+    border-left-style: dashed
+  }
+  .cvopsq9 h2 {
+    border-top-width: 0px
+  }
+  .c1fhhpk6 h2 {
+    border-right-width: 0px
+  }
+  .cd0jdml h2 {
+    border-left-width: 0px
+  }
+  .cn0ys0d h2 {
+    padding-bottom: 4px
+  }
+  .c8xelpf h2 {
+    border-bottom: 1px dashed light-dark(#00000033,#ffffff33)
+  }
+  .c1cfm54u h3 {
+    margin-top: 2rem
+  }
+  .c15p4oxn h3 {
+    margin-bottom: 1rem
+  }
+  .c1cjd21w h3 {
+    font-size: 24px
+  }
+  .c1h3c2y9 h4 {
+    margin-top: 2rem
+  }
+  .cdw2zcr h4 {
+    margin-bottom: 1rem
+  }
+  .cfjjkca h4 {
+    font-size: 20px
+  }
+  .cnuwdrm h5 {
+    font-size: 16px
+  }
+  .cok3aw6 h5 {
+    margin-top: 2rem
+  }
+  .cuubdzh h5 {
+    margin-bottom: 1rem
+  }
+  .cumr56w h6 {
+    font-size: 14px
+  }
+  .c1or3z3p h6 {
+    margin-top: 2rem
+  }
+  .c17gclxu h6 {
+    margin-bottom: 1rem
+  }
+  .c1ea95t0 a {
+    color: light-dark(#008fff, #00bbff)
+  }
+  .c2xavt3 a {
+    text-decoration-line: none
+  }
+  .cpt7rng a {
+    transition-property: all
+  }
+  .c153xn1f a {
+    transition-duration: 200ms
+  }
+  .c1kxgwnh a {
+    transition-timing-function: ease
+  }
+  .cikdijt a {
+    transition-delay: 0ms
+  }
+  .c1pktagu a {
+    transition-behavior: normal
+  }
+  .c1a7jy7c a {
+    will-change: filter
+  }
+  .cua6ep0 a:hover {
+    text-shadow: 0px 0px 16px rgba(0, 143, 255, 1)
+  }
+  .c1ey9net a:hover {
+    filter: brightness(150%)
+  }
+  .c1ohamsd a:hover {
+    color: light-dark(#006ec5, #008fff)
+  }
+  .c1fm9wqe img {
+    width: 100%
+  }
+  .c1ro2owf img {
+    margin-top: 2rem
+  }
+  .c7x716d img {
+    background-color: light-dark(#00000012,#ffffff12)
+  }
+  .c1uqt6ub img {
+    clip-path: polygon(var(--corner-radius) 0%,calc(100% + var(--corner-radius)*-0.9476) calc(var(--corner-radius)*0.0000),calc(100% + var(--corner-radius)*-0.8949) calc(var(--corner-radius)*0.0000),calc(100% + var(--corner-radius)*-0.8416) calc(var(--corner-radius)*0.0002),calc(100% + var(--corner-radius)*-0.7876) calc(var(--corner-radius)*0.0005),calc(100% + var(--corner-radius)*-0.7324) calc(var(--corner-radius)*0.0013),calc(100% + var(--corner-radius)*-0.6760) calc(var(--corner-radius)*0.0028),calc(100% + var(--corner-radius)*-0.6182) calc(var(--corner-radius)*0.0054),calc(100% + var(--corner-radius)*-0.5590) calc(var(--corner-radius)*0.0096),calc(100% + var(--corner-radius)*-0.4987) calc(var(--corner-radius)*0.0162),calc(100% + var(--corner-radius)*-0.4377) calc(var(--corner-radius)*0.0260),calc(100% + var(--corner-radius)*-0.3766) calc(var(--corner-radius)*0.0401),calc(100% + var(--corner-radius)*-0.3168) calc(var(--corner-radius)*0.0596),calc(100% + var(--corner-radius)*-0.2595) calc(var(--corner-radius)*0.0855),calc(100% + var(--corner-radius)*-0.2064) calc(var(--corner-radius)*0.1186),calc(100% + var(--corner-radius)*-0.1591) calc(var(--corner-radius)*0.1591),calc(100% + var(--corner-radius)*-0.1186) calc(var(--corner-radius)*0.2064),calc(100% + var(--corner-radius)*-0.0855) calc(var(--corner-radius)*0.2595),calc(100% + var(--corner-radius)*-0.0596) calc(var(--corner-radius)*0.3168),calc(100% + var(--corner-radius)*-0.0401) calc(var(--corner-radius)*0.3766),calc(100% + var(--corner-radius)*-0.0260) calc(var(--corner-radius)*0.4377),calc(100% + var(--corner-radius)*-0.0162) calc(var(--corner-radius)*0.4987),calc(100% + var(--corner-radius)*-0.0096) calc(var(--corner-radius)*0.5590),calc(100% + var(--corner-radius)*-0.0054) calc(var(--corner-radius)*0.6182),calc(100% + var(--corner-radius)*-0.0028) calc(var(--corner-radius)*0.6760),calc(100% + var(--corner-radius)*-0.0013) calc(var(--corner-radius)*0.7324),calc(100% + var(--corner-radius)*-0.0005) calc(var(--corner-radius)*0.7876),calc(100% + var(--corner-radius)*-0.0002) calc(var(--corner-radius)*0.8416),calc(100% + var(--corner-radius)*-0.0000) calc(var(--corner-radius)*0.8949),calc(100% + var(--corner-radius)*-0.0000) calc(var(--corner-radius)*0.9476),100% var(--corner-radius),calc(100% + var(--corner-radius)*-0.0000) calc(100% + var(--corner-radius)*-0.9476),calc(100% + var(--corner-radius)*-0.0000) calc(100% + var(--corner-radius)*-0.8949),calc(100% + var(--corner-radius)*-0.0002) calc(100% + var(--corner-radius)*-0.8416),calc(100% + var(--corner-radius)*-0.0005) calc(100% + var(--corner-radius)*-0.7876),calc(100% + var(--corner-radius)*-0.0013) calc(100% + var(--corner-radius)*-0.7324),calc(100% + var(--corner-radius)*-0.0028) calc(100% + var(--corner-radius)*-0.6760),calc(100% + var(--corner-radius)*-0.0054) calc(100% + var(--corner-radius)*-0.6182),calc(100% + var(--corner-radius)*-0.0096) calc(100% + var(--corner-radius)*-0.5590),calc(100% + var(--corner-radius)*-0.0162) calc(100% + var(--corner-radius)*-0.4987),calc(100% + var(--corner-radius)*-0.0260) calc(100% + var(--corner-radius)*-0.4377),calc(100% + var(--corner-radius)*-0.0401) calc(100% + var(--corner-radius)*-0.3766),calc(100% + var(--corner-radius)*-0.0596) calc(100% + var(--corner-radius)*-0.3168),calc(100% + var(--corner-radius)*-0.0855) calc(100% + var(--corner-radius)*-0.2595),calc(100% + var(--corner-radius)*-0.1186) calc(100% + var(--corner-radius)*-0.2064),calc(100% + var(--corner-radius)*-0.1591) calc(100% + var(--corner-radius)*-0.1591),calc(100% + var(--corner-radius)*-0.2064) calc(100% + var(--corner-radius)*-0.1186),calc(100% + var(--corner-radius)*-0.2595) calc(100% + var(--corner-radius)*-0.0855),calc(100% + var(--corner-radius)*-0.3168) calc(100% + var(--corner-radius)*-0.0596),calc(100% + var(--corner-radius)*-0.3766) calc(100% + var(--corner-radius)*-0.0401),calc(100% + var(--corner-radius)*-0.4377) calc(100% + var(--corner-radius)*-0.0260),calc(100% + var(--corner-radius)*-0.4987) calc(100% + var(--corner-radius)*-0.0162),calc(100% + var(--corner-radius)*-0.5590) calc(100% + var(--corner-radius)*-0.0096),calc(100% + var(--corner-radius)*-0.6182) calc(100% + var(--corner-radius)*-0.0054),calc(100% + var(--corner-radius)*-0.6760) calc(100% + var(--corner-radius)*-0.0028),calc(100% + var(--corner-radius)*-0.7324) calc(100% + var(--corner-radius)*-0.0013),calc(100% + var(--corner-radius)*-0.7876) calc(100% + var(--corner-radius)*-0.0005),calc(100% + var(--corner-radius)*-0.8416) calc(100% + var(--corner-radius)*-0.0002),calc(100% + var(--corner-radius)*-0.8949) calc(100% + var(--corner-radius)*-0.0000),calc(100% + var(--corner-radius)*-0.9476) calc(100% + var(--corner-radius)*-0.0000),calc(100% - var(--corner-radius)) 100%,calc(var(--corner-radius)*0.9476) calc(100% + var(--corner-radius)*-0.0000),calc(var(--corner-radius)*0.8949) calc(100% + var(--corner-radius)*-0.0000),calc(var(--corner-radius)*0.8416) calc(100% + var(--corner-radius)*-0.0002),calc(var(--corner-radius)*0.7876) calc(100% + var(--corner-radius)*-0.0005),calc(var(--corner-radius)*0.7324) calc(100% + var(--corner-radius)*-0.0013),calc(var(--corner-radius)*0.6760) calc(100% + var(--corner-radius)*-0.0028),calc(var(--corner-radius)*0.6182) calc(100% + var(--corner-radius)*-0.0054),calc(var(--corner-radius)*0.5590) calc(100% + var(--corner-radius)*-0.0096),calc(var(--corner-radius)*0.4987) calc(100% + var(--corner-radius)*-0.0162),calc(var(--corner-radius)*0.4377) calc(100% + var(--corner-radius)*-0.0260),calc(var(--corner-radius)*0.3766) calc(100% + var(--corner-radius)*-0.0401),calc(var(--corner-radius)*0.3168) calc(100% + var(--corner-radius)*-0.0596),calc(var(--corner-radius)*0.2595) calc(100% + var(--corner-radius)*-0.0855),calc(var(--corner-radius)*0.2064) calc(100% + var(--corner-radius)*-0.1186),calc(var(--corner-radius)*0.1591) calc(100% + var(--corner-radius)*-0.1591),calc(var(--corner-radius)*0.1186) calc(100% + var(--corner-radius)*-0.2064),calc(var(--corner-radius)*0.0855) calc(100% + var(--corner-radius)*-0.2595),calc(var(--corner-radius)*0.0596) calc(100% + var(--corner-radius)*-0.3168),calc(var(--corner-radius)*0.0401) calc(100% + var(--corner-radius)*-0.3766),calc(var(--corner-radius)*0.0260) calc(100% + var(--corner-radius)*-0.4377),calc(var(--corner-radius)*0.0162) calc(100% + var(--corner-radius)*-0.4987),calc(var(--corner-radius)*0.0096) calc(100% + var(--corner-radius)*-0.5590),calc(var(--corner-radius)*0.0054) calc(100% + var(--corner-radius)*-0.6182),calc(var(--corner-radius)*0.0028) calc(100% + var(--corner-radius)*-0.6760),calc(var(--corner-radius)*0.0013) calc(100% + var(--corner-radius)*-0.7324),calc(var(--corner-radius)*0.0005) calc(100% + var(--corner-radius)*-0.7876),calc(var(--corner-radius)*0.0002) calc(100% + var(--corner-radius)*-0.8416),calc(var(--corner-radius)*0.0000) calc(100% + var(--corner-radius)*-0.8949),calc(var(--corner-radius)*0.0000) calc(100% + var(--corner-radius)*-0.9476),0% calc(100% - var(--corner-radius)),calc(var(--corner-radius)*0.0000) calc(var(--corner-radius)*0.9476),calc(var(--corner-radius)*0.0000) calc(var(--corner-radius)*0.8949),calc(var(--corner-radius)*0.0002) calc(var(--corner-radius)*0.8416),calc(var(--corner-radius)*0.0005) calc(var(--corner-radius)*0.7876),calc(var(--corner-radius)*0.0013) calc(var(--corner-radius)*0.7324),calc(var(--corner-radius)*0.0028) calc(var(--corner-radius)*0.6760),calc(var(--corner-radius)*0.0054) calc(var(--corner-radius)*0.6182),calc(var(--corner-radius)*0.0096) calc(var(--corner-radius)*0.5590),calc(var(--corner-radius)*0.0162) calc(var(--corner-radius)*0.4987),calc(var(--corner-radius)*0.0260) calc(var(--corner-radius)*0.4377),calc(var(--corner-radius)*0.0401) calc(var(--corner-radius)*0.3766),calc(var(--corner-radius)*0.0596) calc(var(--corner-radius)*0.3168),calc(var(--corner-radius)*0.0855) calc(var(--corner-radius)*0.2595),calc(var(--corner-radius)*0.1186) calc(var(--corner-radius)*0.2064),calc(var(--corner-radius)*0.1591) calc(var(--corner-radius)*0.1591),calc(var(--corner-radius)*0.2064) calc(var(--corner-radius)*0.1186),calc(var(--corner-radius)*0.2595) calc(var(--corner-radius)*0.0855),calc(var(--corner-radius)*0.3168) calc(var(--corner-radius)*0.0596),calc(var(--corner-radius)*0.3766) calc(var(--corner-radius)*0.0401),calc(var(--corner-radius)*0.4377) calc(var(--corner-radius)*0.0260),calc(var(--corner-radius)*0.4987) calc(var(--corner-radius)*0.0162),calc(var(--corner-radius)*0.5590) calc(var(--corner-radius)*0.0096),calc(var(--corner-radius)*0.6182) calc(var(--corner-radius)*0.0054),calc(var(--corner-radius)*0.6760) calc(var(--corner-radius)*0.0028),calc(var(--corner-radius)*0.7324) calc(var(--corner-radius)*0.0013),calc(var(--corner-radius)*0.7876) calc(var(--corner-radius)*0.0005),calc(var(--corner-radius)*0.8416) calc(var(--corner-radius)*0.0002),calc(var(--corner-radius)*0.8949) calc(var(--corner-radius)*0.0000),calc(var(--corner-radius)*0.9476) calc(var(--corner-radius)*0.0000))
+  }
+  .cqe3f3i img {
+    max-height: 640px
+  }
+  .cbpo48t img {
+    object-fit: contain
+  }
+  .c1pjv3bs img {
+    --corner-radius: 24px
+  }
+  .cv0a9m img {
+    margin-bottom: 1rem
+  }
+  .c1550xw7 blockquote {
+    margin-left: 0
+  }
+  .c1bk2stw blockquote {
+    margin-right: 0
+  }
+  .c1pmn9ob blockquote {
+    margin-top: 1rem
+  }
+  .c49mrv5 blockquote {
+    margin-bottom: 1rem
+  }
+  .c10cce4s blockquote {
+    background-color: light-dark(#00000012,#ffffff12)
+  }
+  .c1o9vcwn blockquote {
+    clip-path: polygon(var(--corner-radius) 0%,calc(100% + var(--corner-radius)*-0.9476) calc(var(--corner-radius)*0.0000),calc(100% + var(--corner-radius)*-0.8949) calc(var(--corner-radius)*0.0000),calc(100% + var(--corner-radius)*-0.8416) calc(var(--corner-radius)*0.0002),calc(100% + var(--corner-radius)*-0.7876) calc(var(--corner-radius)*0.0005),calc(100% + var(--corner-radius)*-0.7324) calc(var(--corner-radius)*0.0013),calc(100% + var(--corner-radius)*-0.6760) calc(var(--corner-radius)*0.0028),calc(100% + var(--corner-radius)*-0.6182) calc(var(--corner-radius)*0.0054),calc(100% + var(--corner-radius)*-0.5590) calc(var(--corner-radius)*0.0096),calc(100% + var(--corner-radius)*-0.4987) calc(var(--corner-radius)*0.0162),calc(100% + var(--corner-radius)*-0.4377) calc(var(--corner-radius)*0.0260),calc(100% + var(--corner-radius)*-0.3766) calc(var(--corner-radius)*0.0401),calc(100% + var(--corner-radius)*-0.3168) calc(var(--corner-radius)*0.0596),calc(100% + var(--corner-radius)*-0.2595) calc(var(--corner-radius)*0.0855),calc(100% + var(--corner-radius)*-0.2064) calc(var(--corner-radius)*0.1186),calc(100% + var(--corner-radius)*-0.1591) calc(var(--corner-radius)*0.1591),calc(100% + var(--corner-radius)*-0.1186) calc(var(--corner-radius)*0.2064),calc(100% + var(--corner-radius)*-0.0855) calc(var(--corner-radius)*0.2595),calc(100% + var(--corner-radius)*-0.0596) calc(var(--corner-radius)*0.3168),calc(100% + var(--corner-radius)*-0.0401) calc(var(--corner-radius)*0.3766),calc(100% + var(--corner-radius)*-0.0260) calc(var(--corner-radius)*0.4377),calc(100% + var(--corner-radius)*-0.0162) calc(var(--corner-radius)*0.4987),calc(100% + var(--corner-radius)*-0.0096) calc(var(--corner-radius)*0.5590),calc(100% + var(--corner-radius)*-0.0054) calc(var(--corner-radius)*0.6182),calc(100% + var(--corner-radius)*-0.0028) calc(var(--corner-radius)*0.6760),calc(100% + var(--corner-radius)*-0.0013) calc(var(--corner-radius)*0.7324),calc(100% + var(--corner-radius)*-0.0005) calc(var(--corner-radius)*0.7876),calc(100% + var(--corner-radius)*-0.0002) calc(var(--corner-radius)*0.8416),calc(100% + var(--corner-radius)*-0.0000) calc(var(--corner-radius)*0.8949),calc(100% + var(--corner-radius)*-0.0000) calc(var(--corner-radius)*0.9476),100% var(--corner-radius),calc(100% + var(--corner-radius)*-0.0000) calc(100% + var(--corner-radius)*-0.9476),calc(100% + var(--corner-radius)*-0.0000) calc(100% + var(--corner-radius)*-0.8949),calc(100% + var(--corner-radius)*-0.0002) calc(100% + var(--corner-radius)*-0.8416),calc(100% + var(--corner-radius)*-0.0005) calc(100% + var(--corner-radius)*-0.7876),calc(100% + var(--corner-radius)*-0.0013) calc(100% + var(--corner-radius)*-0.7324),calc(100% + var(--corner-radius)*-0.0028) calc(100% + var(--corner-radius)*-0.6760),calc(100% + var(--corner-radius)*-0.0054) calc(100% + var(--corner-radius)*-0.6182),calc(100% + var(--corner-radius)*-0.0096) calc(100% + var(--corner-radius)*-0.5590),calc(100% + var(--corner-radius)*-0.0162) calc(100% + var(--corner-radius)*-0.4987),calc(100% + var(--corner-radius)*-0.0260) calc(100% + var(--corner-radius)*-0.4377),calc(100% + var(--corner-radius)*-0.0401) calc(100% + var(--corner-radius)*-0.3766),calc(100% + var(--corner-radius)*-0.0596) calc(100% + var(--corner-radius)*-0.3168),calc(100% + var(--corner-radius)*-0.0855) calc(100% + var(--corner-radius)*-0.2595),calc(100% + var(--corner-radius)*-0.1186) calc(100% + var(--corner-radius)*-0.2064),calc(100% + var(--corner-radius)*-0.1591) calc(100% + var(--corner-radius)*-0.1591),calc(100% + var(--corner-radius)*-0.2064) calc(100% + var(--corner-radius)*-0.1186),calc(100% + var(--corner-radius)*-0.2595) calc(100% + var(--corner-radius)*-0.0855),calc(100% + var(--corner-radius)*-0.3168) calc(100% + var(--corner-radius)*-0.0596),calc(100% + var(--corner-radius)*-0.3766) calc(100% + var(--corner-radius)*-0.0401),calc(100% + var(--corner-radius)*-0.4377) calc(100% + var(--corner-radius)*-0.0260),calc(100% + var(--corner-radius)*-0.4987) calc(100% + var(--corner-radius)*-0.0162),calc(100% + var(--corner-radius)*-0.5590) calc(100% + var(--corner-radius)*-0.0096),calc(100% + var(--corner-radius)*-0.6182) calc(100% + var(--corner-radius)*-0.0054),calc(100% + var(--corner-radius)*-0.6760) calc(100% + var(--corner-radius)*-0.0028),calc(100% + var(--corner-radius)*-0.7324) calc(100% + var(--corner-radius)*-0.0013),calc(100% + var(--corner-radius)*-0.7876) calc(100% + var(--corner-radius)*-0.0005),calc(100% + var(--corner-radius)*-0.8416) calc(100% + var(--corner-radius)*-0.0002),calc(100% + var(--corner-radius)*-0.8949) calc(100% + var(--corner-radius)*-0.0000),calc(100% + var(--corner-radius)*-0.9476) calc(100% + var(--corner-radius)*-0.0000),calc(100% - var(--corner-radius)) 100%,calc(var(--corner-radius)*0.9476) calc(100% + var(--corner-radius)*-0.0000),calc(var(--corner-radius)*0.8949) calc(100% + var(--corner-radius)*-0.0000),calc(var(--corner-radius)*0.8416) calc(100% + var(--corner-radius)*-0.0002),calc(var(--corner-radius)*0.7876) calc(100% + var(--corner-radius)*-0.0005),calc(var(--corner-radius)*0.7324) calc(100% + var(--corner-radius)*-0.0013),calc(var(--corner-radius)*0.6760) calc(100% + var(--corner-radius)*-0.0028),calc(var(--corner-radius)*0.6182) calc(100% + var(--corner-radius)*-0.0054),calc(var(--corner-radius)*0.5590) calc(100% + var(--corner-radius)*-0.0096),calc(var(--corner-radius)*0.4987) calc(100% + var(--corner-radius)*-0.0162),calc(var(--corner-radius)*0.4377) calc(100% + var(--corner-radius)*-0.0260),calc(var(--corner-radius)*0.3766) calc(100% + var(--corner-radius)*-0.0401),calc(var(--corner-radius)*0.3168) calc(100% + var(--corner-radius)*-0.0596),calc(var(--corner-radius)*0.2595) calc(100% + var(--corner-radius)*-0.0855),calc(var(--corner-radius)*0.2064) calc(100% + var(--corner-radius)*-0.1186),calc(var(--corner-radius)*0.1591) calc(100% + var(--corner-radius)*-0.1591),calc(var(--corner-radius)*0.1186) calc(100% + var(--corner-radius)*-0.2064),calc(var(--corner-radius)*0.0855) calc(100% + var(--corner-radius)*-0.2595),calc(var(--corner-radius)*0.0596) calc(100% + var(--corner-radius)*-0.3168),calc(var(--corner-radius)*0.0401) calc(100% + var(--corner-radius)*-0.3766),calc(var(--corner-radius)*0.0260) calc(100% + var(--corner-radius)*-0.4377),calc(var(--corner-radius)*0.0162) calc(100% + var(--corner-radius)*-0.4987),calc(var(--corner-radius)*0.0096) calc(100% + var(--corner-radius)*-0.5590),calc(var(--corner-radius)*0.0054) calc(100% + var(--corner-radius)*-0.6182),calc(var(--corner-radius)*0.0028) calc(100% + var(--corner-radius)*-0.6760),calc(var(--corner-radius)*0.0013) calc(100% + var(--corner-radius)*-0.7324),calc(var(--corner-radius)*0.0005) calc(100% + var(--corner-radius)*-0.7876),calc(var(--corner-radius)*0.0002) calc(100% + var(--corner-radius)*-0.8416),calc(var(--corner-radius)*0.0000) calc(100% + var(--corner-radius)*-0.8949),calc(var(--corner-radius)*0.0000) calc(100% + var(--corner-radius)*-0.9476),0% calc(100% - var(--corner-radius)),calc(var(--corner-radius)*0.0000) calc(var(--corner-radius)*0.9476),calc(var(--corner-radius)*0.0000) calc(var(--corner-radius)*0.8949),calc(var(--corner-radius)*0.0002) calc(var(--corner-radius)*0.8416),calc(var(--corner-radius)*0.0005) calc(var(--corner-radius)*0.7876),calc(var(--corner-radius)*0.0013) calc(var(--corner-radius)*0.7324),calc(var(--corner-radius)*0.0028) calc(var(--corner-radius)*0.6760),calc(var(--corner-radius)*0.0054) calc(var(--corner-radius)*0.6182),calc(var(--corner-radius)*0.0096) calc(var(--corner-radius)*0.5590),calc(var(--corner-radius)*0.0162) calc(var(--corner-radius)*0.4987),calc(var(--corner-radius)*0.0260) calc(var(--corner-radius)*0.4377),calc(var(--corner-radius)*0.0401) calc(var(--corner-radius)*0.3766),calc(var(--corner-radius)*0.0596) calc(var(--corner-radius)*0.3168),calc(var(--corner-radius)*0.0855) calc(var(--corner-radius)*0.2595),calc(var(--corner-radius)*0.1186) calc(var(--corner-radius)*0.2064),calc(var(--corner-radius)*0.1591) calc(var(--corner-radius)*0.1591),calc(var(--corner-radius)*0.2064) calc(var(--corner-radius)*0.1186),calc(var(--corner-radius)*0.2595) calc(var(--corner-radius)*0.0855),calc(var(--corner-radius)*0.3168) calc(var(--corner-radius)*0.0596),calc(var(--corner-radius)*0.3766) calc(var(--corner-radius)*0.0401),calc(var(--corner-radius)*0.4377) calc(var(--corner-radius)*0.0260),calc(var(--corner-radius)*0.4987) calc(var(--corner-radius)*0.0162),calc(var(--corner-radius)*0.5590) calc(var(--corner-radius)*0.0096),calc(var(--corner-radius)*0.6182) calc(var(--corner-radius)*0.0054),calc(var(--corner-radius)*0.6760) calc(var(--corner-radius)*0.0028),calc(var(--corner-radius)*0.7324) calc(var(--corner-radius)*0.0013),calc(var(--corner-radius)*0.7876) calc(var(--corner-radius)*0.0005),calc(var(--corner-radius)*0.8416) calc(var(--corner-radius)*0.0002),calc(var(--corner-radius)*0.8949) calc(var(--corner-radius)*0.0000),calc(var(--corner-radius)*0.9476) calc(var(--corner-radius)*0.0000))
+  }
+  .cu3g5le blockquote {
+    --corner-radius: 24px
+  }
+  .c1lsxwhi blockquote {
+    border-top: 0px solid rgba(0, 143, 255, 1)
+  }
+  .c4rz8oy blockquote {
+    border-right: 0px solid rgba(0, 143, 255, 1)
+  }
+  .ctmrmrm blockquote {
+    border-bottom: 0px solid rgba(0, 143, 255, 1)
+  }
+  .c3aymz6 blockquote {
+    border-left: 8px solid rgba(0, 143, 255, 1)
+  }
+  .c1mfdgii blockquote {
+    padding: 1rem
+  }
+  .c16hwedg code {
+    background-color: light-dark(#00000012,#ffffff12)
+  }
+  .crrazj7 code {
+    padding-right: 6px
+  }
+  .c1227xvc code {
+    padding-left: 6px
+  }
+  .cl5fyvo code {
+    margin-bottom: 4px
+  }
+  .ch4j5ld code {
+    margin-top: 4px
+  }
+  .c6e8cvq code {
+    clip-path: polygon(var(--corner-radius) 0%,calc(100% + var(--corner-radius)*-0.9476) calc(var(--corner-radius)*0.0000),calc(100% + var(--corner-radius)*-0.8949) calc(var(--corner-radius)*0.0000),calc(100% + var(--corner-radius)*-0.8416) calc(var(--corner-radius)*0.0002),calc(100% + var(--corner-radius)*-0.7876) calc(var(--corner-radius)*0.0005),calc(100% + var(--corner-radius)*-0.7324) calc(var(--corner-radius)*0.0013),calc(100% + var(--corner-radius)*-0.6760) calc(var(--corner-radius)*0.0028),calc(100% + var(--corner-radius)*-0.6182) calc(var(--corner-radius)*0.0054),calc(100% + var(--corner-radius)*-0.5590) calc(var(--corner-radius)*0.0096),calc(100% + var(--corner-radius)*-0.4987) calc(var(--corner-radius)*0.0162),calc(100% + var(--corner-radius)*-0.4377) calc(var(--corner-radius)*0.0260),calc(100% + var(--corner-radius)*-0.3766) calc(var(--corner-radius)*0.0401),calc(100% + var(--corner-radius)*-0.3168) calc(var(--corner-radius)*0.0596),calc(100% + var(--corner-radius)*-0.2595) calc(var(--corner-radius)*0.0855),calc(100% + var(--corner-radius)*-0.2064) calc(var(--corner-radius)*0.1186),calc(100% + var(--corner-radius)*-0.1591) calc(var(--corner-radius)*0.1591),calc(100% + var(--corner-radius)*-0.1186) calc(var(--corner-radius)*0.2064),calc(100% + var(--corner-radius)*-0.0855) calc(var(--corner-radius)*0.2595),calc(100% + var(--corner-radius)*-0.0596) calc(var(--corner-radius)*0.3168),calc(100% + var(--corner-radius)*-0.0401) calc(var(--corner-radius)*0.3766),calc(100% + var(--corner-radius)*-0.0260) calc(var(--corner-radius)*0.4377),calc(100% + var(--corner-radius)*-0.0162) calc(var(--corner-radius)*0.4987),calc(100% + var(--corner-radius)*-0.0096) calc(var(--corner-radius)*0.5590),calc(100% + var(--corner-radius)*-0.0054) calc(var(--corner-radius)*0.6182),calc(100% + var(--corner-radius)*-0.0028) calc(var(--corner-radius)*0.6760),calc(100% + var(--corner-radius)*-0.0013) calc(var(--corner-radius)*0.7324),calc(100% + var(--corner-radius)*-0.0005) calc(var(--corner-radius)*0.7876),calc(100% + var(--corner-radius)*-0.0002) calc(var(--corner-radius)*0.8416),calc(100% + var(--corner-radius)*-0.0000) calc(var(--corner-radius)*0.8949),calc(100% + var(--corner-radius)*-0.0000) calc(var(--corner-radius)*0.9476),100% var(--corner-radius),calc(100% + var(--corner-radius)*-0.0000) calc(100% + var(--corner-radius)*-0.9476),calc(100% + var(--corner-radius)*-0.0000) calc(100% + var(--corner-radius)*-0.8949),calc(100% + var(--corner-radius)*-0.0002) calc(100% + var(--corner-radius)*-0.8416),calc(100% + var(--corner-radius)*-0.0005) calc(100% + var(--corner-radius)*-0.7876),calc(100% + var(--corner-radius)*-0.0013) calc(100% + var(--corner-radius)*-0.7324),calc(100% + var(--corner-radius)*-0.0028) calc(100% + var(--corner-radius)*-0.6760),calc(100% + var(--corner-radius)*-0.0054) calc(100% + var(--corner-radius)*-0.6182),calc(100% + var(--corner-radius)*-0.0096) calc(100% + var(--corner-radius)*-0.5590),calc(100% + var(--corner-radius)*-0.0162) calc(100% + var(--corner-radius)*-0.4987),calc(100% + var(--corner-radius)*-0.0260) calc(100% + var(--corner-radius)*-0.4377),calc(100% + var(--corner-radius)*-0.0401) calc(100% + var(--corner-radius)*-0.3766),calc(100% + var(--corner-radius)*-0.0596) calc(100% + var(--corner-radius)*-0.3168),calc(100% + var(--corner-radius)*-0.0855) calc(100% + var(--corner-radius)*-0.2595),calc(100% + var(--corner-radius)*-0.1186) calc(100% + var(--corner-radius)*-0.2064),calc(100% + var(--corner-radius)*-0.1591) calc(100% + var(--corner-radius)*-0.1591),calc(100% + var(--corner-radius)*-0.2064) calc(100% + var(--corner-radius)*-0.1186),calc(100% + var(--corner-radius)*-0.2595) calc(100% + var(--corner-radius)*-0.0855),calc(100% + var(--corner-radius)*-0.3168) calc(100% + var(--corner-radius)*-0.0596),calc(100% + var(--corner-radius)*-0.3766) calc(100% + var(--corner-radius)*-0.0401),calc(100% + var(--corner-radius)*-0.4377) calc(100% + var(--corner-radius)*-0.0260),calc(100% + var(--corner-radius)*-0.4987) calc(100% + var(--corner-radius)*-0.0162),calc(100% + var(--corner-radius)*-0.5590) calc(100% + var(--corner-radius)*-0.0096),calc(100% + var(--corner-radius)*-0.6182) calc(100% + var(--corner-radius)*-0.0054),calc(100% + var(--corner-radius)*-0.6760) calc(100% + var(--corner-radius)*-0.0028),calc(100% + var(--corner-radius)*-0.7324) calc(100% + var(--corner-radius)*-0.0013),calc(100% + var(--corner-radius)*-0.7876) calc(100% + var(--corner-radius)*-0.0005),calc(100% + var(--corner-radius)*-0.8416) calc(100% + var(--corner-radius)*-0.0002),calc(100% + var(--corner-radius)*-0.8949) calc(100% + var(--corner-radius)*-0.0000),calc(100% + var(--corner-radius)*-0.9476) calc(100% + var(--corner-radius)*-0.0000),calc(100% - var(--corner-radius)) 100%,calc(var(--corner-radius)*0.9476) calc(100% + var(--corner-radius)*-0.0000),calc(var(--corner-radius)*0.8949) calc(100% + var(--corner-radius)*-0.0000),calc(var(--corner-radius)*0.8416) calc(100% + var(--corner-radius)*-0.0002),calc(var(--corner-radius)*0.7876) calc(100% + var(--corner-radius)*-0.0005),calc(var(--corner-radius)*0.7324) calc(100% + var(--corner-radius)*-0.0013),calc(var(--corner-radius)*0.6760) calc(100% + var(--corner-radius)*-0.0028),calc(var(--corner-radius)*0.6182) calc(100% + var(--corner-radius)*-0.0054),calc(var(--corner-radius)*0.5590) calc(100% + var(--corner-radius)*-0.0096),calc(var(--corner-radius)*0.4987) calc(100% + var(--corner-radius)*-0.0162),calc(var(--corner-radius)*0.4377) calc(100% + var(--corner-radius)*-0.0260),calc(var(--corner-radius)*0.3766) calc(100% + var(--corner-radius)*-0.0401),calc(var(--corner-radius)*0.3168) calc(100% + var(--corner-radius)*-0.0596),calc(var(--corner-radius)*0.2595) calc(100% + var(--corner-radius)*-0.0855),calc(var(--corner-radius)*0.2064) calc(100% + var(--corner-radius)*-0.1186),calc(var(--corner-radius)*0.1591) calc(100% + var(--corner-radius)*-0.1591),calc(var(--corner-radius)*0.1186) calc(100% + var(--corner-radius)*-0.2064),calc(var(--corner-radius)*0.0855) calc(100% + var(--corner-radius)*-0.2595),calc(var(--corner-radius)*0.0596) calc(100% + var(--corner-radius)*-0.3168),calc(var(--corner-radius)*0.0401) calc(100% + var(--corner-radius)*-0.3766),calc(var(--corner-radius)*0.0260) calc(100% + var(--corner-radius)*-0.4377),calc(var(--corner-radius)*0.0162) calc(100% + var(--corner-radius)*-0.4987),calc(var(--corner-radius)*0.0096) calc(100% + var(--corner-radius)*-0.5590),calc(var(--corner-radius)*0.0054) calc(100% + var(--corner-radius)*-0.6182),calc(var(--corner-radius)*0.0028) calc(100% + var(--corner-radius)*-0.6760),calc(var(--corner-radius)*0.0013) calc(100% + var(--corner-radius)*-0.7324),calc(var(--corner-radius)*0.0005) calc(100% + var(--corner-radius)*-0.7876),calc(var(--corner-radius)*0.0002) calc(100% + var(--corner-radius)*-0.8416),calc(var(--corner-radius)*0.0000) calc(100% + var(--corner-radius)*-0.8949),calc(var(--corner-radius)*0.0000) calc(100% + var(--corner-radius)*-0.9476),0% calc(100% - var(--corner-radius)),calc(var(--corner-radius)*0.0000) calc(var(--corner-radius)*0.9476),calc(var(--corner-radius)*0.0000) calc(var(--corner-radius)*0.8949),calc(var(--corner-radius)*0.0002) calc(var(--corner-radius)*0.8416),calc(var(--corner-radius)*0.0005) calc(var(--corner-radius)*0.7876),calc(var(--corner-radius)*0.0013) calc(var(--corner-radius)*0.7324),calc(var(--corner-radius)*0.0028) calc(var(--corner-radius)*0.6760),calc(var(--corner-radius)*0.0054) calc(var(--corner-radius)*0.6182),calc(var(--corner-radius)*0.0096) calc(var(--corner-radius)*0.5590),calc(var(--corner-radius)*0.0162) calc(var(--corner-radius)*0.4987),calc(var(--corner-radius)*0.0260) calc(var(--corner-radius)*0.4377),calc(var(--corner-radius)*0.0401) calc(var(--corner-radius)*0.3766),calc(var(--corner-radius)*0.0596) calc(var(--corner-radius)*0.3168),calc(var(--corner-radius)*0.0855) calc(var(--corner-radius)*0.2595),calc(var(--corner-radius)*0.1186) calc(var(--corner-radius)*0.2064),calc(var(--corner-radius)*0.1591) calc(var(--corner-radius)*0.1591),calc(var(--corner-radius)*0.2064) calc(var(--corner-radius)*0.1186),calc(var(--corner-radius)*0.2595) calc(var(--corner-radius)*0.0855),calc(var(--corner-radius)*0.3168) calc(var(--corner-radius)*0.0596),calc(var(--corner-radius)*0.3766) calc(var(--corner-radius)*0.0401),calc(var(--corner-radius)*0.4377) calc(var(--corner-radius)*0.0260),calc(var(--corner-radius)*0.4987) calc(var(--corner-radius)*0.0162),calc(var(--corner-radius)*0.5590) calc(var(--corner-radius)*0.0096),calc(var(--corner-radius)*0.6182) calc(var(--corner-radius)*0.0054),calc(var(--corner-radius)*0.6760) calc(var(--corner-radius)*0.0028),calc(var(--corner-radius)*0.7324) calc(var(--corner-radius)*0.0013),calc(var(--corner-radius)*0.7876) calc(var(--corner-radius)*0.0005),calc(var(--corner-radius)*0.8416) calc(var(--corner-radius)*0.0002),calc(var(--corner-radius)*0.8949) calc(var(--corner-radius)*0.0000),calc(var(--corner-radius)*0.9476) calc(var(--corner-radius)*0.0000))
+  }
+  .c12e3s1y code {
+    --corner-radius: 16px
+  }
+  .csw7j5r code {
+    padding-top: 4px
+  }
+  .cky6ym8 code {
+    padding-bottom: 4px
+  }
+  .c547w5o :where(ul, ol) {
+    line-height: 2
+  }
+  .c3cfvjt :where(ul, ol) {
+    margin-top: 0
+  }
+  .c19dkzng :where(ul, ol) {
+    margin-bottom: 0
+  }
+  .cg13vyz li {
+    margin-left: -16px
+  }
+  .cf0hryz hr {
+    border-top-color: light-dark(#00000033,#ffffff33)
+  }
+  .ccpsdax hr {
+    border-right-color: light-dark(#00000033,#ffffff33)
+  }
+  .cmzgnie hr {
+    border-bottom-color: light-dark(#00000033,#ffffff33)
+  }
+  .c6wsx9k hr {
+    border-left-color: light-dark(#00000033,#ffffff33)
+  }
+  .c1iph6ta hr {
+    border-top-width: 2px
+  }
+  .coi32mb hr {
+    border-right-width: 2px
+  }
+  .c14z9kd1 hr {
+    border-left-width: 2px
+  }
+  .cr7408s hr {
+    border-bottom-width: 2px
+  }
+  .cpc7ghb hr {
+    margin-top: 2rem
+  }
+  .czznmil hr {
+    margin-bottom: 2rem
+  }
+  .caa194n table {
+    width: 100%
+  }
+  .c3y8yd3 table {
+    clip-path: polygon(var(--corner-radius) 0%,calc(100% + var(--corner-radius)*-0.9476) calc(var(--corner-radius)*0.0000),calc(100% + var(--corner-radius)*-0.8949) calc(var(--corner-radius)*0.0000),calc(100% + var(--corner-radius)*-0.8416) calc(var(--corner-radius)*0.0002),calc(100% + var(--corner-radius)*-0.7876) calc(var(--corner-radius)*0.0005),calc(100% + var(--corner-radius)*-0.7324) calc(var(--corner-radius)*0.0013),calc(100% + var(--corner-radius)*-0.6760) calc(var(--corner-radius)*0.0028),calc(100% + var(--corner-radius)*-0.6182) calc(var(--corner-radius)*0.0054),calc(100% + var(--corner-radius)*-0.5590) calc(var(--corner-radius)*0.0096),calc(100% + var(--corner-radius)*-0.4987) calc(var(--corner-radius)*0.0162),calc(100% + var(--corner-radius)*-0.4377) calc(var(--corner-radius)*0.0260),calc(100% + var(--corner-radius)*-0.3766) calc(var(--corner-radius)*0.0401),calc(100% + var(--corner-radius)*-0.3168) calc(var(--corner-radius)*0.0596),calc(100% + var(--corner-radius)*-0.2595) calc(var(--corner-radius)*0.0855),calc(100% + var(--corner-radius)*-0.2064) calc(var(--corner-radius)*0.1186),calc(100% + var(--corner-radius)*-0.1591) calc(var(--corner-radius)*0.1591),calc(100% + var(--corner-radius)*-0.1186) calc(var(--corner-radius)*0.2064),calc(100% + var(--corner-radius)*-0.0855) calc(var(--corner-radius)*0.2595),calc(100% + var(--corner-radius)*-0.0596) calc(var(--corner-radius)*0.3168),calc(100% + var(--corner-radius)*-0.0401) calc(var(--corner-radius)*0.3766),calc(100% + var(--corner-radius)*-0.0260) calc(var(--corner-radius)*0.4377),calc(100% + var(--corner-radius)*-0.0162) calc(var(--corner-radius)*0.4987),calc(100% + var(--corner-radius)*-0.0096) calc(var(--corner-radius)*0.5590),calc(100% + var(--corner-radius)*-0.0054) calc(var(--corner-radius)*0.6182),calc(100% + var(--corner-radius)*-0.0028) calc(var(--corner-radius)*0.6760),calc(100% + var(--corner-radius)*-0.0013) calc(var(--corner-radius)*0.7324),calc(100% + var(--corner-radius)*-0.0005) calc(var(--corner-radius)*0.7876),calc(100% + var(--corner-radius)*-0.0002) calc(var(--corner-radius)*0.8416),calc(100% + var(--corner-radius)*-0.0000) calc(var(--corner-radius)*0.8949),calc(100% + var(--corner-radius)*-0.0000) calc(var(--corner-radius)*0.9476),100% var(--corner-radius),calc(100% + var(--corner-radius)*-0.0000) calc(100% + var(--corner-radius)*-0.9476),calc(100% + var(--corner-radius)*-0.0000) calc(100% + var(--corner-radius)*-0.8949),calc(100% + var(--corner-radius)*-0.0002) calc(100% + var(--corner-radius)*-0.8416),calc(100% + var(--corner-radius)*-0.0005) calc(100% + var(--corner-radius)*-0.7876),calc(100% + var(--corner-radius)*-0.0013) calc(100% + var(--corner-radius)*-0.7324),calc(100% + var(--corner-radius)*-0.0028) calc(100% + var(--corner-radius)*-0.6760),calc(100% + var(--corner-radius)*-0.0054) calc(100% + var(--corner-radius)*-0.6182),calc(100% + var(--corner-radius)*-0.0096) calc(100% + var(--corner-radius)*-0.5590),calc(100% + var(--corner-radius)*-0.0162) calc(100% + var(--corner-radius)*-0.4987),calc(100% + var(--corner-radius)*-0.0260) calc(100% + var(--corner-radius)*-0.4377),calc(100% + var(--corner-radius)*-0.0401) calc(100% + var(--corner-radius)*-0.3766),calc(100% + var(--corner-radius)*-0.0596) calc(100% + var(--corner-radius)*-0.3168),calc(100% + var(--corner-radius)*-0.0855) calc(100% + var(--corner-radius)*-0.2595),calc(100% + var(--corner-radius)*-0.1186) calc(100% + var(--corner-radius)*-0.2064),calc(100% + var(--corner-radius)*-0.1591) calc(100% + var(--corner-radius)*-0.1591),calc(100% + var(--corner-radius)*-0.2064) calc(100% + var(--corner-radius)*-0.1186),calc(100% + var(--corner-radius)*-0.2595) calc(100% + var(--corner-radius)*-0.0855),calc(100% + var(--corner-radius)*-0.3168) calc(100% + var(--corner-radius)*-0.0596),calc(100% + var(--corner-radius)*-0.3766) calc(100% + var(--corner-radius)*-0.0401),calc(100% + var(--corner-radius)*-0.4377) calc(100% + var(--corner-radius)*-0.0260),calc(100% + var(--corner-radius)*-0.4987) calc(100% + var(--corner-radius)*-0.0162),calc(100% + var(--corner-radius)*-0.5590) calc(100% + var(--corner-radius)*-0.0096),calc(100% + var(--corner-radius)*-0.6182) calc(100% + var(--corner-radius)*-0.0054),calc(100% + var(--corner-radius)*-0.6760) calc(100% + var(--corner-radius)*-0.0028),calc(100% + var(--corner-radius)*-0.7324) calc(100% + var(--corner-radius)*-0.0013),calc(100% + var(--corner-radius)*-0.7876) calc(100% + var(--corner-radius)*-0.0005),calc(100% + var(--corner-radius)*-0.8416) calc(100% + var(--corner-radius)*-0.0002),calc(100% + var(--corner-radius)*-0.8949) calc(100% + var(--corner-radius)*-0.0000),calc(100% + var(--corner-radius)*-0.9476) calc(100% + var(--corner-radius)*-0.0000),calc(100% - var(--corner-radius)) 100%,calc(var(--corner-radius)*0.9476) calc(100% + var(--corner-radius)*-0.0000),calc(var(--corner-radius)*0.8949) calc(100% + var(--corner-radius)*-0.0000),calc(var(--corner-radius)*0.8416) calc(100% + var(--corner-radius)*-0.0002),calc(var(--corner-radius)*0.7876) calc(100% + var(--corner-radius)*-0.0005),calc(var(--corner-radius)*0.7324) calc(100% + var(--corner-radius)*-0.0013),calc(var(--corner-radius)*0.6760) calc(100% + var(--corner-radius)*-0.0028),calc(var(--corner-radius)*0.6182) calc(100% + var(--corner-radius)*-0.0054),calc(var(--corner-radius)*0.5590) calc(100% + var(--corner-radius)*-0.0096),calc(var(--corner-radius)*0.4987) calc(100% + var(--corner-radius)*-0.0162),calc(var(--corner-radius)*0.4377) calc(100% + var(--corner-radius)*-0.0260),calc(var(--corner-radius)*0.3766) calc(100% + var(--corner-radius)*-0.0401),calc(var(--corner-radius)*0.3168) calc(100% + var(--corner-radius)*-0.0596),calc(var(--corner-radius)*0.2595) calc(100% + var(--corner-radius)*-0.0855),calc(var(--corner-radius)*0.2064) calc(100% + var(--corner-radius)*-0.1186),calc(var(--corner-radius)*0.1591) calc(100% + var(--corner-radius)*-0.1591),calc(var(--corner-radius)*0.1186) calc(100% + var(--corner-radius)*-0.2064),calc(var(--corner-radius)*0.0855) calc(100% + var(--corner-radius)*-0.2595),calc(var(--corner-radius)*0.0596) calc(100% + var(--corner-radius)*-0.3168),calc(var(--corner-radius)*0.0401) calc(100% + var(--corner-radius)*-0.3766),calc(var(--corner-radius)*0.0260) calc(100% + var(--corner-radius)*-0.4377),calc(var(--corner-radius)*0.0162) calc(100% + var(--corner-radius)*-0.4987),calc(var(--corner-radius)*0.0096) calc(100% + var(--corner-radius)*-0.5590),calc(var(--corner-radius)*0.0054) calc(100% + var(--corner-radius)*-0.6182),calc(var(--corner-radius)*0.0028) calc(100% + var(--corner-radius)*-0.6760),calc(var(--corner-radius)*0.0013) calc(100% + var(--corner-radius)*-0.7324),calc(var(--corner-radius)*0.0005) calc(100% + var(--corner-radius)*-0.7876),calc(var(--corner-radius)*0.0002) calc(100% + var(--corner-radius)*-0.8416),calc(var(--corner-radius)*0.0000) calc(100% + var(--corner-radius)*-0.8949),calc(var(--corner-radius)*0.0000) calc(100% + var(--corner-radius)*-0.9476),0% calc(100% - var(--corner-radius)),calc(var(--corner-radius)*0.0000) calc(var(--corner-radius)*0.9476),calc(var(--corner-radius)*0.0000) calc(var(--corner-radius)*0.8949),calc(var(--corner-radius)*0.0002) calc(var(--corner-radius)*0.8416),calc(var(--corner-radius)*0.0005) calc(var(--corner-radius)*0.7876),calc(var(--corner-radius)*0.0013) calc(var(--corner-radius)*0.7324),calc(var(--corner-radius)*0.0028) calc(var(--corner-radius)*0.6760),calc(var(--corner-radius)*0.0054) calc(var(--corner-radius)*0.6182),calc(var(--corner-radius)*0.0096) calc(var(--corner-radius)*0.5590),calc(var(--corner-radius)*0.0162) calc(var(--corner-radius)*0.4987),calc(var(--corner-radius)*0.0260) calc(var(--corner-radius)*0.4377),calc(var(--corner-radius)*0.0401) calc(var(--corner-radius)*0.3766),calc(var(--corner-radius)*0.0596) calc(var(--corner-radius)*0.3168),calc(var(--corner-radius)*0.0855) calc(var(--corner-radius)*0.2595),calc(var(--corner-radius)*0.1186) calc(var(--corner-radius)*0.2064),calc(var(--corner-radius)*0.1591) calc(var(--corner-radius)*0.1591),calc(var(--corner-radius)*0.2064) calc(var(--corner-radius)*0.1186),calc(var(--corner-radius)*0.2595) calc(var(--corner-radius)*0.0855),calc(var(--corner-radius)*0.3168) calc(var(--corner-radius)*0.0596),calc(var(--corner-radius)*0.3766) calc(var(--corner-radius)*0.0401),calc(var(--corner-radius)*0.4377) calc(var(--corner-radius)*0.0260),calc(var(--corner-radius)*0.4987) calc(var(--corner-radius)*0.0162),calc(var(--corner-radius)*0.5590) calc(var(--corner-radius)*0.0096),calc(var(--corner-radius)*0.6182) calc(var(--corner-radius)*0.0054),calc(var(--corner-radius)*0.6760) calc(var(--corner-radius)*0.0028),calc(var(--corner-radius)*0.7324) calc(var(--corner-radius)*0.0013),calc(var(--corner-radius)*0.7876) calc(var(--corner-radius)*0.0005),calc(var(--corner-radius)*0.8416) calc(var(--corner-radius)*0.0002),calc(var(--corner-radius)*0.8949) calc(var(--corner-radius)*0.0000),calc(var(--corner-radius)*0.9476) calc(var(--corner-radius)*0.0000))
+  }
+  .csyyhgf table {
+    margin-top: 1rem
+  }
+  .c1clccw3 table {
+    margin-bottom: 1rem
+  }
+  .cnsba9t table {
+    --corner-radius: 24px
+  }
+  .c7ylhvp th {
+    padding-bottom: 0.75rem
+  }
+  .c1fibho5 th {
+    padding-top: 0.75rem
+  }
+  .c1ch6tcf th {
+    padding-left: 0.5rem
+  }
+  .cwunlpv th {
+    padding-right: 0.5rem
+  }
+  .ci0b9gz th {
+    color: rgba(255, 255, 255, 1)
+  }
+  .cw9jqfh th {
+    background-color: rgba(0, 143, 255, 1)
+  }
+  .c1akrs2r th {
+    text-align: start
+  }
+  .cs3u7rv th {
+    outline: 2px solid rgba(0, 143, 255, 1)
+  }
+  .c1wfafrm td {
+    padding-left: 0.5rem
+  }
+  .c3yacp3 td {
+    padding-top: 0.75rem
+  }
+  .cn5z0c0 td {
+    padding-bottom: 0.75rem
+  }
+  .cwtjikt td {
+    padding-right: 0.5rem
+  }
+  .c11rx0tx td {
+    background-color: light-dark(#00000012,#ffffff12)
+  }
+  .c1ds6svz td {
+    outline: 2px solid light-dark(#00000012,#ffffff12)
+  }
+  .c1v735k3 {
+    margin-top: 1rem
+  }
+  .c12d1iul {
+    margin-bottom: 1rem
+  }
+  .c1gp9cdv:hover {
+    filter: brightness(120%)
+  }
+  .casit2p {
+    --corner-radius: 24px
+  }
+  .c8rmjdp {
+    color: rgba(255, 255, 255, 1)
+  }
+  .ck8dx2b {
+    width: 16px
+  }
+  .c1kvd291 {
+    margin-right: -4px
+  }
+  .c19vllib {
+    filter: drop-shadow(0px 0px 16px rgba(0, 0, 0, 0.5))
+  }
+  .c15zqx8t {
+    background-color: light-dark(#00000012,#ffffff12)
+  }
+  .c1a97tu8 {
+    max-height: 640px
+  }
+  .cm0jv6c {
+    row-gap: 0.75rem
+  }
+  .ctkuwo6 {
+    column-gap: 0.75rem
+  }
+  .cz5x5xv {
+    padding-bottom: 8px
+  }
+  .c1lnxrb4 {
+    border-top-style: dashed
+  }
+  .cqv39h7 {
+    border-right-style: dashed
+  }
+  .c190sceh {
+    border-left-style: dashed
+  }
+  .c1hn2rmf {
+    border-top-width: 0px
+  }
+  .cfdawc4 {
+    border-right-width: 0px
+  }
+  .ce32a03 {
+    border-left-width: 0px
+  }
+  .c1o3yqk0 {
+    border-bottom: 1px dashed light-dark(#00000033,#ffffff33)
+  }
+  .cvk905m {
+    width: 48px
+  }
+  .c18375g3 {
+    top: -48px
+  }
+  .c14u4hyb {
+    margin-bottom: -48px
+  }
+  .c19e3m36 {
+    margin-top: -1rem
+  }
+  .c1ylsvko {
+    font-size: 20px
+  }
+  .c12hzlcl {
+    margin-top: -6px
+  }
+  .c1n2jbfn {
+    width: 4px
+  }
+  .c2mep9p {
+    background-color: currentColor
+  }
+  .c1d74jz {
+    padding-bottom: 1rem
+  }
+  .c1riol8a {
+    border-top-left-radius: 0.5rem
+  }
+  .c1jk42b5 {
+    border-top-right-radius: 0.5rem
+  }
+  .c3pgikq {
+    border-bottom-left-radius: 0.5rem
+  }
+  .c1uvcjca {
+    border-bottom-right-radius: 0.5rem
+  }
+  .cu8mq3p {
+    border-top-style: solid
+  }
+  .cr4t7r3 {
+    border-right-style: solid
+  }
+  .cuz7td5 {
+    border-left-style: solid
+  }
+  .c16mysat {
+    border-bottom-style: solid
+  }
+  .c187b128 {
+    border-top-width: 4px
+  }
+  .c87ns92 {
+    border-right-width: 4px
+  }
+  .c1ciacan {
+    border-left-width: 4px
+  }
+  .c18citxc {
+    border-bottom-width: 4px
+  }
+  .c1jwjkn3 {
+    clip-path: polygon(50% 70%,0 0,100%0)
+  }
+  .c1qjaou6 {
+    margin-top: -4px
+  }
+  .cgepck7 {
+    margin-bottom: -2px
+  }
+  .cgy6q0o {
+    margin-top: 2rem
+  }
+  .c1c1cx9i {
+    margin-top: 0rem
+  }
+}
+@media all and (max-width: 991px) {
+  .cank8j {
+    height: auto
+  }
+  .cgxgrrn {
+    flex-direction: column-reverse
+  }
+  .c1crqh36 {
+    padding-top: 0
+  }
+  .c1kpxb1y {
+    display: flex
+  }
+  .c1qvhqzb {
+    align-items: center
+  }
+  .cjrm65p {
+    justify-content: center
+  }
+  .c1tphug8 {
+    padding-top: 1rem
+  }
+  .cnoz2ce {
+    max-height: 200px
+  }
+  .c1845r57 {
+    position: static
+  }
+  .c1d193qf {
+    object-fit: contain
+  }
+  .cnib5ar {
+    width: 100%
+  }
+  .c1pb3t5h {
+    object-position: 50% 50%
+  }
+  .cj7ktk7 {
+    display: none
+  }
+  .c11launb {
+    display: block
+  }
+}
+@media all and (max-width: 767px) {
+  .citip5r {
+    display: none
+  }
+  .c1gr52yy {
+    display: block
+  }
+  .c1d3tk8j {
+    margin-left: -250px
+  }
+  .c11uniw5 {
+    padding-left: max(1rem,env(safe-area-inset-left))
+  }
+  .c1gb4fx1 {
+    padding-right: max(1rem,env(safe-area-inset-left))
+  }
+  .crgtmr {
+    max-width: calc(100vw - 4rem)
+  }
+  .c1ugwklx {
+    min-width: auto
+  }
+  .cbgwcae {
+    width: auto
+  }
+  .c1j5q0ur {
+    flex-wrap: wrap
+  }
+  .czeszkx {
+    flex-direction: row
+  }
+  .c18koysr {
+    padding-left: 3rem
+  }
+  .c184v0fa {
+    padding-right: 3rem
+  }
+  .c1i4pc3h {
+    width: 38px
+  }
+  .c15qbz4m {
+    height: 38px
+  }
+  .cp2eoky {
+    font-size: 24px
+  }
+  .cb7mqvb {
+    height: 22px
+  }
+  .c1ehp9ko {
+    height: 28px
+  }
+}
+@media all and (max-width: 479px) {
+  .c9djcgv {
+    height: 90%
+  }
+  .c9jzhbt {
+    padding-top: 1.5rem
+  }
+  .cs91o3h {
+    padding-left: max(1.5rem,env(safe-area-inset-left))
+  }
+  .cw0g6jf {
+    padding-bottom: 1.5rem
+  }
+  .c16zcdeq {
+    padding-right: max(1.5rem,env(safe-area-inset-left))
+  }
+  .c1ut8zu2 {
+    padding-right: 0rem
+  }
+  .c13v6ur1 {
+    padding-left: 0rem
+  }
+  .c1bbew9e {
+    padding-left: 1rem
+  }
+  .c1u725zq {
+    padding-right: 1rem
+  }
+  .cdowr51 {
+    max-width: calc(100vw - 2rem)
+  }
+  .cpv2711 {
+    font-size: 20px
+  }
+  .cbnnp1 {
+    font-size: 14px
+  }
+  .coodrml {
+    padding-left: 1.5rem
+  }
+  .c1aesd75 {
+    padding-right: 1.5rem
+  }
+  .c16hvtgk {
+    padding-bottom: 1rem
+  }
+  .c117eu1a {
+    padding-top: 1rem
+  }
+  .cpotu89 {
+    --corner-radius: 48px
+  }
+  .c3zc8ga {
+    padding-left: 0
+  }
+  .cc2lcwm {
+    padding-right: 0
+  }
+  .c1xvoxib {
+    border-top-left-radius: 0px
+  }
+  .c1glxk1h {
+    border-top-right-radius: 0px
+  }
+  .c3ojm4n {
+    border-bottom-left-radius: 0px
+  }
+  .c9zpm68 {
+    border-bottom-right-radius: 0px
+  }
+  .cky4y32 {
+    --corner-radius: 0px
+  }
+  .cuft8f1 {
+    padding: 1.5rem
+  }
+  .c1w59rtg {
+    flex-direction: column
+  }
+  .co6j8jp {
+    align-items: start
+  }
+  .c1nsdxk1 {
+    justify-content: start
+  }
+  .cdd73g8 {
+    flex-wrap: nowrap
+  }
+  .c5048pw {
+    margin-bottom: -0.5rem
+  }
+  .c1jt0nst {
+    margin-top: -6px
+  }
+  .cawvggl {
+    margin-top: -8px
+  }
+  .czeu0xd {
+    margin-bottom: -1rem
+  }
+  .c13o7fa5 {
+    margin-left: -1rem
+  }
+  .cu0r852 {
+    margin-top: -1rem
+  }
+  .cw9cza5 h1 {
+    margin-left: -1.5rem
+  }
+  .c11ldz4g h1 {
+    padding-left: 1.5rem
+  }
+  .cr3ev3k h1 {
+    padding-right: 1.5rem
+  }
+  .c1wspeau h1 {
+    margin-right: -1.5rem
+  }
+  .c184j8qw img {
+    margin-left: -1.5rem
+  }
+  .c1qmzi79 img {
+    margin-right: -1.5rem
+  }
+  .coikymh img {
+    width: calc(100% + 3rem)
+  }
+  .c6bqjws img {
+    max-width: none
+  }
+  .cclx3ys img {
+    clip-path: none
+  }
+  .c1crkfi4 {
+    margin-left: -1.5rem
+  }
+  .c11znclp {
+    margin-right: -1.5rem
+  }
+  .c1bh5gui {
+    width: calc(100% + 3rem)
+  }
+  .chgz5c9 {
+    max-width: none
+  }
+  .c1h0e2wx {
+    clip-path: none
+  }
+}
