@@ -12,7 +12,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2025-11-10T08:24:10.555Z";
+      export const lastPublished = "2025-11-10T12:15:27.314Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -588,14 +588,17 @@ className={`w-element c11jmddu ct4g75r cocsuzz cwy62ol c1n88sfr crgs22s c1dix9sw
 action={{"type":"view","animations":[{"name":"New Animation","description":"Create a new animation.","keyframes":[{"offset":1,"styles":{"translate":{"type":"tuple","value":[{"type":"unit","unit":"px","value":0},{"type":"unit","unit":"vh","value":35}]},"scale":{"type":"tuple","value":[{"type":"unit","unit":"%","value":80},{"type":"unit","unit":"%","value":80}]}}}],"timing":{"easing":"linear","fill":"both","rangeStart":["contain",{"type":"unit","value":50,"unit":"%"}],"rangeEnd":["cover",{"type":"unit","value":100,"unit":"%"}]}}],"isPinned":true}}>
 <div
 className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler cocsuzz c1y1b6pq ckcx4zm c1g5fj4a clap96c c190be04 c1a34am0 cyeq9zr c17k0e6m c11h7cy5 cppwozy coodrml c1aesd75 c16hvtgk c117eu1a cpotu89 c18koysr c184v0fa`}>
+<h1
+className={`w-element cc0vgw3 c1tr50rt`}>
 <Image
 src={"/assets/taikun-design-full-white_4x_YHVfY2SEJ-AMoe3JxGCsp.webp"}
 width={1312}
 height={324}
-alt={""}
+alt={"TAIKUN.design"}
 loading={"eager"}
 fetchPriority={"high"}
-className={`w-image cfgut53 ctgvzkp c19si1a0 c18y60fr c11jmddu`} />
+className={`w-image cfgut53 ctgvzkp c18y60fr c11jmddu c19si1a0`} />
+</h1>
 </div>
 </AnimateChildren>
 <AnimateChildren
