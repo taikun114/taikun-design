@@ -12,7 +12,7 @@ import { AnimateChildren as AnimateChildren } from "@webstudio-is/sdk-components
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2025-11-10T12:15:27.314Z";
+      export const lastPublished = "2025-11-10T13:24:27.822Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -78,7 +78,7 @@ className={`w-element c19si1a0 c11jmddu c1aner8p ct4g75r c19ld4t3 cocsuzz`}>
 href={"/"}
 className={`w-element ccf5130`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/3c2aa8b99f6f0ff4fd4e6030ea1cbefa.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6ca3dcb83b74d6c99ebd9e6901792564.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"55\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/3c2aa8b99f6f0ff4fd4e6030ea1cbefa.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6ca3dcb83b74d6c99ebd9e6901792564.webp\"\n    alt=\"TAIKUN.design ロゴ\"\n    height=\"55\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r cwxsh0x c9v8fxr`} />
 </Link>
 <NavigationMenu
@@ -672,14 +672,14 @@ className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq`}>
 src={"/assets/P1002900-Enhanced-NR_hD6jPnELnUBh0bg4_Ycyw.webp"}
 width={1775}
 height={1775}
-alt={""}
+alt={"今浦大雅の顔写真 (Face photo of Taiga Imaura)"}
 loading={"lazy"}
 className={`w-image c1uf8c0t cuyh25w co7usez c782zb9 c1q3g2hw c1m8fxnl c1d0k284 cysmikg cnhgshd`} />
 <Image
 src={"/assets/P1002900-Enhanced-NR_hD6jPnELnUBh0bg4_Ycyw.webp"}
 width={1775}
 height={1775}
-alt={""}
+alt={"今浦大雅の顔写真 (Face photo of Taiga Imaura)"}
 loading={"lazy"}
 className={`w-image c1uf8c0t cuyh25w co7usez c782zb9 c1q3g2hw c1m8fxnl c1d0k284 c1m016cw c1dt2aby cqu6eha`} />
 </div>
@@ -751,10 +751,10 @@ className={`w-element ct4g75r crt9jac c9nulm2 c11jmddu c1w59rtg`}>
 <div
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq c5048pw`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"たいくんの部屋 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r c1fgf442 ctgvzkp c1uf8c0t cocsuzz c18o0bzn cg5mfwo cnhgshd cawvggl`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"たいくんの部屋 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r c1fgf442 ctgvzkp c1uf8c0t cocsuzz c1m016cw ca1kfbf cxel989`} />
 </div>
 <div
@@ -794,10 +794,10 @@ className={`w-element ct4g75r crt9jac c9nulm2 c11jmddu c1w59rtg`}>
 <div
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq c5048pw`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"たいくんの生活 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r c1fgf442 ctgvzkp c1uf8c0t cocsuzz cysmikg cg5mfwo cnhgshd cawvggl`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"たいくんの生活 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r c1fgf442 ctgvzkp c1uf8c0t cocsuzz c1m016cw ca1kfbf cxel989`} />
 </div>
 <div
@@ -837,10 +837,10 @@ className={`w-element ct4g75r crt9jac c9nulm2 c11jmddu c1w59rtg`}>
 <div
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq c5048pw`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"たいくんの日記 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r c1fgf442 ctgvzkp c1uf8c0t cocsuzz c18o0bzn cg5mfwo cnhgshd c1jt0nst`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"たいくんの日記 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r c1fgf442 ctgvzkp c1uf8c0t cocsuzz c1m016cw ca1kfbf cxel989`} />
 </div>
 <div
@@ -898,10 +898,10 @@ className={`w-element ct4g75r crt9jac c9nulm2 c11jmddu c1w59rtg`}>
 <div
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r cuyh25w ctgvzkp c1uf8c0t cocsuzz c1udsxt8 cbepowb cnhgshd`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r cuyh25w ctgvzkp c1uf8c0t cocsuzz c1m016cw c1dt2aby cqu6eha`} />
 </div>
 <div
@@ -947,10 +947,10 @@ className={`w-element ct4g75r crt9jac c9nulm2 c11jmddu c1w59rtg`}>
 <div
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma Icon\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r cuyh25w ctgvzkp c1uf8c0t cocsuzz cysmikg cbepowb cnhgshd`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma Icon\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r cuyh25w ctgvzkp c1uf8c0t cocsuzz c1m016cw c1dt2aby cqu6eha`} />
 </div>
 <div
@@ -1041,14 +1041,14 @@ className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq czeu0xd`}>
 src={"/assets/bat-logo_Sj_0irPFGDkSe3UY1cf69.webp"}
 width={704}
 height={612}
-alt={""}
+alt={"Basic Attention Token ロゴ"}
 loading={"lazy"}
 className={`w-image c1uf8c0t cuyh25w ctgvzkp cysmikg cnhgshd c1hp69fk c13o7fa5 cu0r852`} />
 <Image
 src={"/assets/bat-logo_Sj_0irPFGDkSe3UY1cf69.webp"}
 width={704}
 height={612}
-alt={""}
+alt={"Basic Attention Token ロゴ"}
 loading={"lazy"}
 className={`w-image c1uf8c0t cuyh25w ctgvzkp c1m016cw c1dt2aby cqu6eha c1hp69fk c13o7fa5`} />
 </div>
@@ -1088,14 +1088,14 @@ className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq czeu0xd`}>
 src={"/assets/bmc-logo-yellow_VVu09qXJFLEiRFGkOdX49.webp"}
 width={3200}
 height={3200}
-alt={""}
+alt={"Buy Me a Coffee ロゴ"}
 loading={"lazy"}
 className={`w-image c1uf8c0t cuyh25w ctgvzkp cysmikg co7usez c782zb9 c1q3g2hw c1m8fxnl cnhgshd c1hp69fk c13o7fa5 cu0r852`} />
 <Image
 src={"/assets/bmc-logo-yellow_VVu09qXJFLEiRFGkOdX49.webp"}
 width={3200}
 height={3200}
-alt={""}
+alt={"Buy Me a Coffee ロゴ"}
 loading={"lazy"}
 className={`w-image c1uf8c0t cuyh25w ctgvzkp c1m016cw c1dt2aby cqu6eha co7usez c782zb9 c1q3g2hw c1m8fxnl c1hp69fk c13o7fa5`} />
 </div>
@@ -1132,10 +1132,10 @@ className={`w-element ct4g75r crt9jac c9nulm2 c11jmddu c1w59rtg`}>
 <div
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq czeu0xd`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"Mocolamma Icon\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"PayPal ロゴ\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r cuyh25w ctgvzkp c1uf8c0t cocsuzz cysmikg c1y1b6pq cnhgshd cu0r852 c13o7fa5`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"Mocolamma Icon\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"PayPal ロゴ\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r cuyh25w ctgvzkp c1uf8c0t cocsuzz c1m016cw c1dt2aby cqu6eha c1y1b6pq c13o7fa5`} />
 </div>
 <div
@@ -1173,10 +1173,10 @@ className={`w-element ct4g75r c1tjbx48 c19ld4t3 c11jmddu c9nulm2 crt9jac c1b6k19
 href={"/"}
 className={`w-element ct4g75r cwg8145 c16n9ye3 c1h9nl72`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"72\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"72\"\n  />\n</picture>\n"}
 className={`w-html-embed c1wz3v9x cmzzh0c cj7ktk7`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed chj4q0r c1q58oy7 c1ax93o c11launb`} />
 </Link>
 <div

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2025-11-10T12:15:27.314Z";
+      export const lastPublished = "2025-11-10T13:24:27.822Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -669,10 +669,10 @@ className={`w-element ct4g75r c1tjbx48 c19ld4t3 c11jmddu c9nulm2 crt9jac c1b6k19
 href={"/en"}
 className={`w-element ct4g75r cwg8145 c16n9ye3 c1h9nl72`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"72\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"72\"\n  />\n</picture>\n"}
 className={`w-html-embed c1wz3v9x cmzzh0c cj7ktk7`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed chj4q0r c1q58oy7 c1ax93o c11launb`} />
 </Link>
 <div

@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "2849d9b3-5441-4d9e-9478-7f28960eb048",
+    "id": "8c21a106-fd65-442e-83fd-4ecb431dfd4b",
     "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
-    "version": 7972,
-    "createdAt": "2025-11-10T12:15:27.314+00:00",
-    "updatedAt": "2025-11-10T12:15:27.314+00:00",
+    "version": 8108,
+    "createdAt": "2025-11-10T13:24:27.822+00:00",
+    "updatedAt": "2025-11-10T13:24:27.822+00:00",
     "pages": {
       "meta": {
         "siteName": "TAIKUN.design",
@@ -81901,19 +81901,6 @@
         }
       ],
       [
-        "CAcjRclQrTgTcW8AUxYRQ:uDG426cw_yjxvJghC8SXG:marginBottom:",
-        {
-          "breakpointId": "uDG426cw_yjxvJghC8SXG",
-          "styleSourceId": "CAcjRclQrTgTcW8AUxYRQ",
-          "property": "marginBottom",
-          "value": {
-            "type": "unit",
-            "unit": "rem",
-            "value": 1
-          }
-        }
-      ],
-      [
         "4R1CwvsFFvn8YphSbfivT:uDG426cw_yjxvJghC8SXG:marginTop:",
         {
           "breakpointId": "uDG426cw_yjxvJghC8SXG",
@@ -108022,7 +108009,7 @@
           "instanceId": "7dTlv23uyOm_GMGMiDvgS",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/3c2aa8b99f6f0ff4fd4e6030ea1cbefa.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6ca3dcb83b74d6c99ebd9e6901792564.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"55\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/3c2aa8b99f6f0ff4fd4e6030ea1cbefa.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6ca3dcb83b74d6c99ebd9e6901792564.webp\"\n    alt=\"TAIKUN.design ロゴ\"\n    height=\"55\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -109322,7 +109309,7 @@
           "instanceId": "VPpvn3Gr-L2I5bA5hli9R",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"72\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"72\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -109342,7 +109329,7 @@
           "instanceId": "SrMcARcN8NP0r5-FIa5um",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"48\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"48\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -110483,8 +110470,8 @@
           "id": "jk3Xr9kUyKh7djZCvgxQn",
           "instanceId": "sFKw_UfimifZR9PQoTaVw",
           "name": "alt",
-          "type": "asset",
-          "value": "934b0b2d91830536d9d26ce80261fc91368c8cc2006b80f5954ba4c30da25f14"
+          "type": "string",
+          "value": "今浦大雅の顔写真 (Face photo of Taiga Imaura)"
         }
       ],
       [
@@ -110533,8 +110520,8 @@
           "id": "4H9EgxrszhZoVGwo6r-JD",
           "instanceId": "9GX6pHuZNiUXHCqfdV0Ya",
           "name": "alt",
-          "type": "asset",
-          "value": "934b0b2d91830536d9d26ce80261fc91368c8cc2006b80f5954ba4c30da25f14"
+          "type": "string",
+          "value": "今浦大雅の顔写真 (Face photo of Taiga Imaura)"
         }
       ],
       [
@@ -110904,7 +110891,7 @@
           "instanceId": "kHdYHwN6nQctxmcxYaxg5",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"たいくんの日記 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -110914,7 +110901,7 @@
           "instanceId": "I38yI2nDkxOxCArHKfYDg",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"たいくんの日記 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -110984,7 +110971,7 @@
           "instanceId": "qc4QN5kS0p26_ZttFxPft",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"たいくんの生活 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -110994,7 +110981,7 @@
           "instanceId": "CviApuvXJOhu0IoDORL-F",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"たいくんの生活 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -111054,7 +111041,7 @@
           "instanceId": "1xZdF_NX3nSMYG83mJ6Nf",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"たいくんの部屋 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -111064,7 +111051,7 @@
           "instanceId": "MB4_Ih-4b6w9nFrp4w4XK",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"たいくんの部屋 ロゴ\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -111194,7 +111181,7 @@
           "instanceId": "id0_4pOdO8iJYCmeVQOXB",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma Icon\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -111204,7 +111191,7 @@
           "instanceId": "XljyUhVmCHdqocxuMXf3a",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma Icon\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -111314,7 +111301,7 @@
           "instanceId": "tL0ytY_GEcZwxkhuVZHeP",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -111324,7 +111311,7 @@
           "instanceId": "fmoAWL-AsuuJA4EJHPZWS",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -111523,8 +111510,8 @@
           "id": "MxcPfFfps3vJWRxQWQwJ_",
           "instanceId": "Z0IH7JzCehcod0Jy6nGbP",
           "name": "alt",
-          "type": "asset",
-          "value": "ea0266bb8b9642c735b1e489c449b69ae567d520377550f58186a85cea79adb0"
+          "type": "string",
+          "value": "Basic Attention Token ロゴ"
         }
       ],
       [
@@ -111573,8 +111560,8 @@
           "id": "uOB19SKvDDjqDA8cGtDbz",
           "instanceId": "FlIb7DvcwY3zVDpMWBawB",
           "name": "alt",
-          "type": "asset",
-          "value": "ea0266bb8b9642c735b1e489c449b69ae567d520377550f58186a85cea79adb0"
+          "type": "string",
+          "value": "Basic Attention Token ロゴ"
         }
       ],
       [
@@ -111683,8 +111670,8 @@
           "id": "Moqv0h9aImTORgyeiroh6",
           "instanceId": "Q5_EO3GxgXJ6xZC2YW28v",
           "name": "alt",
-          "type": "asset",
-          "value": "0f0d99bd7b276482b219a516ac266bd43830f8828b4b9306d4b1a76f87b619f3"
+          "type": "string",
+          "value": "Buy Me a Coffee ロゴ"
         }
       ],
       [
@@ -111733,8 +111720,8 @@
           "id": "blvnQcD7MaBffpCtIWMgv",
           "instanceId": "8RIn1A55o-Yczg5qOdQ9u",
           "name": "alt",
-          "type": "asset",
-          "value": "0f0d99bd7b276482b219a516ac266bd43830f8828b4b9306d4b1a76f87b619f3"
+          "type": "string",
+          "value": "Buy Me a Coffee ロゴ"
         }
       ],
       [
@@ -111844,7 +111831,7 @@
           "instanceId": "YgpypnCEYlNyt0_Od6HPx",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"Mocolamma Icon\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"PayPal ロゴ\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -111854,7 +111841,7 @@
           "instanceId": "RuYZmMLOzUs-ks2jO4GGe",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"Mocolamma Icon\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"PayPal ロゴ\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -113713,8 +113700,8 @@
           "id": "7IKG8l5gysY-SgsrnyzXm",
           "instanceId": "_bwYeHeN7ld8auples1wi",
           "name": "alt",
-          "type": "asset",
-          "value": "f94d7813c92e24c787daa2c84d38d00de13b5f00f77b691a8a3f338d5c6c0d84"
+          "type": "string",
+          "value": "Clip Hold クリップボードと定型文マネージャー"
         }
       ],
       [
@@ -114203,8 +114190,8 @@
           "id": "aI0En0jhpJuc4BVqKhLmQ",
           "instanceId": "8B8Yp09Suo7ythWYZdStM",
           "name": "alt",
-          "type": "asset",
-          "value": "b54dc8b54b9d6c76762bdb4bf25014b66c3132496d1e4702dce25ae89f460071"
+          "type": "string",
+          "value": "Mocolamma Ollamaマネージャーアプリ"
         }
       ],
       [
@@ -114214,7 +114201,7 @@
           "instanceId": "8B8Yp09Suo7ythWYZdStM",
           "name": "loading",
           "type": "string",
-          "value": "eager"
+          "value": "lazy"
         }
       ],
       [
@@ -117396,7 +117383,7 @@
           "instanceId": "YD8LF3T7K76hhvKckK9by",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"TAIKUN Blog Logo\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -117406,7 +117393,7 @@
           "instanceId": "2ulm5uB75y18DD7K3Htc7",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini-white.png\"\n  />\n  <img\n    src=\"https://blog.taikun.blog/wp-content/uploads/2025/09/taikun-blog-mini.png\"\n    alt=\"TAIKUN Blog Logo\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -117476,7 +117463,7 @@
           "instanceId": "yGDBHkC2EAsweq4vnfdEr",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"TAIKUN Life Logo\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -117486,7 +117473,7 @@
           "instanceId": "7y7djGwHk-oWW_lgbg-eh",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini-white.png\"\n  />\n  <img\n    src=\"https://life.taikun.blog/wp-content/uploads/2025/05/taikun-life-mini.png\"\n    alt=\"TAIKUN Life Logo\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -117546,7 +117533,7 @@
           "instanceId": "fkn9bbQHLMWS0vhhs3cTc",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"TAIKUN Room Logo\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -117556,7 +117543,7 @@
           "instanceId": "CI8w-XD72SM-82KVN-IZ6",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/05/taikun-room-mini.png\"\n    alt=\"TAIKUN Room Logo\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -117806,7 +117793,7 @@
           "instanceId": "ygPHS9Ov9Zn8cyL9Hl4GN",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Icon\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -117816,7 +117803,7 @@
           "instanceId": "DxmwqIlbNlP-y2Y0NcdOa",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Icon\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -118015,8 +118002,8 @@
           "id": "Ul8udBFHQah0GSLbW0Hum",
           "instanceId": "-YgvzGyjWLWk7H0Djdi93",
           "name": "alt",
-          "type": "asset",
-          "value": "ea0266bb8b9642c735b1e489c449b69ae567d520377550f58186a85cea79adb0"
+          "type": "string",
+          "value": "Basic Attention Token Logo"
         }
       ],
       [
@@ -118065,8 +118052,8 @@
           "id": "TvRloCvPt-Ot_TXT07-A-",
           "instanceId": "QmyUIAusVVjMsOIVe8s-U",
           "name": "alt",
-          "type": "asset",
-          "value": "ea0266bb8b9642c735b1e489c449b69ae567d520377550f58186a85cea79adb0"
+          "type": "string",
+          "value": "Basic Attention Token Logo"
         }
       ],
       [
@@ -118175,8 +118162,8 @@
           "id": "xQci8L1ghHCkT-lcL9HLw",
           "instanceId": "V_4aqnlvmpp4e9aWg5MKn",
           "name": "alt",
-          "type": "asset",
-          "value": "0f0d99bd7b276482b219a516ac266bd43830f8828b4b9306d4b1a76f87b619f3"
+          "type": "string",
+          "value": "Buy Me a Coffee Logo"
         }
       ],
       [
@@ -118225,8 +118212,8 @@
           "id": "2h0lzOfF0OzJMLaJjaR5G",
           "instanceId": "RzoegklKcIa6jfERFT6Qs",
           "name": "alt",
-          "type": "asset",
-          "value": "0f0d99bd7b276482b219a516ac266bd43830f8828b4b9306d4b1a76f87b619f3"
+          "type": "string",
+          "value": "Buy Me a Coffee Logo"
         }
       ],
       [
@@ -118336,7 +118323,7 @@
           "instanceId": "FuJxIbMMZaFSztdg_ZWJV",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"Mocolamma Icon\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"PayPal Logo\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -118346,7 +118333,7 @@
           "instanceId": "WsFLHq2OxXsW7i_westni",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"Mocolamma Icon\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_white.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/pp_v_rgb.webp\"\n    alt=\"PayPal Logo\"\n    height=\"96\"\n    width=\"96\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -118876,7 +118863,7 @@
           "instanceId": "u7BVCOv2aBS4P-nunPjNB",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"72\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"72\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -118896,7 +118883,7 @@
           "instanceId": "LMORt2b39YdcPVi0rqKn-",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"48\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"48\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -121366,7 +121353,7 @@
           "instanceId": "omIJ7z7Gzn79dIAi4ODQo",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold アイコン\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -121376,7 +121363,7 @@
           "instanceId": "9Y_xCerdQ_oTMb_iYmwbj",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold アイコン\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -121856,7 +121843,7 @@
           "instanceId": "jFQ4T5S1Ol8TibkNCiYbi",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma アイコン\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -121866,7 +121853,7 @@
           "instanceId": "wVX97vaW1mOEIPjW-QKc4",
           "name": "code",
           "type": "string",
-          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma アイコン\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+          "value": "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
         }
       ],
       [
@@ -126175,8 +126162,8 @@
           "id": "bxKEVFHKVVWGimAAW09sR",
           "instanceId": "3bfLLWunJBRktc0Fe8fSu",
           "name": "alt",
-          "type": "asset",
-          "value": "691a9998ab38fe33698c8cf5309dd030a2a2b89a21c458845f7651c70e3ec9f8"
+          "type": "string",
+          "value": "3台のMacがテーブルに置かれている画像"
         }
       ],
       [
@@ -126435,8 +126422,8 @@
           "id": "wetKW9WHEDi9GGmlku8_2",
           "instanceId": "DyxLAdsF4jW0KZn9sO6CU",
           "name": "alt",
-          "type": "asset",
-          "value": "8e5cdd78dc0a3880d3ac030da57b986d0a5e16c064535210eb2602e77211401a"
+          "type": "string",
+          "value": "様々な世代のiPodがテーブルに並べられている画像"
         }
       ],
       [
@@ -126695,8 +126682,8 @@
           "id": "ORxFVFqTLXaeDPaf_EpCX",
           "instanceId": "QXzoabSeqNHwZ_XGejw9C",
           "name": "alt",
-          "type": "asset",
-          "value": "dbdddb2e5a90b880257bc764675385433d9c0a1a926b30375e94961831a8df8e"
+          "type": "string",
+          "value": "様々な世代のiPhoneがスタンドに立て掛けられている画像"
         }
       ],
       [
@@ -127165,8 +127152,8 @@
           "id": "cNr0GMUHPLaydtfa3x4wE",
           "instanceId": "UEaZhBmC-EMyUs4VBr96B",
           "name": "alt",
-          "type": "asset",
-          "value": "691a9998ab38fe33698c8cf5309dd030a2a2b89a21c458845f7651c70e3ec9f8"
+          "type": "string",
+          "value": "An image showing three Mac placed on a table"
         }
       ],
       [
@@ -127425,8 +127412,8 @@
           "id": "JKwGZUphEx606hCNOXRRv",
           "instanceId": "_v_03Wqvteinjh62GCPqb",
           "name": "alt",
-          "type": "asset",
-          "value": "8e5cdd78dc0a3880d3ac030da57b986d0a5e16c064535210eb2602e77211401a"
+          "type": "string",
+          "value": "An image showing various generations of iPod laid out on a table"
         }
       ],
       [
@@ -127685,8 +127672,8 @@
           "id": "22CuSMP1XRE6UBFrrr162",
           "instanceId": "7dKL00CMOna-26o1L-bjp",
           "name": "alt",
-          "type": "asset",
-          "value": "dbdddb2e5a90b880257bc764675385433d9c0a1a926b30375e94961831a8df8e"
+          "type": "string",
+          "value": "An image showing various generations of iPhone propped up on a stand"
         }
       ],
       [

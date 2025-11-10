@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2025-11-10T12:15:27.314Z";
+      export const lastPublished = "2025-11-10T13:24:27.822Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -57,7 +57,7 @@ className={`w-element c19si1a0 c11jmddu c1aner8p ct4g75r c19ld4t3 cocsuzz`}>
 href={"/"}
 className={`w-element ccf5130`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/3c2aa8b99f6f0ff4fd4e6030ea1cbefa.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6ca3dcb83b74d6c99ebd9e6901792564.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"55\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/3c2aa8b99f6f0ff4fd4e6030ea1cbefa.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6ca3dcb83b74d6c99ebd9e6901792564.webp\"\n    alt=\"TAIKUN.design ロゴ\"\n    height=\"55\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r cwxsh0x c9v8fxr`} />
 </Link>
 <NavigationMenu
@@ -635,13 +635,13 @@ className={`w-element ccf5130 cg5mfwo c11jmddu`}>
 src={"/assets/Clip_Hold_Social-ja_8rVV6vB3omP2egO_uSAqV.webp"}
 width={1280}
 height={640}
-alt={""}
+alt={"Clip Hold クリップボードと定型文マネージャー"}
 loading={"eager"}
-className={`w-image c11jmddu cc0vgw3 c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c12d1iul c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
+className={`w-image c11jmddu cc0vgw3 c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
 </Link>
 <MarkdownEmbed
 code={"### 概要\n定型文の保存と呼び出し機能を備えたクリップボードマネージャーアプリ。\\\n過去のコピー履歴を無制限に保存でき、お好みの定型文をプリセットごとにグループ分けして設定することができます。様々な操作を素早く行える充実したショートカットキーにより、過去10個までのコピー履歴や特定の定型文を一瞬で呼び出すことができます。「クイックペースト」機能を組み合わせれば、呼び出したコピー履歴や定型文を素早くペーストすることもできます。\n"}
-className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs cv0a9m c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </MarkdownEmbed>
 <Link
 href={"https://clip-hold.taikun.design/jp"}
@@ -685,7 +685,7 @@ className={`w-html-embed`} />
 </Link>
 <MarkdownEmbed
 code={"### プラットフォーム\n- **Appleシリコンを搭載したMacとIntelプロセッサを搭載したMac**\n  - macOS Sonoma（14.0）またはそれ以降が必要です。"}
-className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs cv0a9m c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </MarkdownEmbed>
 </div>
 <div
@@ -717,13 +717,13 @@ className={`w-element ccf5130 cg5mfwo c11jmddu`}>
 src={"/assets/Mocolamma_Social-ja_d2E_Z5D7imPrjEiCPM056.webp"}
 width={1280}
 height={640}
-alt={""}
-loading={"eager"}
-className={`w-image c11jmddu cc0vgw3 c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c12d1iul c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
+alt={"Mocolamma Ollamaマネージャーアプリ"}
+loading={"lazy"}
+className={`w-image c11jmddu cc0vgw3 c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
 </Link>
 <HtmlEmbed
 code={"<h3>概要</h3>\n<p>オープンソースのローカルLLMツール「<a href=\"https://github.com/ollama/ollama\" target=\"_blank\" data-umami-event=\"ollama-link\" data-umami-event-region=\"ja\"><strong>Ollama</strong></a>」を管理するための非公式マネージャーアプリ。<br>\nOllamaを実行しているリモートサーバーと接続し、リモートサーバーのモデルを追加・削除したり、リモートサーバー上のモデルを使って簡易的なチャットを行うことができます。</p>\n"}
-className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs cv0a9m c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 <Link
 href={"https://mocolamma.taikun.design/jp"}
@@ -767,7 +767,7 @@ className={`w-html-embed`} />
 </Link>
 <MarkdownEmbed
 code={"### プラットフォーム\n- **Appleシリコンを搭載したMacとIntelプロセッサを搭載したMac**\n  - macOS Sonoma（14.0）またはそれ以降が必要です。\n- **iPhone**\n  - iOS 17.0またはそれ以降が必要です。\n- **iPad**\n  - iPadOS 17.0またはそれ以降が必要です。\n- **Apple Vision Pro（iPadアプリとして）**\n  - visionOS 2.0またはそれ以降が必要です（1.Xでの動作は未確認）。"}
-className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs cv0a9m c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -786,10 +786,10 @@ className={`w-element ct4g75r c1tjbx48 c19ld4t3 c11jmddu c9nulm2 crt9jac c1b6k19
 href={"/"}
 className={`w-element ct4g75r cwg8145 c16n9ye3 c1h9nl72`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"72\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"72\"\n  />\n</picture>\n"}
 className={`w-html-embed c1wz3v9x cmzzh0c cj7ktk7`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed chj4q0r c1q58oy7 c1ax93o c11launb`} />
 </Link>
 <div

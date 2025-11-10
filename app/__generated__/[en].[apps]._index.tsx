@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2025-11-10T12:15:27.314Z";
+      export const lastPublished = "2025-11-10T13:24:27.822Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -614,10 +614,10 @@ className={`w-element ct4g75r cocsuzz c1sghiiy cm0jv6c ctkuwo6 cz5x5xv c1lnxrb4 
 <div
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold アイコン\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r citdfdm ctgvzkp cvk905m cocsuzz c1udsxt8 cbepowb cnhgshd`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold アイコン\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r citdfdm ctgvzkp cvk905m cocsuzz c1m016cw c18375g3 c14u4hyb`} />
 </div>
 <h2
@@ -637,11 +637,11 @@ width={1280}
 height={640}
 alt={""}
 loading={"eager"}
-className={`w-image c11jmddu cc0vgw3 c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c12d1iul c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
+className={`w-image c11jmddu cc0vgw3 c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
 </Link>
 <MarkdownEmbed
 code={"### Overview\nA clipboard manager app with features for saving and recalling standard phrases.\\\nIt can save unlimited copy history and allows you to group and set your favorite standard phrases into presets. With comprehensive shortcut keys that enable quick operations, you can instantly recall up to the last 10 copy history items or specific standard phrases. By combining this with the \"Quick Paste\" feature, you can also quickly paste the recalled copy history or standard phrases."}
-className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs cv0a9m c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </MarkdownEmbed>
 <Link
 href={"https://clip-hold.taikun.design/"}
@@ -685,7 +685,7 @@ className={`w-html-embed`} />
 </Link>
 <MarkdownEmbed
 code={"### Platform\n* **Mac with Apple silicon and Mac with Intel processor**\n  * Requires macOS Sonoma (14.0) or later."}
-className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs cv0a9m c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </MarkdownEmbed>
 </div>
 <div
@@ -696,10 +696,10 @@ className={`w-element ct4g75r cocsuzz c1sghiiy cm0jv6c ctkuwo6 cz5x5xv c1lnxrb4 
 <div
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma アイコン\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r citdfdm ctgvzkp cvk905m cocsuzz c1udsxt8 cbepowb cnhgshd`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma アイコン\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Mocolamma/blob/main/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Mocolamma Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed ct4g75r citdfdm ctgvzkp cvk905m cocsuzz c1m016cw c18375g3 c14u4hyb`} />
 </div>
 <h2
@@ -719,11 +719,11 @@ width={1280}
 height={640}
 alt={""}
 loading={"eager"}
-className={`w-image c11jmddu cc0vgw3 c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c12d1iul c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
+className={`w-image c11jmddu cc0vgw3 c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
 </Link>
 <HtmlEmbed
 code={"<h3>Overview</h3>\n<p>An unofficial manager app for managing the open-source local LLM tool \"<a href=\"https://github.com/ollama/ollama\" target=\"_blank\" data-umami-event=\"ollama-link\" data-umami-event-region=\"en\"><strong>Ollama</strong></a>\".<br>\nYou can connect to a remote server running Ollama, add or delete models on the remote server, and conduct a simple chat using the models on the remote server.</p>"}
-className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs cv0a9m c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 <Link
 href={"https://mocolamma.taikun.design/"}
@@ -767,7 +767,7 @@ className={`w-html-embed`} />
 </Link>
 <MarkdownEmbed
 code={"### Platform\n* **Mac with Apple silicon and Mac with Intel processor**\n  * Requires macOS Sonoma (14.0) or later.\n* **iPhone**\n  * Requires iOS 17.0 or later.\n* **iPad**\n  * Requires iPadOS 17.0 or later.\n* **Apple Vision Pro (as an iPad app)**\n  * Requires visionOS 2.0 or later (operation on 1.X is unconfirmed)."}
-className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs cv0a9m c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -786,10 +786,10 @@ className={`w-element ct4g75r c1tjbx48 c19ld4t3 c11jmddu c9nulm2 crt9jac c1b6k19
 href={"/en"}
 className={`w-element ct4g75r cwg8145 c16n9ye3 c1h9nl72`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"72\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"72\"\n  />\n</picture>\n"}
 className={`w-html-embed c1wz3v9x cmzzh0c cj7ktk7`} />
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design Logo\"\n    height=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/10/fcd86d232c4ff1fcbdb5e04f1adf76f8.webp\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/10/6c9516e8d8bd969f4f89adf39c752f74.webp\"\n    alt=\"TAIKUN.design\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed chj4q0r c1q58oy7 c1ax93o c11launb`} />
 </Link>
 <div
