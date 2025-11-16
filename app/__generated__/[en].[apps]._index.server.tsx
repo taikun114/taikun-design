@@ -20,9 +20,10 @@ export const getResources = (_props: { system: System }) => {
   system: System;
   resources: Record<string, any>;
 }): PageMeta => {
-  let siteTitle = " - TAIKUN.design"
+  let separator = " - "
+  let siteTitle = "TAIKUN.design"
   return {
-    title: "Apps I Develop" + siteTitle,
+    title: "Apps I Develop" + separator + siteTitle,
     description: "All the apps I develop are summarized here.",
     excludePageFromSearch: false,
     language: "en-US",

@@ -20,9 +20,10 @@ export const getResources = (_props: { system: System }) => {
   system: System;
   resources: Record<string, any>;
 }): PageMeta => {
-  let siteTitle = " - TAIKUN.design"
+  let separator = " - "
+  let siteTitle = "TAIKUN.design"
   return {
-    title: "お問い合わせ" + siteTitle,
+    title: "お問い合わせ" + separator + siteTitle,
     description: "このページでは、私へ連絡するためのメールアドレスと、私が運営しているすべてのSNSアカウントをまとめています。ここに書かれていないSNSアカウントは基本的に偽物である可能性が高いため、ご注意ください。",
     excludePageFromSearch: false,
     language: "ja-JP",

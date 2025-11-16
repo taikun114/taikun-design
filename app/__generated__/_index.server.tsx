@@ -20,9 +20,9 @@ export const getResources = (_props: { system: System }) => {
   system: System;
   resources: Record<string, any>;
 }): PageMeta => {
-  let siteTitle = " - TAIKUN.design"
+  let siteTitle = "TAIKUN.design"
   return {
-    title: "ホーム" + siteTitle,
+    title: siteTitle,
     description: "今浦大雅（たいくん）のホームページです。私のプロフィール、運営しているブログ、開発しているアプリなど、私に関する様々な情報がまとまっています。",
     excludePageFromSearch: false,
     language: "ja-JP",

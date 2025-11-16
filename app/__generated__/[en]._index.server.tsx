@@ -20,9 +20,9 @@ export const getResources = (_props: { system: System }) => {
   system: System;
   resources: Record<string, any>;
 }): PageMeta => {
-  let siteTitle = " - TAIKUN.design"
+  let siteTitle = "TAIKUN.design"
   return {
-    title: "Home" + siteTitle,
+    title: siteTitle,
     description: "This is Taiga Imaura (TAIKUN)'s homepage. It summarizes various information about me, including my profile, the blogs I run, and the apps I develop.",
     excludePageFromSearch: false,
     language: "en-US",

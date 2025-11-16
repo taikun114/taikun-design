@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "0d7d8d57-089d-4515-969e-c9b55562139d",
+    "id": "ba6be2cf-50c1-4901-a934-649c79df8c05",
     "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
-    "version": 8128,
-    "createdAt": "2025-11-12T08:46:00.612+00:00",
-    "updatedAt": "2025-11-12T08:46:00.612+00:00",
+    "version": 8149,
+    "createdAt": "2025-11-16T13:54:54.879+00:00",
+    "updatedAt": "2025-11-16T13:54:54.879+00:00",
     "pages": {
       "meta": {
         "siteName": "TAIKUN.design",
@@ -15,7 +15,7 @@
       "homePage": {
         "id": "brVmLJV9t4rQ1iQ0AwKNM",
         "name": "ホーム",
-        "title": "\"ホーム\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+        "title": "$ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
         "history": [
           ""
         ],
@@ -32,7 +32,7 @@
         {
           "id": "NS4vwUiGau-vMLNQY2Mmr",
           "name": "404",
-          "title": "\"ページが見つかりませんでした\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "\"ページが見つかりませんでした\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/en/en/",
             "/en/",
@@ -53,14 +53,14 @@
         {
           "id": "eyICjV_NpMNubG9aw0-vA",
           "name": "プロフィール",
-          "title": "\"プロフィール\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "\"プロフィール\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/profile",
             "/contact"
           ],
           "rootInstanceId": "wFUuVsuUG3Ms42Caoh5HK",
           "meta": {
-            "description": "\"2004年1月14日生まれ。指定難病「シャルコー・マリー・トゥース病（CMT）」による重度の身体障害者です。私は普段、「たいくん」として活動しています。\\nApple愛好家 / コレクター、ブロガー、アプリデベロッパー、グラフィック / ウェブデザイナーとしてなど、幅広く活動しています。\"",
+            "description": "\"2004年1月14日生まれの日本人。生まれつき、指定難病「シャルコー・マリー・トゥース病（CMT）」による重度の身体障害者で、車椅子に乗って生活しています。\\nインターネット上では普段「たいくん」として活動しています。\\nApple愛好家 / コレクター、ブロガー、アプリデベロッパー、グラフィック / ウェブデザイナーとしてなど、幅広く活動しています。\"",
             "excludePageFromSearch": "false",
             "language": "\"ja-JP\"",
             "socialImageAssetId": "c0e5ba67fd82903563a16d64be037745a1a79d1ada2180bd82bfc97fa06c551e"
@@ -70,7 +70,7 @@
         {
           "id": "AFw3fJlWiNAVrSQhASyXH",
           "name": "私が開発しているアプリ",
-          "title": "\"私が開発しているアプリ\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "\"私が開発しているアプリ\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/apps",
             "/profile",
@@ -88,7 +88,7 @@
         {
           "id": "K_PPOTQfVPDnBwxSNBbQ-",
           "name": "プライバシーポリシー",
-          "title": "\"プライバシーポリシー\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "\"プライバシーポリシー\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/profile",
             "/contact"
@@ -105,7 +105,7 @@
         {
           "id": "CmI3moGwkKNbNLXnB72ED",
           "name": "お問い合わせ",
-          "title": "\"お問い合わせ\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "\"お問い合わせ\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/contact",
             "/profile"
@@ -122,7 +122,7 @@
         {
           "id": "fpfqtyC4nXPuJFl93q6rT",
           "name": "英語ホーム",
-          "title": "\"Home\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "$ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/en",
             ""
@@ -139,7 +139,7 @@
         {
           "id": "Qb2wqlwy3ahYsr303M6ug",
           "name": "404",
-          "title": "\"Page Not Found\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "\"Page Not Found\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/en/apps",
             "/profile",
@@ -158,14 +158,14 @@
         {
           "id": "QvSTfOWkR9x5zsiJeCfFj",
           "name": "プロフィール",
-          "title": "\"Profile\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "\"Profile\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/profile",
             "/contact"
           ],
           "rootInstanceId": "ElG9IE3hjrhl6onH32v-W",
           "meta": {
-            "description": "\"Born on January 14, 2004. I am a person with severe physical disabilities due to the designated intractable disease \\\"Charcot-Marie-Tooth disease (CMT)\\\". I usually go by the name \\\"たいくん (TAIKUN)\\\" in my activities.\\nI am active in a wide range of fields, including as an Apple enthusiast / collector, blogger, app developer, and graphic / web designer.\"",
+            "description": "\"A Japanese person born on January 14, 2004. I was born with a severe physical disability due to the designated intractable disease \\\"Charcot-Marie-Tooth disease (CMT)\\\" and live in a wheelchair.\\nI usually go by the name \\\"たいくん (TAIKUN)\\\" online.\\nI am active in a wide range of fields, including as an Apple enthusiast / collector, blogger, app developer, and graphic / web designer.\"",
             "excludePageFromSearch": "false",
             "language": "\"en-US\"",
             "socialImageAssetId": "c0e5ba67fd82903563a16d64be037745a1a79d1ada2180bd82bfc97fa06c551e"
@@ -175,7 +175,7 @@
         {
           "id": "tTMe9OXkl8nYckFuSFjvc",
           "name": "私が開発しているアプリ",
-          "title": "\"Apps I Develop\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "\"Apps I Develop\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/apps",
             "/profile",
@@ -193,7 +193,7 @@
         {
           "id": "_Ed1xzT7NNG70KR0MkQVX",
           "name": "お問い合わせ",
-          "title": "\"Contact Me\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "\"Contact Me\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/contact",
             "/profile"
@@ -210,7 +210,7 @@
         {
           "id": "DCgeR6oCS6MVW1O8eM5qi",
           "name": "プライバシーポリシー",
-          "title": "\"Privacy Policy\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+          "title": "\"Privacy Policy\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
             "/privacy-policy",
             "/profile",
@@ -129817,7 +129817,20 @@
           "name": "siteTitle",
           "value": {
             "type": "string",
-            "value": " - TAIKUN.design"
+            "value": "TAIKUN.design"
+          }
+        }
+      ],
+      [
+        "gNSHiK7uuR5Vw_Tg7uR1z",
+        {
+          "type": "variable",
+          "id": "gNSHiK7uuR5Vw_Tg7uR1z",
+          "scopeInstanceId": ":root",
+          "name": "separator",
+          "value": {
+            "type": "string",
+            "value": " - "
           }
         }
       ]
@@ -164327,7 +164340,7 @@
   "page": {
     "id": "brVmLJV9t4rQ1iQ0AwKNM",
     "name": "ホーム",
-    "title": "\"ホーム\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+    "title": "$ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
     "history": [
       ""
     ],
@@ -164344,7 +164357,7 @@
     {
       "id": "brVmLJV9t4rQ1iQ0AwKNM",
       "name": "ホーム",
-      "title": "\"ホーム\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "$ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         ""
       ],
@@ -164360,7 +164373,7 @@
     {
       "id": "NS4vwUiGau-vMLNQY2Mmr",
       "name": "404",
-      "title": "\"ページが見つかりませんでした\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "\"ページが見つかりませんでした\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/en/en/",
         "/en/",
@@ -164381,14 +164394,14 @@
     {
       "id": "eyICjV_NpMNubG9aw0-vA",
       "name": "プロフィール",
-      "title": "\"プロフィール\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "\"プロフィール\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/profile",
         "/contact"
       ],
       "rootInstanceId": "wFUuVsuUG3Ms42Caoh5HK",
       "meta": {
-        "description": "\"2004年1月14日生まれ。指定難病「シャルコー・マリー・トゥース病（CMT）」による重度の身体障害者です。私は普段、「たいくん」として活動しています。\\nApple愛好家 / コレクター、ブロガー、アプリデベロッパー、グラフィック / ウェブデザイナーとしてなど、幅広く活動しています。\"",
+        "description": "\"2004年1月14日生まれの日本人。生まれつき、指定難病「シャルコー・マリー・トゥース病（CMT）」による重度の身体障害者で、車椅子に乗って生活しています。\\nインターネット上では普段「たいくん」として活動しています。\\nApple愛好家 / コレクター、ブロガー、アプリデベロッパー、グラフィック / ウェブデザイナーとしてなど、幅広く活動しています。\"",
         "excludePageFromSearch": "false",
         "language": "\"ja-JP\"",
         "socialImageAssetId": "c0e5ba67fd82903563a16d64be037745a1a79d1ada2180bd82bfc97fa06c551e"
@@ -164398,7 +164411,7 @@
     {
       "id": "AFw3fJlWiNAVrSQhASyXH",
       "name": "私が開発しているアプリ",
-      "title": "\"私が開発しているアプリ\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "\"私が開発しているアプリ\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/apps",
         "/profile",
@@ -164416,7 +164429,7 @@
     {
       "id": "K_PPOTQfVPDnBwxSNBbQ-",
       "name": "プライバシーポリシー",
-      "title": "\"プライバシーポリシー\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "\"プライバシーポリシー\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/profile",
         "/contact"
@@ -164433,7 +164446,7 @@
     {
       "id": "CmI3moGwkKNbNLXnB72ED",
       "name": "お問い合わせ",
-      "title": "\"お問い合わせ\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "\"お問い合わせ\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/contact",
         "/profile"
@@ -164450,7 +164463,7 @@
     {
       "id": "fpfqtyC4nXPuJFl93q6rT",
       "name": "英語ホーム",
-      "title": "\"Home\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "$ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/en",
         ""
@@ -164467,7 +164480,7 @@
     {
       "id": "Qb2wqlwy3ahYsr303M6ug",
       "name": "404",
-      "title": "\"Page Not Found\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "\"Page Not Found\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/en/apps",
         "/profile",
@@ -164486,14 +164499,14 @@
     {
       "id": "QvSTfOWkR9x5zsiJeCfFj",
       "name": "プロフィール",
-      "title": "\"Profile\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "\"Profile\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/profile",
         "/contact"
       ],
       "rootInstanceId": "ElG9IE3hjrhl6onH32v-W",
       "meta": {
-        "description": "\"Born on January 14, 2004. I am a person with severe physical disabilities due to the designated intractable disease \\\"Charcot-Marie-Tooth disease (CMT)\\\". I usually go by the name \\\"たいくん (TAIKUN)\\\" in my activities.\\nI am active in a wide range of fields, including as an Apple enthusiast / collector, blogger, app developer, and graphic / web designer.\"",
+        "description": "\"A Japanese person born on January 14, 2004. I was born with a severe physical disability due to the designated intractable disease \\\"Charcot-Marie-Tooth disease (CMT)\\\" and live in a wheelchair.\\nI usually go by the name \\\"たいくん (TAIKUN)\\\" online.\\nI am active in a wide range of fields, including as an Apple enthusiast / collector, blogger, app developer, and graphic / web designer.\"",
         "excludePageFromSearch": "false",
         "language": "\"en-US\"",
         "socialImageAssetId": "c0e5ba67fd82903563a16d64be037745a1a79d1ada2180bd82bfc97fa06c551e"
@@ -164503,7 +164516,7 @@
     {
       "id": "tTMe9OXkl8nYckFuSFjvc",
       "name": "私が開発しているアプリ",
-      "title": "\"Apps I Develop\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "\"Apps I Develop\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/apps",
         "/profile",
@@ -164521,7 +164534,7 @@
     {
       "id": "_Ed1xzT7NNG70KR0MkQVX",
       "name": "お問い合わせ",
-      "title": "\"Contact Me\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "\"Contact Me\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/contact",
         "/profile"
@@ -164538,7 +164551,7 @@
     {
       "id": "DCgeR6oCS6MVW1O8eM5qi",
       "name": "プライバシーポリシー",
-      "title": "\"Privacy Policy\" + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
+      "title": "\"Privacy Policy\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
         "/privacy-policy",
         "/profile",

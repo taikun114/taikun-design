@@ -20,9 +20,10 @@ export const getResources = (_props: { system: System }) => {
   system: System;
   resources: Record<string, any>;
 }): PageMeta => {
-  let siteTitle = " - TAIKUN.design"
+  let separator = " - "
+  let siteTitle = "TAIKUN.design"
   return {
-    title: "プライバシーポリシー" + siteTitle,
+    title: "プライバシーポリシー" + separator + siteTitle,
     description: "このウェブサイトでの個人情報の取り扱いについてまとめられています。",
     excludePageFromSearch: false,
     language: "ja-JP",

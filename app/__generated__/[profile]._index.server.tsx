@@ -20,10 +20,11 @@ export const getResources = (_props: { system: System }) => {
   system: System;
   resources: Record<string, any>;
 }): PageMeta => {
-  let siteTitle = " - TAIKUN.design"
+  let separator = " - "
+  let siteTitle = "TAIKUN.design"
   return {
-    title: "プロフィール" + siteTitle,
-    description: "2004年1月14日生まれ。指定難病「シャルコー・マリー・トゥース病（CMT）」による重度の身体障害者です。私は普段、「たいくん」として活動しています。\nApple愛好家 / コレクター、ブロガー、アプリデベロッパー、グラフィック / ウェブデザイナーとしてなど、幅広く活動しています。",
+    title: "プロフィール" + separator + siteTitle,
+    description: "2004年1月14日生まれの日本人。生まれつき、指定難病「シャルコー・マリー・トゥース病（CMT）」による重度の身体障害者で、車椅子に乗って生活しています。\nインターネット上では普段「たいくん」として活動しています。\nApple愛好家 / コレクター、ブロガー、アプリデベロッパー、グラフィック / ウェブデザイナーとしてなど、幅広く活動しています。",
     excludePageFromSearch: false,
     language: "ja-JP",
     socialImageAssetName: "TAIKUN.design_rszH8oMTTBFJmHTkkHGuC.webp",

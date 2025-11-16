@@ -20,9 +20,10 @@ export const getResources = (_props: { system: System }) => {
   system: System;
   resources: Record<string, any>;
 }): PageMeta => {
-  let siteTitle = " - TAIKUN.design"
+  let separator = " - "
+  let siteTitle = "TAIKUN.design"
   return {
-    title: "Contact Me" + siteTitle,
+    title: "Contact Me" + separator + siteTitle,
     description: "This page summarizes the email address for contacting me and all the social media accounts I operate. Please be aware that any social media accounts not listed here are highly likely to be fake.",
     excludePageFromSearch: false,
     language: "en-US",

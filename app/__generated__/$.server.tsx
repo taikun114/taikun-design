@@ -20,9 +20,10 @@ export const getResources = (_props: { system: System }) => {
   system: System;
   resources: Record<string, any>;
 }): PageMeta => {
-  let siteTitle = " - TAIKUN.design"
+  let separator = " - "
+  let siteTitle = "TAIKUN.design"
   return {
-    title: "ページが見つかりませんでした" + siteTitle,
+    title: "ページが見つかりませんでした" + separator + siteTitle,
     description: "入力されたURLが正しいことをご確認ください。\nサイト内のリンクをクリックした際にこの画面が表示された場合は、間違ったリンクが設定されている可能性がありますので、お問い合わせページからご連絡ください。",
     excludePageFromSearch: true,
     language: "ja-JP",

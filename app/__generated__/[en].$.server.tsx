@@ -20,9 +20,10 @@ export const getResources = (_props: { system: System }) => {
   system: System;
   resources: Record<string, any>;
 }): PageMeta => {
-  let siteTitle = " - TAIKUN.design"
+  let separator = " - "
+  let siteTitle = "TAIKUN.design"
   return {
-    title: "Page Not Found" + siteTitle,
+    title: "Page Not Found" + separator + siteTitle,
     description: "Please verify that the entered URL is correct.\nIf this screen appears after clicking a link within the site, an incorrect link may have been set. Please contact me via the Contact Me page.",
     excludePageFromSearch: true,
     language: "en-US",

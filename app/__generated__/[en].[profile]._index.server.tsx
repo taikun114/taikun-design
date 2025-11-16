@@ -20,10 +20,11 @@ export const getResources = (_props: { system: System }) => {
   system: System;
   resources: Record<string, any>;
 }): PageMeta => {
-  let siteTitle = " - TAIKUN.design"
+  let separator = " - "
+  let siteTitle = "TAIKUN.design"
   return {
-    title: "Profile" + siteTitle,
-    description: "Born on January 14, 2004. I am a person with severe physical disabilities due to the designated intractable disease \"Charcot-Marie-Tooth disease (CMT)\". I usually go by the name \"たいくん (TAIKUN)\" in my activities.\nI am active in a wide range of fields, including as an Apple enthusiast / collector, blogger, app developer, and graphic / web designer.",
+    title: "Profile" + separator + siteTitle,
+    description: "A Japanese person born on January 14, 2004. I was born with a severe physical disability due to the designated intractable disease \"Charcot-Marie-Tooth disease (CMT)\" and live in a wheelchair.\nI usually go by the name \"たいくん (TAIKUN)\" online.\nI am active in a wide range of fields, including as an Apple enthusiast / collector, blogger, app developer, and graphic / web designer.",
     excludePageFromSearch: false,
     language: "en-US",
     socialImageAssetName: "TAIKUN.design_rszH8oMTTBFJmHTkkHGuC.webp",

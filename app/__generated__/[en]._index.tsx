@@ -12,7 +12,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2025-11-12T08:46:00.612Z";
+      export const lastPublished = "2025-11-16T13:54:54.879Z";
 
       export const siteName = "TAIKUN.design";
 
