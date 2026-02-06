@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2025-11-16T13:54:54.879Z";
+      export const lastPublished = "2026-02-06T14:46:48.253Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -50,7 +50,7 @@ className={`w-element c1uhg4lu c1r6gls1 choxsbt cwuyehs c1jbuqru cxmjziy c1xa9i4
 <Slot>
 <Fragment_1>
 <header
-className={`w-element c11jmddu c7a8s9g c1f2dxbp choxsbt cxmjziy c1f1jont cjxy5gi ct4g75r c1y1b6pq cj6mhg5 cn7ss8j cihy26h`}>
+className={`w-element c11jmddu c7a8s9g c1f2dxbp choxsbt cxmjziy c1f1jont c1uv9ug0 ct4g75r c1y1b6pq cj6mhg5 cn7ss8j cihy26h`}>
 <div
 className={`w-element c19si1a0 c11jmddu c1aner8p ct4g75r c19ld4t3 cocsuzz`}>
 <Link
@@ -104,13 +104,13 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <NavigationMenuLink>
 <Link_1
 href={"/profile"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"プロフィール"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私について詳しく"}
 </Paragraph>
 </Link_1>
@@ -118,13 +118,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/apps"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"アプリ"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が開発しているアプリ"}
 </Paragraph>
 </Link_1>
@@ -132,13 +132,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/contact"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir ckl24bg czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir ckl24bg czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"お問い合わせ"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私への連絡先はこちら"}
 </Paragraph>
 </Link_1>
@@ -146,13 +146,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/privacy-policy"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"プライバシーポリシー"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"このサイトでの個人情報の取り扱いについて"}
 </Paragraph>
 </Link_1>
@@ -195,13 +195,13 @@ href={"https://www.taikun-room.com/"}
 target={"_blank"}
 data-umami-event={"taikun-room-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの部屋"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"Apple関係やパソコンなどについての情報はこちら"}
 </Paragraph>
 </Link_1>
@@ -212,13 +212,13 @@ href={"https://www.taikun-life.com/"}
 target={"_blank"}
 data-umami-event={"taikun-life-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの生活"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"スマートホームや生活などについての情報はこちら"}
 </Paragraph>
 </Link_1>
@@ -229,13 +229,13 @@ href={"https://www.taikun.blog/"}
 target={"_blank"}
 data-umami-event={"taikun-blog-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの日記"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"ジャンルを問わない気軽で様々な情報についてはこちら"}
 </Paragraph>
 </Link_1>
@@ -246,13 +246,13 @@ href={"https://shop.taikun.design/"}
 target={"_blank"}
 data-umami-event={"taikun-shop-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんのお店"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が販売しているものはこちら"}
 </Paragraph>
 </Link_1>
@@ -263,13 +263,13 @@ href={"https://status.taikun.blog/"}
 target={"_blank"}
 data-umami-event={"taikun-status-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんのウェブサイト状況"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が運営しているウェブサイトの状況はこちら"}
 </Paragraph>
 </Link_1>
@@ -309,7 +309,7 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname)}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"Japanese (日本語)"}
@@ -319,7 +319,7 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname)}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"English"}
@@ -336,7 +336,7 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 <Box
 className={`w-box cv8t2l7 c1secrwn ct4g75r c1y1b6pq c1xa9i4n`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb cdyorid c1mbw45i c1rpzhwl c16gohy0 cv37mi0 c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v`} />
+className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb c19n0oe4 c1mbw45i c1rpzhwl c16r0nc6 cv37mi0 c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v`} />
 </Box>
 </NavigationMenu>
 <NavigationMenu
@@ -372,7 +372,7 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname)}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"Japanese (日本語)"}
@@ -382,7 +382,7 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname)}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"English"}
@@ -401,7 +401,7 @@ className={`w-menu-item`}>
 <NavigationMenuTrigger>
 <Button
 aria-label={"ナビゲーションメニュー"}
-className={`w-button cj8oioq cocsuzz c1y1b6pq c1tivusm cco206n c1ukjave c1ry58bl claofh5 cubyhfd c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 c1vatvfb c1ti8bjw cfjls63 ce2zwk0 czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cndp0st c1ro71nd c17tcyw3 c18vmskg c1rk13jm c1xsk8d6 c1uxvgeo c17bypyq c1mca3li c1e4c1v5 cmmgvpm chn33ep cfdop85 c1lflt38 c1ibudx9 c1jd08ry c1wcs2ef cg3axee clesgb5`}>
+className={`w-button cj8oioq cocsuzz c1y1b6pq cisk1be cco206n c1ukjave c1ry58bl claofh5 cubyhfd c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 c1vatvfb c1ti8bjw cfjls63 ce2zwk0 czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cndp0st c1ro71nd c17tcyw3 c18vmskg c1rk13jm c1xsk8d6 c1uxvgeo c17bypyq c1mca3li c1e4c1v5 ci2ge64 chn33ep cfdop85 c1lflt38 c1ibudx9 c1jd08ry c1wcs2ef cg3axee cpcmx10`}>
 <Box
 className={`w-box c1rqhae7 cind1dh c1h9nl72`}>
 <HtmlEmbed
@@ -421,13 +421,13 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <NavigationMenuLink>
 <Link_1
 href={"/profile"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"プロフィール"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私について詳しく"}
 </Paragraph>
 </Link_1>
@@ -435,13 +435,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/apps"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"アプリ"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が開発しているアプリ"}
 </Paragraph>
 </Link_1>
@@ -449,13 +449,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/contact"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir ckl24bg czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir ckl24bg czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"お問い合わせ"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私への連絡先はこちら"}
 </Paragraph>
 </Link_1>
@@ -463,13 +463,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/privacy-policy"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"プライバシーポリシー"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"このサイトでの個人情報の取り扱いについて"}
 </Paragraph>
 </Link_1>
@@ -484,13 +484,13 @@ href={"https://www.taikun-room.com/"}
 target={"_blank"}
 data-umami-event={"taikun-room-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの部屋"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"Apple関係やパソコンなどについての情報はこちら"}
 </Paragraph>
 </Link_1>
@@ -501,13 +501,13 @@ href={"https://www.taikun-life.com/"}
 target={"_blank"}
 data-umami-event={"taikun-life-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの生活"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"スマートホームや生活などについての情報はこちら"}
 </Paragraph>
 </Link_1>
@@ -518,13 +518,13 @@ href={"https://www.taikun.blog/"}
 target={"_blank"}
 data-umami-event={"taikun-blog-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの日記"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"ジャンルを問わない気軽で様々な情報についてはこちら"}
 </Paragraph>
 </Link_1>
@@ -535,13 +535,13 @@ href={"https://shop.taikun.design/"}
 target={"_blank"}
 data-umami-event={"taikun-shop-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんのお店"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が販売しているものはこちら"}
 </Paragraph>
 </Link_1>
@@ -552,13 +552,13 @@ href={"https://status.taikun.blog/"}
 target={"_blank"}
 data-umami-event={"taikun-status-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんのウェブサイト状況"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が運営しているウェブサイトの状況はこちら"}
 </Paragraph>
 </Link_1>
@@ -573,7 +573,7 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <Box
 className={`w-box cv8t2l7 ct4g75r c1y1b6pq c1secrwn c1xa9i4n c1d3tk8j c9djcgv`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb cdyorid c1mbw45i c1rpzhwl c16gohy0 cv37mi0 c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v`} />
+className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb c19n0oe4 c1mbw45i c1rpzhwl c16r0nc6 cv37mi0 c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v`} />
 </Box>
 </NavigationMenu>
 </div>
@@ -585,7 +585,7 @@ className={`w-element c11jmddu ct4g75r c1tjbx48 cb0rz9d`}>
 <div
 className={`w-element c11jmddu ct4g75r c3if8z9 cl3dhgm c1n88sfr cyeq9zr c1dix9sw c1y1b6pq c19si1a0 c11uniw5 c1gb4fx1 c1ut8zu2 c13v6ur1`}>
 <div
-className={`w-element cjxy5gi c1tje76w c12kbdwo c1iczteg csu86aj c11jmddu c1abhfw2 c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
+className={`w-element c1uv9ug0 c1tje76w c12kbdwo c1iczteg csu86aj c11jmddu c1abhfw2 c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
 <div
 className={`w-element c1abhfw2 c1f1jont c58ziie clap96c c190be04 ct4g75r c1tjbx48 c9nulm2 crt9jac cbhth2e cky4y32 cuft8f1`}>
 <main
@@ -689,7 +689,7 @@ className={`w-element cc0vgw3 c1tr50rt c1jp96eq`}>
 className={`w-element`}>
 <HtmlEmbed
 code={"<h1>プロフィール</h1>\n<h2>自己紹介</h2>\n<p>2004年1月14日生まれの日本人。生まれつき、指定難病「<a href=\"https://www.nanbyou.or.jp/entry/3773\" target=\"_blank\" data-umami-event=\"nanbyou-cmt-link\" data-umami-event-region=\"ja\"><strong>シャルコー・マリー・トゥース病（CMT）</strong></a>」による重度の身体障害者で、車椅子に乗って生活しています。<br>\n中学生の頃に「<a href=\"https://www.sokuwan.jp/patient/disease/index.html\" target=\"_blank\" data-umami-event=\"sokuwan-link\" data-umami-event-region=\"ja\"><strong>側湾症</strong></a>」を発症し、肺が潰れかかった状態まで進行したため、今後の呼吸機能障害を予防すべく手術治療を行いました。これにより背筋が伸びた状態で固定されています。</p>\n<p>インターネット上では普段「<strong>たいくん</strong>」として活動しています。<br>\nApple愛好家 / コレクター、ブロガー、アプリデベロッパー、グラフィック / ウェブデザイナーとしてなど、幅広く活動しています。<br>\n現在主に使用しているデザインツールはAffinityです。</p>\n<p>私について詳しく知りたい方は、後述の「<a href=\"#about-me\"><strong>私について</strong></a>」セクションをご覧ください。</p>\n<h3>運営しているブログ</h3>\n<p>私は文章を書くのが好きで、私の好きなことや共有したいことなど、様々な情報を発信するために様々なブログを運営しています！<br>\n投稿頻度はかなり低いですが、ご覧いただけるとうれしいです。ブログ一覧はホームページからご覧いただけます。</p>\n"}
-className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 <Link
 href={"/#blogs"}
@@ -697,13 +697,13 @@ className={`w-element ccf5130 c1v735k3 c12d1iul c1ehzuir c1m016cw c1kojgtj cjguz
 <div
 className={`w-element cv8t2l7 c1jbuqru cxmjziy c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cnhgshd ${"button-blur"}`}>
 <div
-className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler clap96c casit2p c8rmjdp c1gy61b2 c1qfww1d ct4g75r c19ld4t3 cocsuzz cxubj1j c9nulm2 crt9jac c1hp69fk cppwozy`}>
+className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler clap96c casit2p c15pbr10 c1gy61b2 c15r37q1 ct4g75r c19ld4t3 cocsuzz cxubj1j c9nulm2 crt9jac c1hp69fk cppwozy`}>
 <p
 className={`w-element cc0vgw3 c1tr50rt cugs37s`}>
 {"私が運営しているブログ"}
 </p>
 <Box
-className={`w-box ck8dx2b c1h9nl72 c16n9ye3 ct4g75r c1ku7qgc c1y1b6pq c19si1a0 c1tjbx48 c1kvd291 c19vllib`}>
+className={`w-box ck8dx2b c1h9nl72 c16n9ye3 ct4g75r c1ku7qgc c1y1b6pq c19si1a0 c1tjbx48 c1kvd291 c1dviqzs`}>
 <HtmlEmbed
 code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill=\"currentColor\" d=\"M471.1 297.4C483.6 309.9 483.6 330.2 471.1 342.7L279.1 534.7C266.6 547.2 246.3 547.2 233.8 534.7C221.3 522.2 221.3 501.9 233.8 489.4L403.2 320L233.9 150.6C221.4 138.1 221.4 117.8 233.9 105.3C246.4 92.8 266.7 92.8 279.2 105.3L471.2 297.3z\"/></svg>"}
 className={`w-html-embed`} />
@@ -711,13 +711,13 @@ className={`w-html-embed`} />
 </div>
 </div>
 <div
-className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler clap96c casit2p c8rmjdp c1gy61b2 c1qfww1d ct4g75r c19ld4t3 cocsuzz cxubj1j c9nulm2 crt9jac c1hp69fk cppwozy`}>
+className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler clap96c casit2p c15pbr10 c1gy61b2 c15r37q1 ct4g75r c19ld4t3 cocsuzz cxubj1j c9nulm2 crt9jac c1hp69fk cppwozy`}>
 <p
 className={`w-element cc0vgw3 c1tr50rt cugs37s`}>
 {"私が運営しているブログ"}
 </p>
 <Box
-className={`w-box ck8dx2b c1h9nl72 c16n9ye3 ct4g75r c1ku7qgc c1y1b6pq c19si1a0 c1tjbx48 c1kvd291 c19vllib c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v ${"button-icon"}`}>
+className={`w-box ck8dx2b c1h9nl72 c16n9ye3 ct4g75r c1ku7qgc c1y1b6pq c19si1a0 c1tjbx48 c1kvd291 c1dviqzs c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v ${"button-icon"}`}>
 <HtmlEmbed
 code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill=\"currentColor\" d=\"M471.1 297.4C483.6 309.9 483.6 330.2 471.1 342.7L279.1 534.7C266.6 547.2 246.3 547.2 233.8 534.7C221.3 522.2 221.3 501.9 233.8 489.4L403.2 320L233.9 150.6C221.4 138.1 221.4 117.8 233.9 105.3C246.4 92.8 266.7 92.8 279.2 105.3L471.2 297.3z\"/></svg>"}
 className={`w-html-embed`} />
@@ -730,7 +730,7 @@ className={`w-html-embed`} />
 </Link>
 <MarkdownEmbed
 code={"### 開発しているアプリ\n\nMacやiPhone、iPadなどで使えるアプリを開発しています。私が開発しているすべてのアプリは、アプリページからご覧いただけます。"}
-className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </MarkdownEmbed>
 <Link
 href={"/apps"}
@@ -738,13 +738,13 @@ className={`w-element ccf5130 c1v735k3 c12d1iul c1ehzuir c1m016cw c1kojgtj cjguz
 <div
 className={`w-element cv8t2l7 c1jbuqru cxmjziy c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cnhgshd ${"button-blur"}`}>
 <div
-className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler clap96c casit2p c8rmjdp c1gy61b2 c1qfww1d ct4g75r c19ld4t3 cocsuzz cxubj1j c9nulm2 crt9jac c1hp69fk cppwozy`}>
+className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler clap96c casit2p c15pbr10 c1gy61b2 c15r37q1 ct4g75r c19ld4t3 cocsuzz cxubj1j c9nulm2 crt9jac c1hp69fk cppwozy`}>
 <p
 className={`w-element cc0vgw3 c1tr50rt cugs37s`}>
 {"すべてのアプリ"}
 </p>
 <Box
-className={`w-box ck8dx2b c1h9nl72 c16n9ye3 ct4g75r c1ku7qgc c1y1b6pq c19si1a0 c1tjbx48 c1kvd291 c19vllib`}>
+className={`w-box ck8dx2b c1h9nl72 c16n9ye3 ct4g75r c1ku7qgc c1y1b6pq c19si1a0 c1tjbx48 c1kvd291 c1dviqzs`}>
 <HtmlEmbed
 code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill=\"currentColor\" d=\"M471.1 297.4C483.6 309.9 483.6 330.2 471.1 342.7L279.1 534.7C266.6 547.2 246.3 547.2 233.8 534.7C221.3 522.2 221.3 501.9 233.8 489.4L403.2 320L233.9 150.6C221.4 138.1 221.4 117.8 233.9 105.3C246.4 92.8 266.7 92.8 279.2 105.3L471.2 297.3z\"/></svg>"}
 className={`w-html-embed`} />
@@ -752,13 +752,13 @@ className={`w-html-embed`} />
 </div>
 </div>
 <div
-className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler clap96c casit2p c8rmjdp c1gy61b2 c1qfww1d ct4g75r c19ld4t3 cocsuzz cxubj1j c9nulm2 crt9jac c1hp69fk cppwozy`}>
+className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler clap96c casit2p c15pbr10 c1gy61b2 c15r37q1 ct4g75r c19ld4t3 cocsuzz cxubj1j c9nulm2 crt9jac c1hp69fk cppwozy`}>
 <p
 className={`w-element cc0vgw3 c1tr50rt cugs37s`}>
 {"すべてのアプリ"}
 </p>
 <Box
-className={`w-box ck8dx2b c1h9nl72 c16n9ye3 ct4g75r c1ku7qgc c1y1b6pq c19si1a0 c1tjbx48 c1kvd291 c19vllib c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v ${"button-icon"}`}>
+className={`w-box ck8dx2b c1h9nl72 c16n9ye3 ct4g75r c1ku7qgc c1y1b6pq c19si1a0 c1tjbx48 c1kvd291 c1dviqzs c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v ${"button-icon"}`}>
 <HtmlEmbed
 code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill=\"currentColor\" d=\"M471.1 297.4C483.6 309.9 483.6 330.2 471.1 342.7L279.1 534.7C266.6 547.2 246.3 547.2 233.8 534.7C221.3 522.2 221.3 501.9 233.8 489.4L403.2 320L233.9 150.6C221.4 138.1 221.4 117.8 233.9 105.3C246.4 92.8 266.7 92.8 279.2 105.3L471.2 297.3z\"/></svg>"}
 className={`w-html-embed`} />
@@ -770,14 +770,14 @@ executeScriptOnCanvas={true}
 className={`w-html-embed`} />
 </Link>
 <HtmlEmbed
-code={"<h3 id=\"about-me\">私について</h3>\n<h4>趣味</h4>\n<p>私の趣味は<strong>パソコン</strong>、<strong>オーディオ</strong>、<strong>カメラ</strong>、<strong>音楽鑑賞</strong>、<strong>動画鑑賞</strong>、<strong>デザイン</strong>など、様々な趣味を持っています。私は小さい頃からパソコンなどのデジタル機器が大好きで、その中でも特に、<a href=\"https://www.apple.com/jp/\" target=\"_blank\" data-umami-event=\"apple-link\" data-umami-event-region=\"ja\"><strong>Apple</strong></a>が大好きです！</p>\n<p>私がAppleを本格的に好きになったのは、2012年のある時、当時最新だった<strong>iPhone 5のテレビCMを観たことが最大のきっかけ</strong>です。私はもともと、さらに小さかった頃からパソコンなどのデジタル機器が大好きだったので、それ以前からAppleの存在自体は知っていたのですが、あの時観たCMに映っていた、<strong>iPhone 5のあまりにも美しいデザインに衝撃を受けた</strong>ことは今でもはっきりと覚えています（今思えば、現在の趣味の1つであるデザインは、この時からすでに兆候があったのかもしれませんw）。<br>\nそれからというもの、私はリサイクルショップに行くことも趣味の1つだったということもあり、リサイクルショップやインターネットでお買い得なものを見つけては購入し、今では様々なApple製品に囲まれて生活を送っています。</p>\n\n\n<!--- 使っているApple製品リスト --->\n\n<h4 id=\"using-apple-devices\">現在使用しているApple製品</h4>\n<p>現在私が主に使用しているApple製品は次の通りです（2025年11月時点）。</p>\n<ul>\n<li><strong>iPhone 12 Pro</strong>\n<ul>\n<li>操作するのが難しいのと、自宅では主にMacを使っているため、外出先以外はほとんど使用しません。自作アプリの実機確認に時々使用しています。</li>\n</ul>\n</li>\n<li><strong>Apple Watch Series 10</strong>\n<ul>\n<li>健康管理と通知の確認のために毎日着用しています。</li>\n</ul>\n</li>\n<li><strong>iPad mini (第6世代)</strong>\n<ul>\n<li>外出先に持っていったり、最近は主に自作アプリの実機確認に使ったりしています。</li>\n</ul>\n</li>\n<li><strong>Mac mini (2024)</strong>\n<ul>\n<li>私の生活の中枢となるメインMacです。食事と風呂の時間を除いて、1日のほとんどはこのMacの前で作業をしています。</li>\n</ul>\n</li>\n<li><strong>iMac (Retina 5K, 27-inch, 2020)</strong>\n<ul>\n<li>古いApple製品のチェックを行ったり、このMacが設置されている場所（メインMacが置いてあるデスクの反対側にあるデスク）で作業を行うときに使ったりしているサブMacです。使用頻度は低め。</li>\n</ul>\n</li>\n<li><strong>Mac Pro (Mid 2012)</strong>\n<ul>\n<li>ベッドの横に設置してあり、<a href=\"https://www.taikun-life.com/blog/rayneo-air-3s-review\" target=\"_blank\" data-umami-event=\"taikun-life-rayneo-air-3s-review-link\" data-umami-event-region=\"ja\"><strong>ARグラスのRayNeo Air 3s</strong></a>を接続して、寝る前など、ベッドで横になっているときに動画鑑賞を行うために使っているサブMacです。メインMacと同様、毎日使用しています。</li>\n</ul>\n</li>\n</ul>\n<p>また、高頻度で使用しているわけでは無いものの、時々検証用で使っているApple製品は次の通りです。</p>\n<ul>\n<li><strong>iPhone SE (第3世代)</strong>\n<ul>\n<li>自作アプリの実機確認に使用しています。</li>\n</ul>\n</li>\n<li><strong>MacBook (Retina, 12-inch, Early 2016)</strong>\n<ul>\n<li>外出先に持っていったり、ブログ「<a href=\"https://www.taikun-room.com/\" target=\"_blank\" data-umami-event=\"taikun-room-link\" data-umami-event-region=\"ja\"><strong>たいくんの部屋</strong></a>」で<a href=\"https://www.taikun-room.com/blog/how-to-install-macos-sequoia-on-unsupported-mac\" target=\"_blank\" data-umami-event=\"taikun-room-oclp-link\" data-umami-event-region=\"ja\"><strong>紹介しているOCLP</strong></a>の動作確認に使ったりしています。</li>\n</ul>\n</li>\n<li><strong>MacBook Pro (15-inch, Mid 2012)</strong>\n<ul>\n<li>自作アプリの古いMacでの動作確認と、OCLPの動作確認に使っています。</li>\n</ul>\n</li>\n</ul>"}
-className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+code={"<h3 id=\"about-me\">私について</h3>\n<h4>趣味</h4>\n<p>私の趣味は<strong>パソコン</strong>、<strong>オーディオ</strong>、<strong>カメラ</strong>、<strong>音楽鑑賞</strong>、<strong>動画鑑賞</strong>、<strong>デザイン</strong>など、様々な趣味を持っています。私は小さい頃からパソコンなどのデジタル機器が大好きで、その中でも特に、<a href=\"https://www.apple.com/jp/\" target=\"_blank\" data-umami-event=\"apple-link\" data-umami-event-region=\"ja\"><strong>Apple</strong></a>が大好きです！</p>\n<p>私がAppleを本格的に好きになったのは、2012年のある時、当時最新だった<strong>iPhone 5のテレビCMを観たことが最大のきっかけ</strong>です。私はもともと、さらに小さかった頃からパソコンなどのデジタル機器が大好きだったので、それ以前からAppleの存在自体は知っていたのですが、あの時観たCMに映っていた、<strong>iPhone 5のあまりにも美しいデザインに衝撃を受けた</strong>ことは今でもはっきりと覚えています（今思えば、現在の趣味の1つであるデザインは、この時からすでに兆候があったのかもしれませんw）。<br>\nそれからというもの、私はリサイクルショップに行くことも趣味の1つだったということもあり、リサイクルショップやインターネットでお買い得なものを見つけては購入し、今では様々なApple製品に囲まれて生活を送っています。</p>\n\n\n<!--- 使っているApple製品リスト --->\n\n<h4 id=\"using-apple-devices\">現在使用しているApple製品</h4>\n<p>現在私が主に使用しているApple製品は次の通りです（2026年2月時点）。</p>\n<ul>\n<li><strong>iPhone 12 Pro</strong>\n<ul>\n<li>操作するのが難しいのと、自宅では主にMacを使っているため、外出先以外はほとんど使用しません。自作アプリの実機確認に時々使用しています。</li>\n</ul>\n</li>\n<li><strong>Apple Watch Series 10</strong>\n<ul>\n<li>健康管理と通知の確認のために毎日着用しています。</li>\n</ul>\n</li>\n<li><strong>iPad mini (第6世代)</strong>\n<ul>\n<li>外出先に持っていったり、最近は主に自作アプリの実機確認に使ったりしています。</li>\n</ul>\n</li>\n<li><strong>Mac mini (2024)</strong>\n<ul>\n<li>私の生活の中枢となるメインMacです。食事と風呂の時間を除いて、1日のほとんどはこのMacの前で作業をしています。</li>\n</ul>\n</li>\n<li><strong>iMac (Retina 5K, 27-inch, 2020)</strong>\n<ul>\n<li>古いApple製品のチェックを行ったり、このMacが設置されている場所（メインMacが置いてあるデスクの反対側にあるデスク）で作業を行うときに使ったりしているサブMacです。使用頻度は低め。</li>\n</ul>\n</li>\n<li><strong>Mac Pro (Mid 2012)</strong>\n<ul>\n<li>ベッドの横に設置してあり、<a href=\"https://www.taikun-life.com/blog/rayneo-air-3s-review\" target=\"_blank\" data-umami-event=\"taikun-life-rayneo-air-3s-review-link\" data-umami-event-region=\"ja\"><strong>ARグラスのRayNeo Air 3s</strong></a>を接続して、寝る前など、ベッドで横になっているときに動画鑑賞を行うために使っているサブMacです。メインMacと同様、毎日使用しています。</li>\n</ul>\n</li>\n<li><strong>Apple Vision Pro (M5)</strong>\n<ul>\n<li>毎日自宅で使ったり、外出先に持ち出して使ったりしています。自宅では、Macの仮想ディスプレイとして大画面で作業したり、対応しているiPhoneやiPadアプリを使ったりしていて、外出先ではインターネットブラウジングをしたり、カメラをリモート操作するために使ったりしています。visionOS上での自作アプリの動作確認にも使用しています。</li>\n</ul>\n</li>\n<li><strong>HomePod mini x2</strong>\n<ul>\n<li>Siriを使って家電を制御したり、別のAirPlay 2対応スピーカーで音楽を再生・制御したりするために使用しています。1台はメインMac miniと同じデスク上に、もう1台はサブiMacと同じデスク上に設置してあります。</li>\n</ul>\n</li>\n</ul>\n<p>また、高頻度で使用しているわけでは無いものの、時々検証用で使っているApple製品は次の通りです。</p>\n<ul>\n<li><strong>iPhone SE (第3世代)</strong>\n<ul>\n<li>自作アプリの実機確認に使用しています。</li>\n</ul>\n</li>\n<li><strong>MacBook (Retina, 12-inch, Early 2016)</strong>\n<ul>\n<li>外出先に持っていったり、ブログ「<a href=\"https://www.taikun-room.com/\" target=\"_blank\" data-umami-event=\"taikun-room-link\" data-umami-event-region=\"ja\"><strong>たいくんの部屋</strong></a>」で<a href=\"https://www.taikun-room.com/blog/how-to-install-macos-sequoia-on-unsupported-mac\" target=\"_blank\" data-umami-event=\"taikun-room-oclp-link\" data-umami-event-region=\"ja\"><strong>紹介しているOCLP</strong></a>の動作確認に使ったりしています。</li>\n</ul>\n</li>\n<li><strong>MacBook Pro (15-inch, Mid 2012)</strong>\n<ul>\n<li>自作アプリの古いMacでの動作確認と、OCLPの動作確認に使っています。</li>\n</ul>\n</li>\n<li><strong>Apple TV 4K (第3世代、Wi-Fi + Ethernet)</strong>\n<ul>\n<li>かつては映画やApple Musicの空間オーディオ再生などに使用していましたが、最近はMacやApple Vision Proで十分事足りるようになってしまったため、現在はほとんど使用していません。電源は常に入っているため、HomePodと同じく、ホームハブやThreadネットワークの冗長性確保のために動いています。</li>\n</ul>\n</li>\n</ul>"}
+className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 <div
 className={`w-element`}>
 <HtmlEmbed
 code={"<h4 id=\"collection\">私のコレクションの簡単な紹介</h4>\n<p>私は数多くのApple製品をコレクションしています。すべてのコレクションをご紹介するのは難しいですが、ここでは私が持っているApple製品の一部をご紹介します。</p>\n<h5>iPhone</h5>\n"}
-className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 <Image
 src={"/assets/my-iphone__EBOTSsYFxP0MicRXPfzI.webp"}
@@ -788,7 +788,7 @@ loading={"lazy"}
 className={`w-image c11jmddu c1c1cx9i c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
 <HtmlEmbed
 code={"<p>こちらは、私が持っているiPhoneコレクションの一部です（2024年10月撮影）。<br>\nこちらの画像には、左から順に、以下のiPhoneが写っています。</p>\n<details>\n<summary>クリックまたはタップでコレクションを表示</summary>\n<ul>\n<li>下段\n<ul>\n<li>初代iPhone</li>\n<li>iPhone 3G</li>\n<li>iPhone 3GS</li>\n<li>iPhone 4</li>\n<li>iPhone 4s</li>\n<li>iPhone 5</li>\n<li>iPhone 5s</li>\n<li>iPhone 5c</li>\n</ul>\n</li>\n<li>上段\n<ul>\n<li>iPhone 6</li>\n<li>iPhone 6s</li>\n<li>iPhone SE (初代)</li>\n<li>iPhone 7</li>\n<li>iPhone 8</li>\n<li>iPhone 8 Plus</li>\n<li>iPhone X</li>\n</ul>\n</li>\n</ul>\n<hr>\n</details>\n<h5>iPod</h5>\n"}
-className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 <Image
 src={"/assets/my-ipod_4VV1F4JhGjjrdECWV7Rc3.webp"}
@@ -799,7 +799,7 @@ loading={"lazy"}
 className={`w-image c11jmddu c1c1cx9i c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
 <HtmlEmbed
 code={"<p>こちらは、私が持っているiPodコレクションの一部です（2024年10月撮影）。<br>\nこちらの画像には、左から順に、以下のiPodが写っています。</p>\n<details>\n<summary>クリックまたはタップでコレクションを表示</summary>\n<ul>\n<li>奥側\n<ul>\n<li>iPod nano (第6世代)</li>\n<li>iPod shuffle (第2世代) x2</li>\n</ul>\n</li>\n<li>中央側\n<ul>\n<li>iPod touch (初代)</li>\n<li>iPod touch (第2世代)</li>\n<li>iPod touch (第4世代) x2</li>\n<li>iPod touch (第5世代)</li>\n<li>iPod touch (第6世代)</li>\n<li>iPod shuffle (第3世代)（第2世代シルバーの奥）</li>\n<li>iPod shuffle (第2世代)</li>\n<li>iPod shuffle (第4世代)</li>\n</ul>\n</li>\n<li>手前側\n<ul>\n<li>iPod (第5世代)</li>\n<li>iPod mini (初代) x2</li>\n<li>iPod nano (初代)</li>\n<li>iPod nano (第2世代)</li>\n<li>iPod nano (第3世代)</li>\n<li>iPod nano (第4世代) x2</li>\n<li>iPod nano (第5世代)</li>\n<li>iPod nano (第7世代)</li>\n</ul>\n</li>\n</ul>\n<hr>\n</details>\n<h5>Mac</h5>\n"}
-className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 <Image
 src={"/assets/my-mac__WflGA9MagKxQ_Wpbw-N-.webp"}
@@ -810,7 +810,7 @@ loading={"lazy"}
 className={`w-image c11jmddu c1c1cx9i c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
 <HtmlEmbed
 code={"<p>こちらは、私が持っているMacコレクションの一部です（2024年10月撮影）。<br>\nこちらの画像には、左から順に、以下のMacが写っています。</p>\n<details>\n<summary>クリックまたはタップでコレクションを表示</summary>\n<ul>\n<li>奥側\n<ul>\n<li>iMac (21.5-inch, Late 2013)</li>\n</ul>\n</li>\n<li>手前側\n<ul>\n<li>MacBook Pro (15-inch, Mid 2012)</li>\n<li>MacBook (13-inch, Late 2009)</li>\n</ul>\n</li>\n</ul>\n<hr>\n</details>\n<p>Macは他の製品よりも大きく、見える範囲に設置できる数がかなり限られているため、画像に写っている数が他のコレクションよりも少ないですが、この他にも10台以上のMacを持っています（持っているiPodの数よりも多いですw）。</p>\n<h5>その他</h5>\n<p>撮影はしていませんが、他にもiPadを8台ほど、Apple Watchを5台ほど、その他のアクセサリ（Dockやケーブル、キーボードやマウスなど）も数多く所有しています。</p>\n"}
-className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 </div>
 <div
@@ -912,7 +912,7 @@ className={`w-element c1n2jbfn c2mep9p c19si1a0`} />
 </div>
 <HtmlEmbed
 code={"<p>CMTの進行に伴う足の変形を改善するための矯正手術を行う。</p>\n<p>当時放送されていたiPhone 5のテレビCMを観てデザインの素晴らしさに衝撃を受け、本格的にAppleを好きになる。その後、当時最新だったiPod touch (第5世代)を手に入れ、Apple製品の収集を始める。</p>"}
-className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 </div>
 </div>
@@ -936,7 +936,7 @@ className={`w-element c1n2jbfn c2mep9p c19si1a0`} />
 </div>
 <HtmlEmbed
 code={"<p>人生初のiPhoneとしてiPhone 4を、人生初のMacとしてMacBook Air (11-inch, Mid 2012)を手に入れる。</p>"}
-className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 </div>
 </div>
@@ -984,7 +984,7 @@ className={`w-element c1n2jbfn c2mep9p c19si1a0`} />
 </div>
 <HtmlEmbed
 code={"<p>これまで身に付けた知識・技術を活かして情報発信しようと決意し、ブログ「<a href=\"https://www.taikun-room.com/\" target=\"_blank\" data-umami-event=\"taikun-room-link\" data-umami-event-region=\"ja\"><strong>たいくんの部屋</strong></a>」の開設とYouTubeチャンネルへの動画投稿を開始。</p>"}
-className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz cmzzh0c c12d1iul`}>
+className={`w-html-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz cmzzh0c c12d1iul`}>
 </HtmlEmbed>
 </div>
 </div>
@@ -1008,7 +1008,7 @@ className={`w-element c1n2jbfn c2mep9p c19si1a0`} />
 </div>
 <HtmlEmbed
 code={"<p>スマートホームや生活に特化したブログ「<a href=\"https://www.taikun-life.com/\" target=\"_blank\" data-umami-event=\"taikun-life-link\" data-umami-event-region=\"ja\"><strong>たいくんの生活</strong></a>」を開設。</p>"}
-className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 </div>
 </div>
@@ -1032,7 +1032,7 @@ className={`w-element c1n2jbfn c2mep9p c19si1a0`} />
 </div>
 <HtmlEmbed
 code={"<p>「<a href=\"https://www.taikun-room.com/\" target=\"_blank\" data-umami-event=\"taikun-room-link\" data-umami-event-region=\"ja\" ><strong>たいくんの部屋</strong></a>」で公開されている記事『<a href=\"https://old.taikun-room.com/2022/10/how-to-install-macos-ventura-on-unsupported-mac.html\" target=\"_blank\" data-umami-event=\"taikun-room-ventura-oclp-link\" data-umami-event-region=\"ja\"><strong>【完全ガイド】macOS Ventura に非対応の古い Mac に Ventura をインストールする方法【OpenCore Legacy Patcher / OCLP】</strong></a>』の抜粋が、工学社発行の書籍『<a href=\"https://www.kohgakusha.co.jp/books/detail/978-4-7775-2235-4\" target=\"_blank\" data-umami-event=\"kohgakusha-ventura-book-link\" data-umami-event-region=\"ja\"><strong>「macOS」の最新版「macOS Ventura」使いこなしガイド</strong></a>』に掲載される。</p>\n<p>YouTubeチャンネル登録者数 1000人・年間再生時間 4000時間達成、チャンネルの収益化開始。</p>"}
-className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 </div>
 </div>
@@ -1056,7 +1056,7 @@ className={`w-element c1n2jbfn c2mep9p c19si1a0`} />
 </div>
 <HtmlEmbed
 code={"<p>YouTubeチャンネル登録者数 2000人達成。</p>\n<p>使用しているデザインツールをAdobe IllustratorからAffinity Designer 2へ切り替え。</p>\n"}
-className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 </div>
 </div>
@@ -1080,7 +1080,7 @@ className={`w-element c1n2jbfn c2mep9p c19si1a0`} />
 </div>
 <HtmlEmbed
 code={"<p>スマートホーム向けプラットフォームである<a href=\"https://www.home-assistant.io/\" target=\"_blank\" data-umami-event=\"home-assistant-link\" data-umami-event-region=\"ja\"><strong>Home Assistant</strong></a>用のカスタム統合「<a href=\"https://github.com/taikun114/VOICEVOX-TTS-for-Home-Assistant\" target=\"_blank\" data-umami-event=\"voicevox-tts-link\" data-umami-event-region=\"ja\"><strong>VOICEVOX TTS</strong></a>」とアドオン「<a href=\"https://github.com/taikun114/Home-Assistant-VOICEVOX-Engine\" target=\"_blank\" data-umami-event=\"voicevox-engine-addon-link\" data-umami-event-region=\"ja\"><strong>VOICEVOX Engine Addon</strong></a>」をリリース。</p>\n<p>ブログを一からデザインし直し、完全リニューアル。</p>\n<p>人生初の自作アプリ「<a href=\"/apps#clip-hold\"><strong>Clip Hold</strong></a>」と「<a href=\"/apps#mocolamma\"><strong>Mocolamma</strong></a>」をリリース。</p>\n<p>ジャンルを問わない自由なブログ「<a href=\"https://www.taikun.blog/\" target=\"_blank\" data-umami-event=\"taikun-blog-link\" data-umami-event-region=\"ja\"><strong>たいくんの日記</strong></a>」を開設。</p>\n<p>使用しているデザインツールをAffinity Designer 2からAffinityへ切り替え。</p>\n<p>私のホームページ（このサイト）を開設。</p>\n"}
-className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cua6ep0 c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1lsxwhi c4rz8oy ctmrmrm c3aymz6 c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv ci0b9gz cw9jqfh c1akrs2r cs3u7rv c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 </div>
 </div>
@@ -1098,7 +1098,7 @@ className={`w-element cind1dh c1rqhae7 c1jwjkn3 c2mep9p`} />
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c11jmddu c58ziie c1f1jont cjxy5gi c1a34am0 c1dix9sw chqy115 c1n88sfr ct4g75r c1y1b6pq c9jzhbt cs91o3h cw0g6jf c16zcdeq`}>
+className={`w-element c11jmddu c58ziie c1f1jont c1uv9ug0 c1a34am0 c1dix9sw chqy115 c1n88sfr ct4g75r c1y1b6pq c9jzhbt cs91o3h cw0g6jf c16zcdeq`}>
 <div
 className={`w-element ct4g75r c1aner8p c11jmddu c90ihpk c1cxr4jp c1j5q0ur`}>
 <div

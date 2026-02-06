@@ -12,7 +12,7 @@ import { AnimateChildren as AnimateChildren } from "@webstudio-is/sdk-components
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2025-11-16T13:54:54.879Z";
+      export const lastPublished = "2026-02-06T14:46:48.253Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -71,7 +71,7 @@ className={`w-element c1uhg4lu c1r6gls1 choxsbt c1db2mhz c1hqo6wn c58tzbx c1jbuq
 <Slot>
 <Fragment_1>
 <header
-className={`w-element c11jmddu c7a8s9g c1f2dxbp choxsbt cxmjziy c1f1jont cjxy5gi ct4g75r c1y1b6pq cj6mhg5 cn7ss8j cihy26h`}>
+className={`w-element c11jmddu c7a8s9g c1f2dxbp choxsbt cxmjziy c1f1jont c1uv9ug0 ct4g75r c1y1b6pq cj6mhg5 cn7ss8j cihy26h`}>
 <div
 className={`w-element c19si1a0 c11jmddu c1aner8p ct4g75r c19ld4t3 cocsuzz`}>
 <Link
@@ -125,13 +125,13 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <NavigationMenuLink>
 <Link_1
 href={"/profile"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"プロフィール"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私について詳しく"}
 </Paragraph>
 </Link_1>
@@ -139,13 +139,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/apps"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"アプリ"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が開発しているアプリ"}
 </Paragraph>
 </Link_1>
@@ -153,13 +153,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/contact"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir ckl24bg czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir ckl24bg czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"お問い合わせ"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私への連絡先はこちら"}
 </Paragraph>
 </Link_1>
@@ -167,13 +167,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/privacy-policy"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"プライバシーポリシー"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"このサイトでの個人情報の取り扱いについて"}
 </Paragraph>
 </Link_1>
@@ -216,13 +216,13 @@ href={"https://www.taikun-room.com/"}
 target={"_blank"}
 data-umami-event={"taikun-room-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの部屋"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"Apple関係やパソコンなどについての情報はこちら"}
 </Paragraph>
 </Link_1>
@@ -233,13 +233,13 @@ href={"https://www.taikun-life.com/"}
 target={"_blank"}
 data-umami-event={"taikun-life-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの生活"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"スマートホームや生活などについての情報はこちら"}
 </Paragraph>
 </Link_1>
@@ -250,13 +250,13 @@ href={"https://www.taikun.blog/"}
 target={"_blank"}
 data-umami-event={"taikun-blog-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの日記"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"ジャンルを問わない気軽で様々な情報についてはこちら"}
 </Paragraph>
 </Link_1>
@@ -267,13 +267,13 @@ href={"https://shop.taikun.design/"}
 target={"_blank"}
 data-umami-event={"taikun-shop-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんのお店"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が販売しているものはこちら"}
 </Paragraph>
 </Link_1>
@@ -284,13 +284,13 @@ href={"https://status.taikun.blog/"}
 target={"_blank"}
 data-umami-event={"taikun-status-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんのウェブサイト状況"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が運営しているウェブサイトの状況はこちら"}
 </Paragraph>
 </Link_1>
@@ -330,7 +330,7 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname)}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"Japanese (日本語)"}
@@ -340,7 +340,7 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname)}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"English"}
@@ -357,7 +357,7 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 <Box
 className={`w-box cv8t2l7 c1secrwn ct4g75r c1y1b6pq c1xa9i4n`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb cdyorid c1mbw45i c1rpzhwl c16gohy0 cv37mi0 c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v`} />
+className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb c19n0oe4 c1mbw45i c1rpzhwl c16r0nc6 cv37mi0 c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v`} />
 </Box>
 </NavigationMenu>
 <NavigationMenu
@@ -393,7 +393,7 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname)}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"Japanese (日本語)"}
@@ -403,7 +403,7 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname)}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"English"}
@@ -422,7 +422,7 @@ className={`w-menu-item`}>
 <NavigationMenuTrigger>
 <Button
 aria-label={"ナビゲーションメニュー"}
-className={`w-button cj8oioq cocsuzz c1y1b6pq c1tivusm cco206n c1ukjave c1ry58bl claofh5 cubyhfd c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 c1vatvfb c1ti8bjw cfjls63 ce2zwk0 czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cndp0st c1ro71nd c17tcyw3 c18vmskg c1rk13jm c1xsk8d6 c1uxvgeo c17bypyq c1mca3li c1e4c1v5 cmmgvpm chn33ep cfdop85 c1lflt38 c1ibudx9 c1jd08ry c1wcs2ef cg3axee clesgb5`}>
+className={`w-button cj8oioq cocsuzz c1y1b6pq cisk1be cco206n c1ukjave c1ry58bl claofh5 cubyhfd c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 c1vatvfb c1ti8bjw cfjls63 ce2zwk0 czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cndp0st c1ro71nd c17tcyw3 c18vmskg c1rk13jm c1xsk8d6 c1uxvgeo c17bypyq c1mca3li c1e4c1v5 ci2ge64 chn33ep cfdop85 c1lflt38 c1ibudx9 c1jd08ry c1wcs2ef cg3axee cpcmx10`}>
 <Box
 className={`w-box c1rqhae7 cind1dh c1h9nl72`}>
 <HtmlEmbed
@@ -442,13 +442,13 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <NavigationMenuLink>
 <Link_1
 href={"/profile"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"プロフィール"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私について詳しく"}
 </Paragraph>
 </Link_1>
@@ -456,13 +456,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/apps"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"アプリ"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が開発しているアプリ"}
 </Paragraph>
 </Link_1>
@@ -470,13 +470,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/contact"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir ckl24bg czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cugs37s c1ehzuir ckl24bg czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"お問い合わせ"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私への連絡先はこちら"}
 </Paragraph>
 </Link_1>
@@ -484,13 +484,13 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <NavigationMenuLink>
 <Link_1
 href={"/privacy-policy"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"プライバシーポリシー"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"このサイトでの個人情報の取り扱いについて"}
 </Paragraph>
 </Link_1>
@@ -505,13 +505,13 @@ href={"https://www.taikun-room.com/"}
 target={"_blank"}
 data-umami-event={"taikun-room-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの部屋"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"Apple関係やパソコンなどについての情報はこちら"}
 </Paragraph>
 </Link_1>
@@ -522,13 +522,13 @@ href={"https://www.taikun-life.com/"}
 target={"_blank"}
 data-umami-event={"taikun-life-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの生活"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"スマートホームや生活などについての情報はこちら"}
 </Paragraph>
 </Link_1>
@@ -539,13 +539,13 @@ href={"https://www.taikun.blog/"}
 target={"_blank"}
 data-umami-event={"taikun-blog-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんの日記"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"ジャンルを問わない気軽で様々な情報についてはこちら"}
 </Paragraph>
 </Link_1>
@@ -556,13 +556,13 @@ href={"https://shop.taikun.design/"}
 target={"_blank"}
 data-umami-event={"taikun-shop-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんのお店"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が販売しているものはこちら"}
 </Paragraph>
 </Link_1>
@@ -573,13 +573,13 @@ href={"https://status.taikun.blog/"}
 target={"_blank"}
 data-umami-event={"taikun-status-link"}
 data-umami-event-region={"ja"}
-className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c822nso c12sln3g c1djmiof`}>
+className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 {"たいくんのウェブサイト状況"}
 </Text>
 <Paragraph
-className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc`}>
+className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40kyc`}>
 {"私が運営しているウェブサイトの状況はこちら"}
 </Paragraph>
 </Link_1>
@@ -594,7 +594,7 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk cdypgbk cn40kyc
 <Box
 className={`w-box cv8t2l7 ct4g75r c1y1b6pq c1secrwn c1xa9i4n c1d3tk8j c9djcgv`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb cdyorid c1mbw45i c1rpzhwl c16gohy0 cv37mi0 c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v`} />
+className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb c19n0oe4 c1mbw45i c1rpzhwl c16r0nc6 cv37mi0 c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v`} />
 </Box>
 </NavigationMenu>
 </div>
@@ -608,7 +608,7 @@ className={`w-element c11jmddu ct4g75r cocsuzz cwy62ol c1n88sfr crgs22s c1dix9sw
 <AnimateChildren
 action={{"type":"view","animations":[{"name":"New Animation","description":"Create a new animation.","keyframes":[{"offset":1,"styles":{"translate":{"type":"tuple","value":[{"type":"unit","unit":"px","value":0},{"type":"unit","unit":"vh","value":35}]},"scale":{"type":"tuple","value":[{"type":"unit","unit":"%","value":80},{"type":"unit","unit":"%","value":80}]}}}],"timing":{"easing":"linear","fill":"both","rangeStart":["contain",{"type":"unit","value":50,"unit":"%"}],"rangeEnd":["cover",{"type":"unit","value":100,"unit":"%"}]}}],"isPinned":true}}>
 <div
-className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler cocsuzz c1y1b6pq ckcx4zm c1g5fj4a clap96c c190be04 c1a34am0 cyeq9zr c17k0e6m c11h7cy5 cppwozy coodrml c1aesd75 c16hvtgk c117eu1a cpotu89 c18koysr c184v0fa`}>
+className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler cocsuzz c1y1b6pq ckcx4zm c1g5fj4a clap96c c190be04 c1a34am0 cyeq9zr cao0ph6 c11h7cy5 cppwozy coodrml c1aesd75 c16hvtgk c117eu1a cpotu89 c18koysr c184v0fa`}>
 <h1
 className={`w-element cc0vgw3 c1tr50rt`}>
 <Image
@@ -618,7 +618,7 @@ height={324}
 alt={"TAIKUN.design"}
 loading={"eager"}
 fetchPriority={"high"}
-className={`w-image cfgut53 ctgvzkp c18y60fr c11jmddu c19si1a0`} />
+className={`w-image cs7h6pa ctgvzkp c18y60fr c11jmddu c19si1a0`} />
 </h1>
 </div>
 </AnimateChildren>
@@ -649,17 +649,17 @@ action={{"type":"view","animations":[{"name":"Parallax In","description":"Parall
 className={`w-element c1npwdyc c1wckod3 ct4g75r c3if8z9 c1tjbx48 c1p61p2a czvf8rz c11h7cy5 coodrml c1aesd75`}>
 <h2
 id={"profile"}
-className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1qfww1d cab9hk`}>
+className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c15r37q1 cab9hk`}>
 {"プロフィール"}
 </h2>
 <p
-className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1113fza c5eec9w`}>
+className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1oq850e c5eec9w`}>
 {"私の自己紹介"}
 </p>
 </div>
 <Link
 href={"/profile"}
-className={`w-element ct4g75r c1ehzuir c1c6hbjj cpqya63 c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 cr8uxk4 c1xvoxib c1glxk1h c3ojm4n c9zpm68 ${"button-link"}`}>
+className={`w-element ct4g75r c1ehzuir c1c6hbjj c1x1ad3w c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 c3eejkx c1xvoxib c1glxk1h c3ojm4n c9zpm68 ${"button-link"}`}>
 <div
 className={`w-element crosfk7 c1f1jont c58ziie clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cbhth2e cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
 <div
@@ -730,11 +730,11 @@ action={{"type":"view","animations":[{"name":"Parallax In","description":"Parall
 className={`w-element c1npwdyc c1wckod3 ct4g75r c3if8z9 c1tjbx48 c1p61p2a czvf8rz c11h7cy5 coodrml c1aesd75`}>
 <h2
 id={"blogs"}
-className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1qfww1d cab9hk`}>
+className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c15r37q1 cab9hk`}>
 {"ブログ"}
 </h2>
 <p
-className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1113fza c5eec9w`}>
+className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1oq850e c5eec9w`}>
 {"私が運営しているブログ"}
 </p>
 </div>
@@ -743,7 +743,7 @@ href={"https://www.taikun-room.com/"}
 target={"_blank"}
 data-umami-event={"taikun-room-link"}
 data-umami-event-region={"ja"}
-className={`w-element ct4g75r c1ehzuir c1c6hbjj cpqya63 c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 cr8uxk4 c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
+className={`w-element ct4g75r c1ehzuir c1c6hbjj c1x1ad3w c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 c3eejkx c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
 <div
 className={`w-element crosfk7 c1f1jont c58ziie clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cbhth2e cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
 <div
@@ -786,7 +786,7 @@ href={"https://www.taikun-life.com/"}
 target={"_blank"}
 data-umami-event={"taikun-life-link"}
 data-umami-event-region={"ja"}
-className={`w-element ct4g75r c1ehzuir c1c6hbjj cpqya63 c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 cr8uxk4 c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
+className={`w-element ct4g75r c1ehzuir c1c6hbjj c1x1ad3w c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 c3eejkx c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
 <div
 className={`w-element crosfk7 c1f1jont c58ziie clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cbhth2e cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
 <div
@@ -829,7 +829,7 @@ href={"https://www.taikun.blog/"}
 target={"_blank"}
 data-umami-event={"taikun-blog-link"}
 data-umami-event-region={"ja"}
-className={`w-element ct4g75r c1ehzuir c1c6hbjj cpqya63 c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 cr8uxk4 c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
+className={`w-element ct4g75r c1ehzuir c1c6hbjj c1x1ad3w c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 c3eejkx c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
 <div
 className={`w-element crosfk7 c1f1jont c58ziie clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cbhth2e cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
 <div
@@ -877,11 +877,11 @@ action={{"type":"view","animations":[{"name":"Parallax In","description":"Parall
 className={`w-element c1npwdyc c1wckod3 ct4g75r c3if8z9 c1tjbx48 c1p61p2a czvf8rz c11h7cy5 coodrml c1aesd75`}>
 <h2
 id={"apps"}
-className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1qfww1d cab9hk`}>
+className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c15r37q1 cab9hk`}>
 {"アプリ"}
 </h2>
 <p
-className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1113fza c5eec9w`}>
+className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1oq850e c5eec9w`}>
 {"私が開発している注目のアプリ"}
 </p>
 </div>
@@ -890,9 +890,9 @@ href={"https://clip-hold.taikun.design/jp"}
 target={"_blank"}
 data-umami-event={"clip-hold-link"}
 data-umami-event-region={"ja"}
-className={`w-element ct4g75r c1ehzuir c1c6hbjj cpqya63 c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 cr8uxk4 c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
+className={`w-element ct4g75r c1ehzuir c1c6hbjj c1x1ad3w c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 c3eejkx c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
 <div
-className={`w-element crosfk7 c1f1jont c58ziie clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v ckrh36b c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler c9elfib cbhth2e cppwozy cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
+className={`w-element crosfk7 c1f1jont c58ziie clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v ckrh36b c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler c1uw7gne cbhth2e cppwozy cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
 <div
 className={`w-element ct4g75r crt9jac c9nulm2 c11jmddu c1w59rtg`}>
 <div
@@ -939,7 +939,7 @@ href={"https://mocolamma.taikun.design/jp"}
 target={"_blank"}
 data-umami-event={"mocolamma-link"}
 data-umami-event-region={"ja"}
-className={`w-element ct4g75r c1ehzuir c1c6hbjj cpqya63 c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 cr8uxk4 c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
+className={`w-element ct4g75r c1ehzuir c1c6hbjj c1x1ad3w c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 c3eejkx c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
 <div
 className={`w-element crosfk7 c1f1jont ckxqmf8 clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c1tlrmno cbhth2e cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
 <div
@@ -985,7 +985,7 @@ className={`w-html-embed`} />
 </Link>
 <Link
 href={"/apps"}
-className={`w-element ct4g75r c1ehzuir c1c6hbjj cpqya63 c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 cr8uxk4 c1xvoxib c1glxk1h c3ojm4n c9zpm68 ${"button-link"}`}>
+className={`w-element ct4g75r c1ehzuir c1c6hbjj c1x1ad3w c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 c3eejkx c1xvoxib c1glxk1h c3ojm4n c9zpm68 ${"button-link"}`}>
 <div
 className={`w-element crosfk7 c1f1jont c58ziie clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cocsuzz cbhth2e cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
 <div
@@ -1017,11 +1017,11 @@ action={{"type":"view","animations":[{"name":"Parallax In","description":"Parall
 className={`w-element c1npwdyc c1wckod3 ct4g75r c3if8z9 c1tjbx48 c1p61p2a czvf8rz c11h7cy5 coodrml c1aesd75`}>
 <h2
 id={"support"}
-className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1qfww1d cab9hk`}>
+className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c15r37q1 cab9hk`}>
 {"サポート"}
 </h2>
 <p
-className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1113fza c5eec9w`}>
+className={`w-element cc0vgw3 c1tr50rt c1nrkz9b c1oq850e c5eec9w`}>
 {"私をサポートしていただけるサービス"}
 </p>
 </div>
@@ -1030,7 +1030,7 @@ href={"https://brave.com/ja/tips/"}
 target={"_blank"}
 data-umami-event={"brave-rewards-link"}
 data-umami-event-region={"ja"}
-className={`w-element ct4g75r c1ehzuir c1c6hbjj cpqya63 c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 cr8uxk4 c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
+className={`w-element ct4g75r c1ehzuir c1c6hbjj c1x1ad3w c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 c3eejkx c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
 <div
 className={`w-element crosfk7 c1f1jont c58ziie clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cbhth2e cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
 <div
@@ -1077,7 +1077,7 @@ href={"https://buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
 data-umami-event={"buy-me-a-coffee-link"}
 data-umami-event-region={"ja"}
-className={`w-element ct4g75r c1ehzuir c1c6hbjj cpqya63 c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 cr8uxk4 c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
+className={`w-element ct4g75r c1ehzuir c1c6hbjj c1x1ad3w c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 c3eejkx c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
 <div
 className={`w-element crosfk7 c1f1jont c58ziie clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cbhth2e cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
 <div
@@ -1124,7 +1124,7 @@ href={"https://www.paypal.com/paypalme/taikun114"}
 target={"_blank"}
 data-umami-event={"paypal-me-link"}
 data-umami-event-region={"ja"}
-className={`w-element ct4g75r c1ehzuir c1c6hbjj cpqya63 c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 cr8uxk4 c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
+className={`w-element ct4g75r c1ehzuir c1c6hbjj c1x1ad3w c1tje76w c12kbdwo c1iczteg csu86aj c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c11h7cy5 c3eejkx c1xvoxib c1glxk1h c3ojm4n c9zpm68`}>
 <div
 className={`w-element crosfk7 c1f1jont c58ziie clap96c c190be04 ct4g75r c3binlp c1p61p2a czvf8rz c11jmddu c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cbhth2e cky4y32 cdd73g8 cuft8f1 c1a6qjea`}>
 <div
@@ -1164,7 +1164,7 @@ className={`w-html-embed`} />
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c11jmddu c58ziie c1f1jont cjxy5gi c1a34am0 c1dix9sw chqy115 c1n88sfr ct4g75r c1y1b6pq c9jzhbt cs91o3h cw0g6jf c16zcdeq`}>
+className={`w-element c11jmddu c58ziie c1f1jont c1uv9ug0 c1a34am0 c1dix9sw chqy115 c1n88sfr ct4g75r c1y1b6pq c9jzhbt cs91o3h cw0g6jf c16zcdeq`}>
 <div
 className={`w-element ct4g75r c1aner8p c11jmddu c90ihpk c1cxr4jp c1j5q0ur`}>
 <div

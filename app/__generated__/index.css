@@ -9,94 +9,40 @@
     white-space-collapse: preserve
   }
   a.w-element {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   body.w-element {
     box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin: 0
   }
   div.w-element {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   h1.w-element {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   h2.w-element {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   h3.w-element {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   h4.w-element {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   h5.w-element {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   header.w-element {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   main.w-element {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   p.w-element {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   div.w-html-embed {
     display: contents;
@@ -104,36 +50,16 @@
     white-space-collapse: collapse
   }
   div.w-navigation-menu {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   div.w-menu-list {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   div.w-menu-item {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   a.w-link {
     box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px;
     display: inline-block
   }
   button.w-button {
@@ -141,10 +67,6 @@
     font-size: 100%;
     line-height: 1.15;
     box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
     border-top-style: solid;
     border-right-style: solid;
     border-bottom-style: solid;
@@ -154,52 +76,22 @@
   }
   div.w-text {
     box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px;
     min-height: 1em
   }
   div.w-box {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   div.w-menu-content {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   div.w-menu-viewport {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   p.w-paragraph {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
+    box-sizing: border-box
   }
   img.w-image {
     box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px;
     max-width: 100%;
     display: block;
     height: auto
@@ -250,8 +142,8 @@
     -webkit-backdrop-filter: blur(64px) saturate(250%);
     backdrop-filter: blur(64px) saturate(250%)
   }
-  .cjxy5gi {
-    box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.2)
+  .c1uv9ug0 {
+    box-shadow: 0px 0px 32px 0px rgb(0 0 0 / 0.2)
   }
   .cj6mhg5 {
     padding-left: max(1.5rem,env(safe-area-inset-left))
@@ -551,8 +443,8 @@
   .chgvdfb {
     border-bottom-left-radius: 24px
   }
-  .cdyorid {
-    color: rgba(2, 8, 23, 1)
+  .c19n0oe4 {
+    color: rgb(2 8 23 / 1)
   }
   .c1mbw45i {
     height: var(--radix-navigation-menu-viewport-height)
@@ -560,8 +452,8 @@
   .c1rpzhwl {
     width: var(--radix-navigation-menu-viewport-width)
   }
-  .c16gohy0 {
-    box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 16px 0px
+  .c16r0nc6 {
+    box-shadow: rgb(0 0 0 / 0.2) 0px 0px 16px 0px
   }
   .cv37mi0 {
     background-color: light-dark(#fff, #000)
@@ -588,14 +480,14 @@
   .c1dtvkfo {
     padding: 0.75rem
   }
-  .c822nso:hover {
-    color: rgba(15, 23, 42, 1)
+  .c1s2s2jx:hover {
+    color: rgb(15 23 42 / 1)
   }
   .c12sln3g:focus {
     background-color: light-dark(#00000012,#ffffff12)
   }
-  .c1djmiof:focus {
-    color: rgba(15, 23, 42, 1)
+  .ck3nsmy:focus {
+    color: rgb(15 23 42 / 1)
   }
   .c1gy61b2 {
     font-weight: 700
@@ -606,14 +498,14 @@
   .c6fmvsk {
     line-height: 1.375
   }
-  .cdypgbk {
-    color: rgba(100, 116, 139, 1)
+  .c14lh3lr {
+    color: rgb(100 116 139 / 1)
   }
   .c1q58oy7 {
     display: none
   }
-  .c1tivusm {
-    background-color: rgba(0, 143, 255, 1)
+  .cisk1be {
+    background-color: rgb(0 143 255 / 1)
   }
   .cubyhfd {
     padding-bottom: 0.5rem
@@ -627,11 +519,11 @@
   .c17tcyw3 {
     padding-left: 0.7rem
   }
-  .cmmgvpm:focus-visible {
-    background-color: rgba(0, 120, 216, 1)
+  .ci2ge64:focus-visible {
+    background-color: rgb(0 120 216 / 1)
   }
-  .clesgb5:hover {
-    background-color: rgba(0, 120, 216, 1)
+  .cpcmx10:hover {
+    background-color: rgb(0 120 216 / 1)
   }
   .cb0rz9d {
     min-height: 100vh
@@ -844,8 +736,8 @@
   .c190be04 {
     --corner-radius: 64px
   }
-  .c17k0e6m {
-    box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.5)
+  .cao0ph6 {
+    box-shadow: 0px 0px 32px 0px rgb(0 0 0 / 0.5)
   }
   .c11h7cy5 {
     will-change: transform
@@ -964,11 +856,11 @@
   .c1jp96eq {
     font-size: 14px
   }
-  .cpqya63 {
-    box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.2)
+  .c1x1ad3w {
+    box-shadow: 0px 0px 16px 0px rgb(0 0 0 / 0.2)
   }
-  .cr8uxk4:hover {
-    box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.2)
+  .c3eejkx:hover {
+    box-shadow: 0px 0px 32px 0px rgb(0 0 0 / 0.2)
   }
   .crosfk7 {
     max-width: none
@@ -1024,8 +916,8 @@
   .ckrh36b {
     background-image: linear-gradient(180deg,#94AFE8 0%,#204186 100%)
   }
-  .c9elfib {
-    color: rgba(242, 244, 255, 1)
+  .c1uw7gne {
+    color: rgb(242 244 255 / 1)
   }
   .c1udsxt8 {
     filter: blur(16px) brightness(150%) opacity(50%)
@@ -1036,11 +928,11 @@
   .cet7ilb {
     height: 38px
   }
-  .c1qfww1d {
-    text-shadow: 0px 0px 16px rgba(0, 0, 0, 0.5)
+  .c15r37q1 {
+    text-shadow: 0px 0px 16px rgb(0 0 0 / 0.5)
   }
-  .c1113fza {
-    text-shadow: 0px 0px 16px rgba(0, 0, 0, 1)
+  .c1oq850e {
+    text-shadow: 0px 0px 16px rgb(0 0 0 / 1)
   }
   .c16xlwjg {
     line-height: 1.7
@@ -1195,8 +1087,8 @@
   .c1a7jy7c a {
     will-change: filter
   }
-  .cua6ep0 a:hover {
-    text-shadow: 0px 0px 16px rgba(0, 143, 255, 1)
+  .cqgo09p a:hover {
+    text-shadow: 0px 0px 16px rgb(0 143 255 / 1)
   }
   .c1ey9net a:hover {
     filter: brightness(150%)
@@ -1246,17 +1138,17 @@
   .cu3g5le blockquote {
     --corner-radius: 24px
   }
-  .c1lsxwhi blockquote {
-    border-top: 0px solid rgba(0, 143, 255, 1)
+  .c1migpe7 blockquote {
+    border-top: 0px solid rgb(0 143 255 / 1)
   }
-  .c4rz8oy blockquote {
-    border-right: 0px solid rgba(0, 143, 255, 1)
+  .c1g1aokf blockquote {
+    border-right: 0px solid rgb(0 143 255 / 1)
   }
-  .ctmrmrm blockquote {
-    border-bottom: 0px solid rgba(0, 143, 255, 1)
+  .cegbdas blockquote {
+    border-bottom: 0px solid rgb(0 143 255 / 1)
   }
-  .c3aymz6 blockquote {
-    border-left: 8px solid rgba(0, 143, 255, 1)
+  .cfedefs blockquote {
+    border-left: 8px solid rgb(0 143 255 / 1)
   }
   .c1mfdgii blockquote {
     padding: 1rem
@@ -1357,17 +1249,17 @@
   .cwunlpv th {
     padding-right: 0.5rem
   }
-  .ci0b9gz th {
-    color: rgba(255, 255, 255, 1)
+  .c7f3l23 th {
+    color: rgb(255 255 255 / 1)
   }
-  .cw9jqfh th {
-    background-color: rgba(0, 143, 255, 1)
+  .cwijwkl th {
+    background-color: rgb(0 143 255 / 1)
   }
   .c1akrs2r th {
     text-align: start
   }
-  .cs3u7rv th {
-    outline: 2px solid rgba(0, 143, 255, 1)
+  .c1mo1o1w th {
+    outline: 2px solid rgb(0 143 255 / 1)
   }
   .c1wfafrm td {
     padding-left: 0.5rem
@@ -1399,8 +1291,8 @@
   .casit2p {
     --corner-radius: 24px
   }
-  .c8rmjdp {
-    color: rgba(255, 255, 255, 1)
+  .c15pbr10 {
+    color: rgb(255 255 255 / 1)
   }
   .ck8dx2b {
     width: 16px
@@ -1408,8 +1300,8 @@
   .c1kvd291 {
     margin-right: -4px
   }
-  .c19vllib {
-    filter: drop-shadow(0px 0px 16px rgba(0, 0, 0, 0.5))
+  .c1dviqzs {
+    filter: drop-shadow(0px 0px 16px rgb(0 0 0 / 0.5))
   }
   .c15zqx8t {
     background-color: light-dark(#00000012,#ffffff12)
@@ -1525,8 +1417,8 @@
   .c1c1cx9i {
     margin-top: 0rem
   }
-  .cfgut53 {
-    filter: drop-shadow(0px 0px 16px rgba(0, 0, 0, 0.2))
+  .cs7h6pa {
+    filter: drop-shadow(0px 0px 16px rgb(0 0 0 / 0.2))
   }
   .c18y60fr {
     max-height: 128px
