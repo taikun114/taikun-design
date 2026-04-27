@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2026-02-06T14:46:48.253Z";
+      export const lastPublished = "2026-04-27T09:30:30.523Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -714,7 +714,7 @@ data-umami-event={"mocolamma-link"}
 data-umami-event-region={"en"}
 className={`w-element ccf5130 cg5mfwo c11jmddu`}>
 <Image
-src={"/assets/Mocolamma_Social_trfev-IRZJNcAH3wL9u2Y.webp"}
+src={"/assets/Mocolamma_Social_1_iK22YtfgDdbPubZbyEi7r.webp"}
 width={1280}
 height={640}
 alt={""}
@@ -766,7 +766,7 @@ executeScriptOnCanvas={true}
 className={`w-html-embed`} />
 </Link>
 <MarkdownEmbed
-code={"### Platform\n* **Mac with Apple silicon and Mac with Intel processor**\n  * Requires macOS Sonoma (14.0) or later.\n* **iPhone**\n  * Requires iOS 17.0 or later.\n* **iPad**\n  * Requires iPadOS 17.0 or later.\n* **Apple Vision Pro (as an iPad app)**\n  * Requires visionOS 2.0 or later (operation on 1.X is unconfirmed)."}
+code={"### Platform\n* **Mac with Apple silicon and Mac with Intel processor**\n  * Requires macOS Sequoia (15.0) or later.\n* **iPhone**\n  * Requires iOS 18.0 or later.\n* **iPad**\n  * Requires iPadOS 18.0 or later.\n* **Apple Vision Pro**\n  * Requires visionOS 2.0 or later."}
 className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </MarkdownEmbed>
 </div>

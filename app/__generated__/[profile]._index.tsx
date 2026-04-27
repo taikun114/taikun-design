@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2026-02-06T14:46:48.253Z";
+      export const lastPublished = "2026-04-27T09:30:30.523Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -1080,6 +1080,30 @@ className={`w-element c1n2jbfn c2mep9p c19si1a0`} />
 </div>
 <HtmlEmbed
 code={"<p>スマートホーム向けプラットフォームである<a href=\"https://www.home-assistant.io/\" target=\"_blank\" data-umami-event=\"home-assistant-link\" data-umami-event-region=\"ja\"><strong>Home Assistant</strong></a>用のカスタム統合「<a href=\"https://github.com/taikun114/VOICEVOX-TTS-for-Home-Assistant\" target=\"_blank\" data-umami-event=\"voicevox-tts-link\" data-umami-event-region=\"ja\"><strong>VOICEVOX TTS</strong></a>」とアドオン「<a href=\"https://github.com/taikun114/Home-Assistant-VOICEVOX-Engine\" target=\"_blank\" data-umami-event=\"voicevox-engine-addon-link\" data-umami-event-region=\"ja\"><strong>VOICEVOX Engine Addon</strong></a>」をリリース。</p>\n<p>ブログを一からデザインし直し、完全リニューアル。</p>\n<p>人生初の自作アプリ「<a href=\"/apps#clip-hold\"><strong>Clip Hold</strong></a>」と「<a href=\"/apps#mocolamma\"><strong>Mocolamma</strong></a>」をリリース。</p>\n<p>ジャンルを問わない自由なブログ「<a href=\"https://www.taikun.blog/\" target=\"_blank\" data-umami-event=\"taikun-blog-link\" data-umami-event-region=\"ja\"><strong>たいくんの日記</strong></a>」を開設。</p>\n<p>使用しているデザインツールをAffinity Designer 2からAffinityへ切り替え。</p>\n<p>私のホームページ（このサイト）を開設。</p>\n"}
+className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+</HtmlEmbed>
+</div>
+</div>
+<div
+className={`w-element c12hzlcl`}>
+<div
+className={`w-element ct4g75r cocsuzz czvf8rz c1p61p2a`}>
+<div
+className={`w-element cind1dh c1rqhae7 c1riol8a c1jk42b5 c3pgikq c1uvcjca cu8mq3p cr4t7r3 cuz7td5 c16mysat c187b128 c87ns92 c1ciacan c18citxc`} />
+<h5
+className={`w-element c1ylsvko cc0vgw3 c1tr50rt`}>
+{"2026"}
+</h5>
+</div>
+<div
+className={`w-element c12hzlcl ct4g75r c1p61p2a czvf8rz c13akerz c1sghiiy`}>
+<div
+className={`w-element cind1dh ct4g75r c1y1b6pq c3if8z9 c16n9ye3 c1h9nl72`}>
+<div
+className={`w-element c1n2jbfn c2mep9p c19si1a0`} />
+</div>
+<HtmlEmbed
+code={"<p>Apple Vision Proを手に入れる。</p>\n"}
 className={`w-html-embed cmzzh0c c12d1iul cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </HtmlEmbed>
 </div>

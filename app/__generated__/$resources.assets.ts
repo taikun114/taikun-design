@@ -15,6 +15,11 @@
     "width": 1844,
     "height": 384
   },
+  "3fcbcd9bafc36bf5e9aafb81c32e5acf2fff37fd5454b1a5d5f3d761eee2ec27": {
+    "url": "/cgi/image/Mocolamma_Social_1_iK22YtfgDdbPubZbyEi7r.webp?format=raw",
+    "width": 1280,
+    "height": 640
+  },
   "4fa7103cbfbf0e76a906a17399701c8403b3e8eadc281b5371e6a86432a1bf61": {
     "url": "/cgi/image/taikun-design-full-white_4x_YHVfY2SEJ-AMoe3JxGCsp.webp?format=raw",
     "width": 1312,
@@ -25,8 +30,8 @@
     "width": 5658,
     "height": 4243
   },
-  "70c8dd13f17790c6afdb5ed01fdb7f73dc666f637ab9880d42ee496d0e467e44": {
-    "url": "/cgi/image/Mocolamma_Social_trfev-IRZJNcAH3wL9u2Y.webp?format=raw",
+  "6f855acf7348a608e2e27555d0802af4f379d9fc3e9237ecb9865682f0b87d32": {
+    "url": "/cgi/image/Mocolamma_Social-ja_E58ilvKakgbuQThLbLk9Y.webp?format=raw",
     "width": 1280,
     "height": 640
   },
@@ -44,11 +49,6 @@
     "url": "/cgi/image/philip-oroni-DT3Pj-Sxu_E-unsplash_znXryv-mOj3d5pzF6__N2.webp?format=raw",
     "width": 3840,
     "height": 2160
-  },
-  "b54dc8b54b9d6c76762bdb4bf25014b66c3132496d1e4702dce25ae89f460071": {
-    "url": "/cgi/image/Mocolamma_Social-ja_d2E_Z5D7imPrjEiCPM056.webp?format=raw",
-    "width": 1280,
-    "height": 640
   },
   "be72ea5ba9701cf2db0b0d440cd062f206caf10c6d0671558fd2887deb246556": {
     "url": "/cgi/image/pp_v_rgb_oF3xjPJwdW1-a0InZIXT9.webp?format=raw",
