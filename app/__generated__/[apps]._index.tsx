@@ -11,7 +11,9 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const lastPublished = "2026-04-27T09:30:30.523Z";
+      export const projectDomain = "taikundesign-msch7";
+
+      export const lastPublished = "2026-06-04T10:22:35.001Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -767,6 +769,88 @@ className={`w-html-embed`} />
 </Link>
 <MarkdownEmbed
 code={"### プラットフォーム\n- **Appleシリコンを搭載したMacとIntelプロセッサを搭載したMac**\n  - macOS Sequoia（15.0）またはそれ以降が必要です。\n- **iPhone**\n  - iOS 18.0またはそれ以降が必要です。\n- **iPad**\n  - iPadOS 18.0またはそれ以降が必要です。\n- **Apple Vision Pro**\n  - visionOS 2.0またはそれ以降が必要です。"}
+className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+</MarkdownEmbed>
+</div>
+<div
+className={`w-element`}>
+<div
+id={"clip-hold"}
+className={`w-element ct4g75r cocsuzz c1sghiiy cm0jv6c ctkuwo6 cz5x5xv c1lnxrb4 cqv39h7 c190sceh c1hn2rmf cfdawc4 ce32a03 c1v735k3 c1o3yqk0`}>
+<div
+className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq`}>
+<HtmlEmbed
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/DragLocker/blob/main/DragLocker/Assets.xcassets/AppIconLiquidGlass.imageset/AppIconLiquidGlass_Dark@1x.png?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/DragLocker/blob/main/DragLocker/Assets.xcassets/AppIconLiquidGlass.imageset/AppIconLiquidGlass_Light@1x.png?raw=true\"\n    alt=\"DragLocker アイコン\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"}
+className={`w-html-embed ct4g75r citdfdm ctgvzkp cvk905m cocsuzz c1udsxt8 cbepowb cnhgshd`} />
+<HtmlEmbed
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/DragLocker/blob/main/DragLocker/Assets.xcassets/AppIconLiquidGlass.imageset/AppIconLiquidGlass_Dark@1x.png?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/DragLocker/blob/main/DragLocker/Assets.xcassets/AppIconLiquidGlass.imageset/AppIconLiquidGlass_Light@1x.png?raw=true\"\n    alt=\"DragLocker アイコン\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"}
+className={`w-html-embed ct4g75r citdfdm ctgvzkp cvk905m cocsuzz c1m016cw c18375g3 c14u4hyb`} />
+</div>
+<h2
+className={`w-element cc0vgw3 cgcclyp c1tr50rt`}>
+{"DragLocker"}
+</h2>
+</div>
+<Link
+href={"https://draglocker.taikun.design/jp"}
+target={"_blank"}
+data-umami-event={"draglocker-link"}
+data-umami-event-region={"ja"}
+className={`w-element ccf5130 cg5mfwo c11jmddu`}>
+<Image
+src={"/assets/DragLocker_Social-ja_iG2prKm_fTA7vgokXV34a.webp"}
+width={1280}
+height={640}
+alt={"DragLocker あらゆるマウスでドラッグロック。"}
+loading={"lazy"}
+className={`w-image c11jmddu cc0vgw3 c15zqx8t clap96c c1a97tu8 ctgvzkp casit2p c1crkfi4 c11znclp c1bh5gui chgz5c9 c1h0e2wx`} />
+</Link>
+<MarkdownEmbed
+code={"### 概要\nMacに接続されたあらゆるマウスでドラッグロックを可能にするユーティリティアプリ。\\\nドラッグロックを有効化するマウスボタンを選択やロック中にアイコンを表示、ロック・解除時にサウンドを再生したりアプリごとにドラッグロックの設定をカスタマイズしたりなど、幅広いカスタマイズ機能が備わっています。"}
+className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
+</MarkdownEmbed>
+<Link
+href={"https://draglocker.taikun.design/jp"}
+target={"_blank"}
+data-umami-event={"draglocker-link"}
+data-umami-event-region={"ja"}
+className={`w-element ccf5130 c1v735k3 c12d1iul c1ehzuir c1m016cw c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v c1gp9cdv ${"button-link"}`}>
+<div
+className={`w-element cv8t2l7 c1jbuqru cxmjziy c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v cnhgshd ${"button-blur"}`}>
+<div
+className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler clap96c casit2p c15pbr10 c1gy61b2 c15r37q1 ct4g75r c19ld4t3 cocsuzz cxubj1j c9nulm2 crt9jac c1hp69fk cppwozy`}>
+<p
+className={`w-element cc0vgw3 c1tr50rt cugs37s`}>
+{"DragLocker 公式サイト"}
+</p>
+<Box
+className={`w-box ck8dx2b c1h9nl72 c16n9ye3 ct4g75r c1ku7qgc c1y1b6pq c19si1a0 c1tjbx48 c1kvd291 c1dviqzs`}>
+<HtmlEmbed
+code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill=\"currentColor\" d=\"M384 64C366.3 64 352 78.3 352 96C352 113.7 366.3 128 384 128L466.7 128L265.3 329.4C252.8 341.9 252.8 362.2 265.3 374.7C277.8 387.2 298.1 387.2 310.6 374.7L512 173.3L512 256C512 273.7 526.3 288 544 288C561.7 288 576 273.7 576 256L576 96C576 78.3 561.7 64 544 64L384 64zM144 160C99.8 160 64 195.8 64 240L64 496C64 540.2 99.8 576 144 576L400 576C444.2 576 480 540.2 480 496L480 416C480 398.3 465.7 384 448 384C430.3 384 416 398.3 416 416L416 496C416 504.8 408.8 512 400 512L144 512C135.2 512 128 504.8 128 496L128 240C128 231.2 135.2 224 144 224L224 224C241.7 224 256 209.7 256 192C256 174.3 241.7 160 224 160L144 160z\"/></svg>"}
+className={`w-html-embed`} />
+</Box>
+</div>
+</div>
+<div
+className={`w-element c16qpq94 c5n0g1o c1wbymx1 css4u8g cyr6vdj cg1hler clap96c casit2p c15pbr10 c1gy61b2 c15r37q1 ct4g75r c19ld4t3 cocsuzz cxubj1j c9nulm2 crt9jac c1hp69fk cppwozy`}>
+<p
+className={`w-element cc0vgw3 c1tr50rt cugs37s`}>
+{"DragLocker 公式サイト"}
+</p>
+<Box
+className={`w-box ck8dx2b c1h9nl72 c16n9ye3 ct4g75r c1ku7qgc c1y1b6pq c19si1a0 c1tjbx48 c1kvd291 c1dviqzs c1kojgtj cjguz9e c150yh7g c10b6v8 c1v1vg3v`}>
+<HtmlEmbed
+code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill=\"currentColor\" d=\"M384 64C366.3 64 352 78.3 352 96C352 113.7 366.3 128 384 128L466.7 128L265.3 329.4C252.8 341.9 252.8 362.2 265.3 374.7C277.8 387.2 298.1 387.2 310.6 374.7L512 173.3L512 256C512 273.7 526.3 288 544 288C561.7 288 576 273.7 576 256L576 96C576 78.3 561.7 64 544 64L384 64zM144 160C99.8 160 64 195.8 64 240L64 496C64 540.2 99.8 576 144 576L400 576C444.2 576 480 540.2 480 496L480 416C480 398.3 465.7 384 448 384C430.3 384 416 398.3 416 416L416 496C416 504.8 408.8 512 400 512L144 512C135.2 512 128 504.8 128 496L128 240C128 231.2 135.2 224 144 224L224 224C241.7 224 256 209.7 256 192C256 174.3 241.7 160 224 160L144 160z\"/></svg>"}
+className={`w-html-embed`} />
+</Box>
+</div>
+<HtmlEmbed
+code={"<style>\n  .button-link:hover .button-blur {\n    filter: blur(16px) brightness(120%);\n  }\n</style>"}
+executeScriptOnCanvas={true}
+className={`w-html-embed`} />
+</Link>
+<MarkdownEmbed
+code={"### プラットフォーム\n- **Appleシリコンを搭載したMacとIntelプロセッサを搭載したMac**\n  - macOS Sonoma（14.0）またはそれ以降が必要です。"}
 className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c6fldc1 c1d83wf8 c17n9b4v c1loydth cl63qmw c14xuhs0 czbj7hk cffdsq c1i9u06 cx2c1ht c1qh69yu c1wq6ewd cof58ch cw9cza5 c11ldz4g cr3ev3k c1wspeau c1kfhp41 crgsf3n c1q8qrkp c12zn2df cf2qku7 cjr3ta2 cvopsq9 c1fhhpk6 cd0jdml cn0ys0d c8xelpf c1cfm54u c15p4oxn c1cjd21w c1h3c2y9 cdw2zcr cfjjkca cnuwdrm cok3aw6 cuubdzh cumr56w c1or3z3p c17gclxu c1ea95t0 c2xavt3 cpt7rng c153xn1f c1kxgwnh cikdijt c1pktagu c1a7jy7c cqgo09p c1ey9net c1ohamsd c1fm9wqe c1ro2owf c7x716d c1uqt6ub cqe3f3i cbpo48t c1pjv3bs c184j8qw c1qmzi79 coikymh c6bqjws cclx3ys c1550xw7 c1bk2stw c1pmn9ob c49mrv5 c10cce4s c1o9vcwn cu3g5le c1migpe7 c1g1aokf cegbdas cfedefs c1mfdgii c16hwedg crrazj7 c1227xvc cl5fyvo ch4j5ld c6e8cvq c12e3s1y csw7j5r cky6ym8 c547w5o c3cfvjt c19dkzng cg13vyz cf0hryz ccpsdax cmzgnie c6wsx9k c1iph6ta coi32mb c14z9kd1 cr7408s cpc7ghb czznmil caa194n c3y8yd3 csyyhgf c1clccw3 cnsba9t c7ylhvp c1fibho5 c1ch6tcf cwunlpv c7f3l23 cwijwkl c1akrs2r c1mo1o1w c1wfafrm c3yacp3 cn5z0c0 cwtjikt c11rx0tx c1ds6svz`}>
 </MarkdownEmbed>
 </div>
