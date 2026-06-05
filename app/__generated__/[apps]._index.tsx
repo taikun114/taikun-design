@@ -13,7 +13,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectDomain = "taikundesign-msch7";
 
-      export const lastPublished = "2026-06-04T10:22:35.001Z";
+      export const lastPublished = "2026-06-05T16:38:31.016Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -775,7 +775,7 @@ className={`w-markdown-embed cxndrrx cf8037g c3iqyu2 c1q1lie2 c187qctq cx55plz c
 <div
 className={`w-element`}>
 <div
-id={"clip-hold"}
+id={"draglocker"}
 className={`w-element ct4g75r cocsuzz c1sghiiy cm0jv6c ctkuwo6 cz5x5xv c1lnxrb4 cqv39h7 c190sceh c1hn2rmf cfdawc4 ce32a03 c1v735k3 c1o3yqk0`}>
 <div
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq`}>

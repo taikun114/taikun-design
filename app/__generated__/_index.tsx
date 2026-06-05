@@ -14,7 +14,7 @@ import { AnimateChildren as AnimateChildren } from "@webstudio-is/sdk-components
 
       export const projectDomain = "taikundesign-msch7";
 
-      export const lastPublished = "2026-06-04T10:22:35.001Z";
+      export const lastPublished = "2026-06-05T16:38:31.016Z";
 
       export const siteName = "TAIKUN.design";
 

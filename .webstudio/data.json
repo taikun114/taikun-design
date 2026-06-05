@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "d634ce24-d328-41ce-b50d-fcd51b9e1742",
+    "id": "e5647222-0aea-4fb7-abc5-f855642df58a",
     "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
-    "version": 8477,
-    "createdAt": "2026-06-04T10:22:35.001+00:00",
-    "updatedAt": "2026-06-04T10:22:35.001+00:00",
+    "version": 8510,
+    "createdAt": "2026-06-05T16:38:31.016+00:00",
+    "updatedAt": "2026-06-05T16:38:31.016+00:00",
     "pages": {
       "meta": {
         "siteName": "TAIKUN.design",
@@ -179,6 +179,7 @@
           "name": "私が開発しているアプリ",
           "title": "\"Apps I Develop\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
           "history": [
+            "/en/apps",
             "/apps",
             "/profile",
             "/contact"
@@ -135303,7 +135304,7 @@
           "instanceId": "OItVm4oWbKkqENqgJ1cRo",
           "name": "code",
           "type": "string",
-          "value": "<p>Apple Vision Proを手に入れる。</p>\n"
+          "value": "<p>Apple Vision Proを手に入れる。</p>\n<p>Macアプリ「<a href=\"/apps#draglocker\"><strong>DragLocker</strong></a>」をリリース。</p>\n"
         }
       ],
       [
@@ -135513,7 +135514,7 @@
           "instanceId": "pOLhEwBVl5sNxGhG977QI",
           "name": "code",
           "type": "string",
-          "value": "<p>Acquired Apple Vision Pro.</p>"
+          "value": "<p>Acquired Apple Vision Pro.</p>\n<p>Released the Mac app \"<a href=\"/en/apps#draglocker\"><strong>DragLocker</strong></a>\".</p>\n"
         }
       ],
       [
@@ -136433,7 +136434,7 @@
           "instanceId": "GiPmhGsf6HszncoCdTzOg",
           "name": "id",
           "type": "string",
-          "value": "clip-hold"
+          "value": "draglocker"
         }
       ],
       [
@@ -137153,7 +137154,7 @@
           "instanceId": "nwul-chRqP2vMWKPRZfP_",
           "name": "id",
           "type": "string",
-          "value": "clip-hold"
+          "value": "draglocker"
         }
       ],
       [
@@ -174462,6 +174463,7 @@
       "name": "私が開発しているアプリ",
       "title": "\"Apps I Develop\" + $ws$dataSource$gNSHiK7uuR5Vw_Tg7uR1z + $ws$dataSource$voJN_eFFSOfyRa_7GKk3T",
       "history": [
+        "/en/apps",
         "/apps",
         "/profile",
         "/contact"
