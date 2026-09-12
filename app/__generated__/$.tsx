@@ -3,17 +3,19 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
-import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Slot as Slot, Paragraph as Paragraph, Image as Image } from "@webstudio-is/sdk-components-react";
+import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Slot as Slot, Paragraph as Paragraph, Image as Image } from "@webstudio-is/sdk-components-react/components";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuLink as NavigationMenuLink, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
+      
+
       export const projectDomain = "taikundesign-msch7";
 
-      export const lastPublished = "2026-06-05T16:38:31.016Z";
+      export const lastPublished = "2025-10-24T10:43:54.694Z";
 
       export const siteName = "TAIKUN.design";
 
@@ -51,10 +53,12 @@ className={`w-element c1uhg4lu c1r6gls1 choxsbt cwuyehs c1jbuqru cxmjziy c1xa9i4
 </Slot>
 <Slot>
 <Fragment_1>
-<header
-className={`w-element c11jmddu c7a8s9g c1f2dxbp choxsbt cxmjziy c1f1jont c1uv9ug0 ct4g75r c1y1b6pq cj6mhg5 cn7ss8j cihy26h`}>
 <div
-className={`w-element c19si1a0 c11jmddu c1aner8p ct4g75r c19ld4t3 cocsuzz`}>
+className={`w-element choxsbt cxmjziy c11jmddu c7a8s9g ct4g75r c1y1b6pq cj6mhg5 cn7ss8j cihy26h`}>
+<header
+className={`w-element c11jmddu c19si1a0 c1f2dxbp cv8t2l7 cxmjziy c1f1jont c1uv9ug0 cmzzh0c c1y1b6pq chmk0f6 c1dhqwc7 c1ab1luh c1jbuqru c140jmaj`} />
+<div
+className={`w-element c19si1a0 c11jmddu c1aner8p ct4g75r c19ld4t3 cocsuzz c1m016cw cy4sznw`}>
 <Link
 href={"/"}
 className={`w-element ccf5130`}>
@@ -79,7 +83,7 @@ className={`w-link cj8oioq cocsuzz c1y1b6pq cco206n c1ukjave c1ry58bl claofh5 cw
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="1"
-className={`w-menu-item`}>
+className={`w-menu-item c1m016cw`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button cj8oioq cocsuzz c1y1b6pq c157istk cco206n c1ukjave c1ry58bl claofh5 cwy62ol c1m3lanm crgs22s c14ow0v7 c1iuves6 c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 c1vatvfb c1ti8bjw cfjls63 ce2zwk0 czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c18vmskg c1rk13jm c1xsk8d6 c1uxvgeo c17bypyq c1mca3li c1e4c1v5 c167vyz5 chn33ep cfdop85 c1lflt38 c1ibudx9 c1jd08ry c1wcs2ef cg3axee c1b0zwzq`}>
@@ -96,7 +100,7 @@ className={`w-html-embed cwljrli`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1whxnw8 c158z65t c1uz88ym cwg8145 c1eyvve6 ct4gadu c198cupr c1hp69fk`}>
+className={`w-menu-content cg72v2n c1secrwn c1uz88ym cwg8145 c1eyvve6 cfhla1d c9t2x99 cv8t2l7 cidpb5r cs7860o c1uyh9k6 c1cjsarj chgvdfb c1f2dxbp c16r0nc6 c1mz09bo cpd481a c1cxtn72 c1xa9i4n c1f1jont c1hp69fk ca24b0d c1rqi26s c1x9d5ew cra4fnt ctqx47e c1109kug`}>
 <Box
 className={`w-box ct4g75r c9nulm2 crt9jac`}>
 <Box
@@ -167,7 +171,7 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40ky
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="2"
-className={`w-menu-item`}>
+className={`w-menu-item c1m016cw`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button cj8oioq cocsuzz c1y1b6pq c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cco206n c1ukjave c1ry58bl claofh5 cwy62ol c1m3lanm crgs22s c14ow0v7 c1iuves6 c157istk c1vatvfb c1ti8bjw cfjls63 ce2zwk0 czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c18vmskg c1rk13jm c1xsk8d6 c167vyz5 chn33ep cfdop85 c1b0zwzq c1lflt38`}>
@@ -184,7 +188,7 @@ className={`w-html-embed cwljrli`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1whxnw8 c158z65t c1uz88ym cwg8145 c1eyvve6 ct4gadu c198cupr c1hp69fk`}>
+className={`w-menu-content cg72v2n c1secrwn c1uz88ym cwg8145 c1eyvve6 cfhla1d c9t2x99 cv8t2l7 cidpb5r cs7860o c1uyh9k6 c1cjsarj chgvdfb c1f2dxbp c16r0nc6 c1mz09bo cpd481a c1cxtn72 c1xa9i4n c1f1jont c1hp69fk ca24b0d c1rqi26s c1x9d5ew cra4fnt ctqx47e c1109kug`}>
 <Box
 className={`w-box ct4g75r c9nulm2 crt9jac`}>
 <Box
@@ -284,7 +288,7 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40ky
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="3"
-className={`w-menu-item`}>
+className={`w-menu-item c1m016cw`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button cj8oioq cocsuzz c1y1b6pq c1m3qbs6 caxeu2k ctkw6e7 c11r3mbb cco206n c1ukjave c1ry58bl claofh5 cwy62ol c1m3lanm crgs22s c14ow0v7 c1iuves6 c157istk c1vatvfb c1ti8bjw cfjls63 ce2zwk0 czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c18vmskg c1rk13jm c1xsk8d6 c167vyz5 chn33ep cfdop85 c1b0zwzq c1lflt38`}>
@@ -301,7 +305,7 @@ className={`w-html-embed cwljrli`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1whxnw8 c158z65t c1uz88ym cwg8145 c1eyvve6 c1hp69fk`}>
+className={`w-menu-content cg72v2n c1secrwn c1uz88ym cwg8145 c1eyvve6 cv8t2l7 cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb c1f2dxbp c16r0nc6 c1mz09bo cpd481a c1cxtn72 c1xa9i4n c1f1jont c1hp69fk ca24b0d c1rqi26s c1x9d5ew cra4fnt ctqx47e c1109kug`}>
 <Box
 className={`w-box ct4g75r c9nulm2 crt9jac`}>
 <Box
@@ -335,11 +339,6 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 </NavigationMenuContent>
 </NavigationMenuItem>
 </NavigationMenuList>
-<Box
-className={`w-box cv8t2l7 c1secrwn ct4g75r c1y1b6pq c1xa9i4n`}>
-<NavigationMenuViewport
-className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb c19n0oe4 c1mbw45i c1rpzhwl c16r0nc6 cv37mi0 c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v`} />
-</Box>
 </NavigationMenu>
 <NavigationMenu
 className={`w-navigation-menu c1m016cw c2ww99b c1q58oy7 c1gr52yy`}>
@@ -575,11 +574,14 @@ className={`w-paragraph cfhla1d c9t2x99 c1okfwr3 cco206n c6fmvsk c14lh3lr cn40ky
 <Box
 className={`w-box cv8t2l7 ct4g75r c1y1b6pq c1secrwn c1xa9i4n c1d3tk8j c9djcgv`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb c19n0oe4 c1mbw45i c1rpzhwl c16r0nc6 cv37mi0 c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v`} />
+className={`w-menu-viewport c1m016cw cidpb5r cfhla1d c9t2x99 cs7860o c1uyh9k6 c1cjsarj chgvdfb c19n0oe4 c1mbw45i c1rpzhwl c16r0nc6 c1f2dxbp c1mz09bo c1yl218 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1f1jont`} />
 </Box>
 </NavigationMenu>
+<HtmlEmbed
+code={"<style>\n@keyframes navPopupFadeIn {\n  from {\n    opacity: 0;\n    transform: translateY(-8px) scale(0.96);\n  }\n  to {\n    opacity: 1;\n    transform: translateY(0) scale(1);\n  }\n}\n\n@keyframes navPopupFadeOut {\n  from {\n    opacity: 1;\n    transform: translateY(0) scale(1);\n  }\n  to {\n    opacity: 0;\n    transform: translateY(-8px) scale(0.96);\n  }\n}\n</style>"}
+className={`w-html-embed`} />
 </div>
-</header>
+</div>
 </Fragment_1>
 </Slot>
 <div

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "webstudio": {
+      "command": "sh",
+      "args": [
+        "-c",
+        "cd '/Users/taikun/ウェブサイト/taikun-design' && npx -y webstudio mcp"
+      ]
+    }
+  }
+}

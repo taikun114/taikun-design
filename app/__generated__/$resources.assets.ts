@@ -1,99 +1,452 @@
 
     export const assets = {
   "0f0d99bd7b276482b219a516ac266bd43830f8828b4b9306d4b1a76f87b619f3": {
-    "url": "/cgi/image/bmc-logo-yellow_VVu09qXJFLEiRFGkOdX49.webp?format=raw",
+    "id": "0f0d99bd7b276482b219a516ac266bd43830f8828b4b9306d4b1a76f87b619f3",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 58216,
+    "name": "bmc-logo-yellow.webp",
+    "createdAt": "2025-10-27T11:07:05.051+00:00",
+    "updatedAt": "2025-10-27T11:07:05.051+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 3200,
+      "height": 3200
+    },
+    "type": "image",
+    "url": "/assets/bmc-logo-yellow_VVu09qXJFLEiRFGkOdX49.webp",
     "width": 3200,
-    "height": 3200
+    "height": 3200,
+    "mimeType": "image/webp",
+    "contentRef": "bmc-logo-yellow_VVu09qXJFLEiRFGkOdX49.webp"
   },
   "116e03e6958767c3adb015859e3a624db34913915b947a714fa3637b5d502e99": {
-    "url": "/cgi/image/DragLocker_Social-en_iP4HeJbOKCpMhX0AQqkW7.webp?format=raw",
+    "id": "116e03e6958767c3adb015859e3a624db34913915b947a714fa3637b5d502e99",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 16874,
+    "name": "DragLocker_Social-en.webp",
+    "description": "DragLocker Drag Lock with Any Mouse.",
+    "createdAt": "2026-06-04T10:15:38.548+00:00",
+    "updatedAt": "2026-06-04T10:15:38.548+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1280,
+      "height": 640
+    },
+    "type": "image",
+    "url": "/assets/DragLocker_Social-en_iP4HeJbOKCpMhX0AQqkW7.webp",
     "width": 1280,
-    "height": 640
+    "height": 640,
+    "mimeType": "image/webp",
+    "contentRef": "DragLocker_Social-en_iP4HeJbOKCpMhX0AQqkW7.webp"
   },
   "1cfccba4e1d57112f6ebff4ea49425cd2cd3f24c46cf109489539fa801529208": {
-    "url": "/cgi/image/favicon__m7IdZ3K0Zj6mYBB_NRV8.png?format=raw",
+    "id": "1cfccba4e1d57112f6ebff4ea49425cd2cd3f24c46cf109489539fa801529208",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 13383,
+    "name": "favicon.png",
+    "createdAt": "2025-10-28T08:28:26.555+00:00",
+    "updatedAt": "2025-10-28T08:28:26.555+00:00",
+    "format": "png",
+    "meta": {
+      "width": 192,
+      "height": 192
+    },
+    "type": "image",
+    "url": "/assets/favicon__m7IdZ3K0Zj6mYBB_NRV8.png",
     "width": 192,
-    "height": 192
+    "height": 192,
+    "mimeType": "image/png",
+    "contentRef": "favicon__m7IdZ3K0Zj6mYBB_NRV8.png"
+  },
+  "3AgMPwEQPJQuaNjarn38U": {
+    "id": "3AgMPwEQPJQuaNjarn38U",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 60561,
+    "name": "Mocolamma Text.png",
+    "filename": "Mocolamma Text",
+    "description": "Mocolamma",
+    "createdAt": "2026-09-12T09:04:05.978+00:00",
+    "updatedAt": "2026-09-12T09:04:05.978+00:00",
+    "format": "png",
+    "meta": {
+      "width": 1124,
+      "height": 144
+    },
+    "type": "image",
+    "url": "/assets/Mocolamma_Text_xMSGPdZDekW2eWLDoaMQc.png",
+    "width": 1124,
+    "height": 144,
+    "mimeType": "image/png",
+    "contentRef": "Mocolamma_Text_xMSGPdZDekW2eWLDoaMQc.png"
   },
   "3c1af45bf1d628297f008d218cac2f198df24bb825c9d8cacd3a73cbee9ed090": {
-    "url": "/cgi/image/Clip_Hold_Text_7xfjYo61FK2kHd8sMjuo1.webp?format=raw",
+    "id": "3c1af45bf1d628297f008d218cac2f198df24bb825c9d8cacd3a73cbee9ed090",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 14702,
+    "name": "Clip_Hold_Text.webp",
+    "description": "Clip Hold",
+    "createdAt": "2025-10-27T09:25:14.961+00:00",
+    "updatedAt": "2025-10-27T09:25:14.961+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1844,
+      "height": 384
+    },
+    "type": "image",
+    "url": "/assets/Clip_Hold_Text_7xfjYo61FK2kHd8sMjuo1.webp",
     "width": 1844,
-    "height": 384
-  },
-  "3fcbcd9bafc36bf5e9aafb81c32e5acf2fff37fd5454b1a5d5f3d761eee2ec27": {
-    "url": "/cgi/image/Mocolamma_Social_1_iK22YtfgDdbPubZbyEi7r.webp?format=raw",
-    "width": 1280,
-    "height": 640
+    "height": 384,
+    "mimeType": "image/webp",
+    "contentRef": "Clip_Hold_Text_7xfjYo61FK2kHd8sMjuo1.webp"
   },
   "4fa7103cbfbf0e76a906a17399701c8403b3e8eadc281b5371e6a86432a1bf61": {
-    "url": "/cgi/image/taikun-design-full-white_4x_YHVfY2SEJ-AMoe3JxGCsp.webp?format=raw",
+    "id": "4fa7103cbfbf0e76a906a17399701c8403b3e8eadc281b5371e6a86432a1bf61",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 15736,
+    "name": "taikun-design-full-white_4x.webp",
+    "createdAt": "2025-10-25T10:57:14.643+00:00",
+    "updatedAt": "2025-10-25T10:57:14.643+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1312,
+      "height": 324
+    },
+    "type": "image",
+    "url": "/assets/taikun-design-full-white_4x_YHVfY2SEJ-AMoe3JxGCsp.webp",
     "width": 1312,
-    "height": 324
+    "height": 324,
+    "mimeType": "image/webp",
+    "contentRef": "taikun-design-full-white_4x_YHVfY2SEJ-AMoe3JxGCsp.webp"
   },
   "61fedd9e8837627a7426e705041d1ad533eb3f6975fdca96134911a0f2dfa96b": {
-    "url": "/cgi/image/DragLocker_Social-ja_iG2prKm_fTA7vgokXV34a.webp?format=raw",
+    "id": "61fedd9e8837627a7426e705041d1ad533eb3f6975fdca96134911a0f2dfa96b",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 17258,
+    "name": "DragLocker_Social-ja.webp",
+    "description": "DragLocker あらゆるマウスでドラッグロック。",
+    "createdAt": "2026-06-04T10:08:22.52+00:00",
+    "updatedAt": "2026-06-04T10:08:22.52+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1280,
+      "height": 640
+    },
+    "type": "image",
+    "url": "/assets/DragLocker_Social-ja_iG2prKm_fTA7vgokXV34a.webp",
     "width": 1280,
-    "height": 640
+    "height": 640,
+    "mimeType": "image/webp",
+    "contentRef": "DragLocker_Social-ja_iG2prKm_fTA7vgokXV34a.webp"
   },
   "691a9998ab38fe33698c8cf5309dd030a2a2b89a21c458845f7651c70e3ec9f8": {
-    "url": "/cgi/image/my-mac__WflGA9MagKxQ_Wpbw-N-.webp?format=raw",
+    "id": "691a9998ab38fe33698c8cf5309dd030a2a2b89a21c458845f7651c70e3ec9f8",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 3447700,
+    "name": "my-mac.webp",
+    "createdAt": "2025-11-08T10:35:26.726+00:00",
+    "updatedAt": "2025-11-08T10:35:26.726+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 5658,
+      "height": 4243
+    },
+    "type": "image",
+    "url": "/assets/my-mac__WflGA9MagKxQ_Wpbw-N-.webp",
     "width": 5658,
-    "height": 4243
-  },
-  "6f855acf7348a608e2e27555d0802af4f379d9fc3e9237ecb9865682f0b87d32": {
-    "url": "/cgi/image/Mocolamma_Social-ja_E58ilvKakgbuQThLbLk9Y.webp?format=raw",
-    "width": 1280,
-    "height": 640
+    "height": 4243,
+    "mimeType": "image/webp",
+    "contentRef": "my-mac__WflGA9MagKxQ_Wpbw-N-.webp"
   },
   "8e5cdd78dc0a3880d3ac030da57b986d0a5e16c064535210eb2602e77211401a": {
-    "url": "/cgi/image/my-ipod_4VV1F4JhGjjrdECWV7Rc3.webp?format=raw",
+    "id": "8e5cdd78dc0a3880d3ac030da57b986d0a5e16c064535210eb2602e77211401a",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 559762,
+    "name": "my-ipod.webp",
+    "createdAt": "2025-11-08T10:22:30.097+00:00",
+    "updatedAt": "2025-11-08T10:22:30.097+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 5031,
+      "height": 3777
+    },
+    "type": "image",
+    "url": "/assets/my-ipod_4VV1F4JhGjjrdECWV7Rc3.webp",
     "width": 5031,
-    "height": 3777
+    "height": 3777,
+    "mimeType": "image/webp",
+    "contentRef": "my-ipod_4VV1F4JhGjjrdECWV7Rc3.webp"
   },
   "934b0b2d91830536d9d26ce80261fc91368c8cc2006b80f5954ba4c30da25f14": {
-    "url": "/cgi/image/P1002900-Enhanced-NR_hD6jPnELnUBh0bg4_Ycyw.webp?format=raw",
+    "id": "934b0b2d91830536d9d26ce80261fc91368c8cc2006b80f5954ba4c30da25f14",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 129760,
+    "name": "P1002900-Enhanced-NR.webp",
+    "createdAt": "2025-10-26T13:34:54.647+00:00",
+    "updatedAt": "2025-10-26T13:34:54.647+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1775,
+      "height": 1775
+    },
+    "type": "image",
+    "url": "/assets/P1002900-Enhanced-NR_hD6jPnELnUBh0bg4_Ycyw.webp",
     "width": 1775,
-    "height": 1775
+    "height": 1775,
+    "mimeType": "image/webp",
+    "contentRef": "P1002900-Enhanced-NR_hD6jPnELnUBh0bg4_Ycyw.webp"
   },
   "9f73be08f3d578df002a0c86830b73d470a0b502e45e87e291fc15c5464eca50": {
-    "url": "/cgi/image/philip-oroni-DT3Pj-Sxu_E-unsplash_znXryv-mOj3d5pzF6__N2.webp?format=raw",
+    "id": "9f73be08f3d578df002a0c86830b73d470a0b502e45e87e291fc15c5464eca50",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 264234,
+    "name": "philip-oroni-DT3Pj-Sxu_E-unsplash.webp",
+    "createdAt": "2025-10-24T12:07:07.461+00:00",
+    "updatedAt": "2025-10-24T12:07:07.461+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 3840,
+      "height": 2160
+    },
+    "type": "image",
+    "url": "/assets/philip-oroni-DT3Pj-Sxu_E-unsplash_znXryv-mOj3d5pzF6__N2.webp",
     "width": 3840,
-    "height": 2160
+    "height": 2160,
+    "mimeType": "image/webp",
+    "contentRef": "philip-oroni-DT3Pj-Sxu_E-unsplash_znXryv-mOj3d5pzF6__N2.webp"
+  },
+  "AGFfanEME-lCyB5vr3xmL": {
+    "id": "AGFfanEME-lCyB5vr3xmL",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 31286,
+    "name": "Mocolamma Social-ja.webp",
+    "filename": "Mocolamma Social-ja",
+    "createdAt": "2026-09-12T09:05:40.693+00:00",
+    "updatedAt": "2026-09-12T09:05:40.693+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1280,
+      "height": 640
+    },
+    "type": "image",
+    "url": "/assets/Mocolamma_Social-ja_N4-ZeEmvyVe6jwtqKB9_5.webp",
+    "width": 1280,
+    "height": 640,
+    "mimeType": "image/webp",
+    "contentRef": "Mocolamma_Social-ja_N4-ZeEmvyVe6jwtqKB9_5.webp"
+  },
+  "CcmT0NsdAkyBbE78-m6kr": {
+    "id": "CcmT0NsdAkyBbE78-m6kr",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 8030,
+    "name": "DragLocker-Icon-Dark_1.webp",
+    "filename": "DragLocker-Icon-Dark_1",
+    "createdAt": "2026-09-12T09:16:28.527+00:00",
+    "updatedAt": "2026-09-12T09:16:28.527+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 512,
+      "height": 512
+    },
+    "type": "image",
+    "url": "/assets/DragLocker-Icon-Dark_k1Gsrefkb8mJ96Hxxo941.webp",
+    "width": 512,
+    "height": 512,
+    "mimeType": "image/webp",
+    "contentRef": "DragLocker-Icon-Dark_k1Gsrefkb8mJ96Hxxo941.webp"
+  },
+  "Im86voeR-u3NEHk6775w8": {
+    "id": "Im86voeR-u3NEHk6775w8",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 8280,
+    "name": "Clip_Hold-Icon-Light_1.webp",
+    "filename": "Clip_Hold-Icon-Light_1",
+    "createdAt": "2026-09-12T09:16:28.572+00:00",
+    "updatedAt": "2026-09-12T09:16:28.572+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 512,
+      "height": 512
+    },
+    "type": "image",
+    "url": "/assets/Clip_Hold-Icon-Light_6xVwG3k_NRwozWqef9WJ3.webp",
+    "width": 512,
+    "height": 512,
+    "mimeType": "image/webp",
+    "contentRef": "Clip_Hold-Icon-Light_6xVwG3k_NRwozWqef9WJ3.webp"
+  },
+  "K29iiY8w1Q_iEdArARgYe": {
+    "id": "K29iiY8w1Q_iEdArARgYe",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 8196,
+    "name": "DragLocker-Icon-Light.webp",
+    "filename": "DragLocker-Icon-Light",
+    "createdAt": "2026-09-12T09:16:28.481+00:00",
+    "updatedAt": "2026-09-12T09:16:28.481+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 512,
+      "height": 512
+    },
+    "type": "image",
+    "url": "/assets/DragLocker-Icon-Light_Xu5SwREXzdURocRW3PKMT.webp",
+    "width": 512,
+    "height": 512,
+    "mimeType": "image/webp",
+    "contentRef": "DragLocker-Icon-Light_Xu5SwREXzdURocRW3PKMT.webp"
+  },
+  "LTycTSZkXse2qYajSDl3u": {
+    "id": "LTycTSZkXse2qYajSDl3u",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 8628,
+    "name": "Clip_Hold-Icon-Dark.webp",
+    "filename": "Clip_Hold-Icon-Dark",
+    "createdAt": "2026-09-12T09:16:28.55+00:00",
+    "updatedAt": "2026-09-12T09:16:28.55+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 512,
+      "height": 512
+    },
+    "type": "image",
+    "url": "/assets/Clip_Hold-Icon-Dark_zVETDCFCycChbRHlev2dM.webp",
+    "width": 512,
+    "height": 512,
+    "mimeType": "image/webp",
+    "contentRef": "Clip_Hold-Icon-Dark_zVETDCFCycChbRHlev2dM.webp"
+  },
+  "LVoC4cEqpgV3aMG8wXa-i": {
+    "id": "LVoC4cEqpgV3aMG8wXa-i",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 32156,
+    "name": "Mocolamma Social.webp",
+    "filename": "Mocolamma Social",
+    "createdAt": "2026-09-12T09:05:27.959+00:00",
+    "updatedAt": "2026-09-12T09:05:27.959+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1280,
+      "height": 640
+    },
+    "type": "image",
+    "url": "/assets/Mocolamma_Social_11vREwUldiWAp7_-fqijR.webp",
+    "width": 1280,
+    "height": 640,
+    "mimeType": "image/webp",
+    "contentRef": "Mocolamma_Social_11vREwUldiWAp7_-fqijR.webp"
   },
   "be72ea5ba9701cf2db0b0d440cd062f206caf10c6d0671558fd2887deb246556": {
-    "url": "/cgi/image/pp_v_rgb_oF3xjPJwdW1-a0InZIXT9.webp?format=raw",
+    "id": "be72ea5ba9701cf2db0b0d440cd062f206caf10c6d0671558fd2887deb246556",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 23270,
+    "name": "pp_v_rgb.webp",
+    "createdAt": "2025-10-27T12:19:55.01+00:00",
+    "updatedAt": "2025-10-27T12:19:55.01+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1180,
+      "height": 1164
+    },
+    "type": "image",
+    "url": "/assets/pp_v_rgb_oF3xjPJwdW1-a0InZIXT9.webp",
     "width": 1180,
-    "height": 1164
+    "height": 1164,
+    "mimeType": "image/webp",
+    "contentRef": "pp_v_rgb_oF3xjPJwdW1-a0InZIXT9.webp"
   },
   "c0e5ba67fd82903563a16d64be037745a1a79d1ada2180bd82bfc97fa06c551e": {
-    "url": "/cgi/image/TAIKUN.design_rszH8oMTTBFJmHTkkHGuC.webp?format=raw",
+    "id": "c0e5ba67fd82903563a16d64be037745a1a79d1ada2180bd82bfc97fa06c551e",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 9320,
+    "name": "TAIKUN.design.webp",
+    "createdAt": "2025-10-28T08:28:44.198+00:00",
+    "updatedAt": "2025-10-28T08:28:44.198+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1200,
+      "height": 630
+    },
+    "type": "image",
+    "url": "/assets/TAIKUN.design_rszH8oMTTBFJmHTkkHGuC.webp",
     "width": 1200,
-    "height": 630
-  },
-  "ca97308cb619e45755dcf6de01e7441e19510e302af75591f68365177699bd0b": {
-    "url": "/cgi/image/Mocolamma_Text_bqbuPYdIKS1n6LFoBAHlp.webp?format=raw",
-    "width": 1020,
-    "height": 140
+    "height": 630,
+    "mimeType": "image/webp",
+    "contentRef": "TAIKUN.design_rszH8oMTTBFJmHTkkHGuC.webp"
   },
   "dbdddb2e5a90b880257bc764675385433d9c0a1a926b30375e94961831a8df8e": {
-    "url": "/cgi/image/my-iphone__EBOTSsYFxP0MicRXPfzI.webp?format=raw",
+    "id": "dbdddb2e5a90b880257bc764675385433d9c0a1a926b30375e94961831a8df8e",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 598258,
+    "name": "my-iphone.webp",
+    "createdAt": "2025-11-08T10:10:44.954+00:00",
+    "updatedAt": "2025-11-08T10:10:44.954+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 5578,
+      "height": 4183
+    },
+    "type": "image",
+    "url": "/assets/my-iphone__EBOTSsYFxP0MicRXPfzI.webp",
     "width": 5578,
-    "height": 4183
+    "height": 4183,
+    "mimeType": "image/webp",
+    "contentRef": "my-iphone__EBOTSsYFxP0MicRXPfzI.webp"
   },
   "ea0266bb8b9642c735b1e489c449b69ae567d520377550f58186a85cea79adb0": {
-    "url": "/cgi/image/bat-logo_Sj_0irPFGDkSe3UY1cf69.webp?format=raw",
+    "id": "ea0266bb8b9642c735b1e489c449b69ae567d520377550f58186a85cea79adb0",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 11408,
+    "name": "bat-logo.webp",
+    "createdAt": "2025-10-27T10:59:51.894+00:00",
+    "updatedAt": "2025-10-27T10:59:51.894+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 704,
+      "height": 612
+    },
+    "type": "image",
+    "url": "/assets/bat-logo_Sj_0irPFGDkSe3UY1cf69.webp",
     "width": 704,
-    "height": 612
+    "height": 612,
+    "mimeType": "image/webp",
+    "contentRef": "bat-logo_Sj_0irPFGDkSe3UY1cf69.webp"
   },
   "ef4d89d2e88491278817cd15a5f7e4572f2d85a1a0d53e3a14553f46aa3096c0": {
-    "url": "/cgi/image/Clip_Hold_Social_SJVUi12lv_HQKbrdkmhfi.webp?format=raw",
+    "id": "ef4d89d2e88491278817cd15a5f7e4572f2d85a1a0d53e3a14553f46aa3096c0",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 29474,
+    "name": "Clip_Hold_Social.webp",
+    "createdAt": "2025-11-03T12:53:22.017+00:00",
+    "updatedAt": "2025-11-03T12:53:22.017+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1280,
+      "height": 640
+    },
+    "type": "image",
+    "url": "/assets/Clip_Hold_Social_SJVUi12lv_HQKbrdkmhfi.webp",
     "width": 1280,
-    "height": 640
+    "height": 640,
+    "mimeType": "image/webp",
+    "contentRef": "Clip_Hold_Social_SJVUi12lv_HQKbrdkmhfi.webp"
   },
   "f94d7813c92e24c787daa2c84d38d00de13b5f00f77b691a8a3f338d5c6c0d84": {
-    "url": "/cgi/image/Clip_Hold_Social-ja_8rVV6vB3omP2egO_uSAqV.webp?format=raw",
+    "id": "f94d7813c92e24c787daa2c84d38d00de13b5f00f77b691a8a3f338d5c6c0d84",
+    "projectId": "2cd79ce0-3989-403a-8afe-0a7521841b51",
+    "size": 27900,
+    "name": "Clip_Hold_Social-ja.webp",
+    "createdAt": "2025-11-02T13:26:56.446+00:00",
+    "updatedAt": "2025-11-02T13:26:56.446+00:00",
+    "format": "webp",
+    "meta": {
+      "width": 1280,
+      "height": 640
+    },
+    "type": "image",
+    "url": "/assets/Clip_Hold_Social-ja_8rVV6vB3omP2egO_uSAqV.webp",
     "width": 1280,
-    "height": 640
+    "height": 640,
+    "mimeType": "image/webp",
+    "contentRef": "Clip_Hold_Social-ja_8rVV6vB3omP2egO_uSAqV.webp"
   }
 };
     
