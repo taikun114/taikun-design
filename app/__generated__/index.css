@@ -554,8 +554,14 @@
   .c1rpzhwl {
     width: var(--radix-navigation-menu-viewport-width)
   }
-  .c1yl218 {
-    transition-property: height
+  .c1v2lg6h {
+    transition-property: height, width
+  }
+  .camytzs {
+    transition-duration: 200ms, 200ms
+  }
+  .c26idn5 {
+    transition-timing-function: ease, ease
   }
   .cb0rz9d {
     min-height: 100vh
