@@ -2,6 +2,8 @@
   "app/__generated__/$.server.tsx",
   "app/__generated__/$.tsx",
   "app/__generated__/$resources.assets.ts",
+  "app/__generated__/$resources.headers.server.ts",
+  "app/__generated__/$resources.managed-form-fetch.server.ts",
   "app/__generated__/$resources.redirects.ts",
   "app/__generated__/$resources.sitemap.xml.ts",
   "app/__generated__/$resources.wsauth.server.ts",

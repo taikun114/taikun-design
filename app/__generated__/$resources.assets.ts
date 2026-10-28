@@ -449,4 +449,29 @@
     "contentRef": "Clip_Hold_Social-ja_8rVV6vB3omP2egO_uSAqV.webp"
   }
 };
+    export const assetUrlsByPath = {
+  "/bmc-logo-yellow.webp": "/assets/bmc-logo-yellow_VVu09qXJFLEiRFGkOdX49.webp",
+  "/DragLocker_Social-en.webp": "/assets/DragLocker_Social-en_iP4HeJbOKCpMhX0AQqkW7.webp",
+  "/favicon.png": "/assets/favicon__m7IdZ3K0Zj6mYBB_NRV8.png",
+  "/Mocolamma%20Text.png": "/assets/Mocolamma_Text_xMSGPdZDekW2eWLDoaMQc.png",
+  "/Clip_Hold_Text.webp": "/assets/Clip_Hold_Text_7xfjYo61FK2kHd8sMjuo1.webp",
+  "/taikun-design-full-white_4x.webp": "/assets/taikun-design-full-white_4x_YHVfY2SEJ-AMoe3JxGCsp.webp",
+  "/DragLocker_Social-ja.webp": "/assets/DragLocker_Social-ja_iG2prKm_fTA7vgokXV34a.webp",
+  "/my-mac.webp": "/assets/my-mac__WflGA9MagKxQ_Wpbw-N-.webp",
+  "/my-ipod.webp": "/assets/my-ipod_4VV1F4JhGjjrdECWV7Rc3.webp",
+  "/P1002900-Enhanced-NR.webp": "/assets/P1002900-Enhanced-NR_hD6jPnELnUBh0bg4_Ycyw.webp",
+  "/philip-oroni-DT3Pj-Sxu_E-unsplash.webp": "/assets/philip-oroni-DT3Pj-Sxu_E-unsplash_znXryv-mOj3d5pzF6__N2.webp",
+  "/Mocolamma%20Social-ja.webp": "/assets/Mocolamma_Social-ja_N4-ZeEmvyVe6jwtqKB9_5.webp",
+  "/DragLocker-Icon-Dark_1.webp": "/assets/DragLocker-Icon-Dark_k1Gsrefkb8mJ96Hxxo941.webp",
+  "/Clip_Hold-Icon-Light_1.webp": "/assets/Clip_Hold-Icon-Light_6xVwG3k_NRwozWqef9WJ3.webp",
+  "/DragLocker-Icon-Light.webp": "/assets/DragLocker-Icon-Light_Xu5SwREXzdURocRW3PKMT.webp",
+  "/Clip_Hold-Icon-Dark.webp": "/assets/Clip_Hold-Icon-Dark_zVETDCFCycChbRHlev2dM.webp",
+  "/Mocolamma%20Social.webp": "/assets/Mocolamma_Social_11vREwUldiWAp7_-fqijR.webp",
+  "/pp_v_rgb.webp": "/assets/pp_v_rgb_oF3xjPJwdW1-a0InZIXT9.webp",
+  "/TAIKUN.design.webp": "/assets/TAIKUN.design_rszH8oMTTBFJmHTkkHGuC.webp",
+  "/my-iphone.webp": "/assets/my-iphone__EBOTSsYFxP0MicRXPfzI.webp",
+  "/bat-logo.webp": "/assets/bat-logo_Sj_0irPFGDkSe3UY1cf69.webp",
+  "/Clip_Hold_Social.webp": "/assets/Clip_Hold_Social_SJVUi12lv_HQKbrdkmhfi.webp",
+  "/Clip_Hold_Social-ja.webp": "/assets/Clip_Hold_Social-ja_8rVV6vB3omP2egO_uSAqV.webp"
+};
     

@@ -35,7 +35,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 const system = _props.system;
-let [imagePreview, set$imagePreview] = useVariableState<any>(false)
+let [imagePreview, set$imagePreview] = useVariableState<any>(true)
 let assets = useResource("assets_1")
 return <Body
 className={`w-element ct4g75r c1y1b6pq cocsuzz c1tjbx48`}>
@@ -316,7 +316,7 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname)}
+href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname) == null ? system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname) : String(system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname))}
 className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
@@ -326,7 +326,7 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname)}
+href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname) == null ? system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname) : String(system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname))}
 className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
@@ -374,7 +374,7 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname)}
+href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname) == null ? system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname) : String(system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname))}
 className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
@@ -384,7 +384,7 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname)}
+href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname) == null ? system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname) : String(system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname))}
 className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
@@ -621,11 +621,15 @@ className={`w-element ct4g75r cocsuzz c1sghiiy cm0jv6c ctkuwo6 cz5x5xv c1lnxrb4 
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq`}>
 <HtmlEmbed
 code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
-}
+ == null ? "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+ : String("<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+)}
 className={`w-html-embed ct4g75r citdfdm ctgvzkp cvk905m cocsuzz c1udsxt8 cbepowb cnhgshd`} />
 <HtmlEmbed
 code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
-}
+ == null ? "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+ : String("<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+)}
 className={`w-html-embed ct4g75r citdfdm ctgvzkp cvk905m cocsuzz c1m016cw c18375g3 c14u4hyb`} />
 </div>
 <h2
@@ -787,11 +791,15 @@ className={`w-element ct4g75r cocsuzz c1sghiiy cm0jv6c ctkuwo6 cz5x5xv c1lnxrb4 
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq`}>
 <HtmlEmbed
 code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url : assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url : assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"DragLocker Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
-}
+ == null ? "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url : assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url : assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"DragLocker Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+ : String("<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url : assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url : assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"DragLocker Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+)}
 className={`w-html-embed ct4g75r citdfdm ctgvzkp cvk905m cocsuzz c1udsxt8 cbepowb cnhgshd`} />
 <HtmlEmbed
 code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url : assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url : assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"DragLocker Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
-}
+ == null ? "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url : assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url : assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"DragLocker Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+ : String("<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url : assets?.data?.["CcmT0NsdAkyBbE78-m6kr"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url : assets?.data?.["K29iiY8w1Q_iEdArARgYe"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"DragLocker Icon\"\n    height=\"48\"\n    width=\"48\"\n  />\n</picture>\n"
+)}
 className={`w-html-embed ct4g75r citdfdm ctgvzkp cvk905m cocsuzz c1m016cw c18375g3 c14u4hyb`} />
 </div>
 <h2

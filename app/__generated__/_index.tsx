@@ -12,7 +12,7 @@ import { AnimateChildren as AnimateChildren } from "@webstudio-is/sdk-components
 
       export const projectId = "2cd79ce0-3989-403a-8afe-0a7521841b51";
 
-      export const projectVersion = 8619;
+      export const projectVersion = 8656;
 
       export const projectDomain = "taikundesign-msch7";
 
@@ -57,7 +57,7 @@ import { AnimateChildren as AnimateChildren } from "@webstudio-is/sdk-components
 
       const Page = (_props: { system: any; }) => {
 const system = _props.system;
-let [imagePreview, set$imagePreview] = useVariableState<any>(false)
+let [imagePreview, set$imagePreview] = useVariableState<any>(true)
 let assets = useResource("assets_1")
 return <Body
 className={`w-element ct4g75r c1jwp7ay`}>
@@ -337,7 +337,7 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname)}
+href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname) == null ? system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname) : String(system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname))}
 className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
@@ -347,7 +347,7 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname)}
+href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname) == null ? system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname) : String(system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname))}
 className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
@@ -395,7 +395,7 @@ className={`w-box c582q8m ct4g75r c9nulm2 crt9jac c1tjbx48`}>
 <Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname)}
+href={system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname) == null ? system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname) : String(system?.pathname === '/en' ? '/' : (system?.pathname?.startsWith?.('/en') ? system?.pathname?.replace?.('/en', '') : system?.pathname))}
 className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
@@ -405,7 +405,7 @@ className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname)}
+href={system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname) == null ? system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname) : String(system?.pathname?.startsWith?.('/en') ? system?.pathname : (system?.pathname === '/' ? '/en' : '/en' + system?.pathname))}
 className={`w-link cawwx57 ct4g75r c1tjbx48 c16pbu2i c134oyhg cfjvzvs cugs37s c1ehzuir czl1oq1 cjguz9e c150yh7g c10b6v8 c1v1vg3v c1m3qbs6 caxeu2k c11r3mbb ctkw6e7 cx8kb7m c1dtvkfo c1b0zwzq c1s2s2jx c12sln3g ck3nsmy`}>
 <Text
 className={`w-text cco206n c1gy61b2 cugs37s cwljrli`}>
@@ -905,11 +905,15 @@ className={`w-element ct4g75r crt9jac c9nulm2 c11jmddu c1w59rtg`}>
 className={`w-element c16n9ye3 c1h9nl72 ct4g75r c1tjbx48 c1y1b6pq`}>
 <HtmlEmbed
 code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
-}
+ == null ? "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
+ : String("<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
+)}
 className={`w-html-embed ct4g75r cuyh25w ctgvzkp c1uf8c0t cocsuzz c1udsxt8 cbepowb cnhgshd`} />
 <HtmlEmbed
 code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
-}
+ == null ? "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
+ : String("<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + (imagePreview ? assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url : assets?.data?.["LTycTSZkXse2qYajSDl3u"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n  />\n  <img\n    src=\"" + (imagePreview ? assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url : assets?.data?.["Im86voeR-u3NEHk6775w8"]?.url?.replace?.("/cgi/image/", "/assets/")) + "\"\n    alt=\"Clip Hold アイコン\"\n    height=\"128\"\n    width=\"128\"\n  />\n</picture>\n"
+)}
 className={`w-html-embed ct4g75r cuyh25w ctgvzkp c1uf8c0t cocsuzz c1m016cw c1dt2aby cqu6eha`} />
 </div>
 <div
